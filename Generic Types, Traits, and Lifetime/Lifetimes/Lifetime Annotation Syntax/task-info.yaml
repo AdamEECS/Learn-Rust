@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: j73jVEjZ4Q63mh/fXRRvLvwTCZ+2X5Z0pkIb8Ok3Hj6WVA4Rmu0fzrQjdTaJ5kWIxFPKyUOrWDjgG4znfFevLGYp9gViZ1+vKkxE0Gc7PkE7QMbv1yPrMQAfur8jK0AgtWrE/7SmXHh6HF80NTT+bkNPIItY8slScKgSu42u4EEqZaD2zhmHdYEcAT6h2U5P5L0QIS3TuyaH3J5Wrf2DNScDklmISBS9mcP0V0SCFKoXaNbS+cX8dR+n1VPRVcN8Qa+5DPQ9vDQCqbqJpqnamounJ/05+VPocnrYwHVtIEedcT8Cp0bDM2d6dVtWE9xNI9cnm20AKm0Tv2P61Zhfwh1SeXGwauPViyugCBPwnkA=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNWVXJCe2bApVvQT28h21WERbwSpLjePMiJ1SMymoj5x7b/iz7m396bbzFGEBImEgXdZ+ePgJjQHNOr9T+Cbw/C6ElXUXMzjpG8KfquB+Isy
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Annotation+Syntax
+status: Unchecked
+record: -1
+post_submission_on_open: true

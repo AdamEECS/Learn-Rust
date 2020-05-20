@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Use a Tuple Index"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCfWHv1uQVUWXhb/r0N7fdAgqK+ZP36w13QYaOc65d99LYc9sbJpqQxEJGfLUtF/5wmMmtZcIpPsjulZ89u7tLUUCG9JtQQg7oMhxQi/GsjwO1J74ST3dfe9iKI/r2q1jQ==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 13
+    placeholder_text: /*Access the second element of the tuple here using tuple index*/
+    initial_state:
+      length: 65
+      offset: 81
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: QKn6HuqfkBzEBdHbUXMatA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DCyp+z+m8DBRwYtCpetGJ4TSmnK8dH0+p5+/M9hWw1gUX61CrMeoY9q1Z3O0W5RGksuGw7Fu4Zob7Faap6jaP08FsnaO4+/upgrVgk7kfFtSKfJQpult0iUvnQO2vWRUa42ugOJoTpj/Vl6aZbad3nUAzxAEx6cY9V9WHd0LbbfX89Uh5W43+lw0Qp57a79zTw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 46zQdc7odwehfbcrX7vQ3pqdVI77buRnnvEyd1NYaqhVySS3Rnbr45tNCMLw1SZ8a2M6m5ujFmM8MqOmBXkBXMliQgwX16zpkLXfGP2EAy2zBaeeGMFNErfY6ewuC3znqGZ55G1khBihNT0krJQG1uMNo2h2+Ka7DfUIeMKM+476ZYEtpATW1nuJSgJ9H3iuOlw9NH4YoVdkXy4nf8BXpOSRX+yrsC6/Er16QuiefECOhFP6rgpkwm6dwPv04Bc7l3s3wFxMnqs/JsE3jB74Iw2ZWm5eSoeS/CvG5N7x+iWqjHNUVOXl+fjIoj7loLnIzKLs9FrQa1xPyXIGQFKbsd+zLBT+Ot8ThFjfIWHDpSGClK7Ea7WxExUypE0WiW5D7qjvVgf5Ezyc7kxDeMNkVEPXBIA2m9PS3d7XbGLMNLn+JBHsnnpoMtJu1Gse6ZEZw5qMDtsgvZch9E22vGSy7tPNufqdKx9NziCg33qG+94+Kkmdto0sHPUIFZqh6NVrE/x6EGLjs/wGK5whHAw0x5kq8cy8UD0bHvkOrvWZbryIlXwDfI+cIXIxCqAjWLjl4JIScjLl/nHnyzf6OZMM5Degt9d/D0ZfsSXgIeACo1Jf78zEYk3uL5gF90U1GZ08qqrVE40usWcDIV76KRKcB3S3TAsR0hdgW72XL25niTFRCa4bLrNEEPZ50Sdle1qmtCP7QMzpVr/sPER7XJ6eFlHVDyxofHxYABxUcxYOxbHo7kFKy3eHJ4EqGjdXxYv4gYORmmwq3duBb5PqQv2IGP+8PjHp3MG6Sb148fJMPnKxt1im7XFonPIw8gy1BJw4GhjBrLEL2QjPHBlKsc5PsFvw86UgJvTtjTdUhFMsbD8dZl7xaLuykbD0kALbkcdEgJeqnc4ga4b0+NbZ5kj5rLFkZnD/LLyF3EE4fyqtlTwf2hWuIRYpNl7CwXN6cXJsnQp4YAWhnAv0ddR6531xDBX/uyYHcPCV/EjJ09d7uAE3gRapaCN9Z4tgHXRuTWsWcjANZ5Wc0foR1kFC5Fmo/B6SOyixAhOENA7DzegUlS3pu4ySCvOdAQnjRMIQFGaGfhZDTFG8FOqjsWjHCi+Hpmh/y4zGiZl5AYi2HxzWMQitcoVT1y+YuM6CMY+NGznIckYE2l9s9o5K11DPLmQL0O1f4Vj7HOP2yUaavWD8VzagTPJZDfObzvPXTo3GUuFBmmnO5pCqdJRbNt1Cf1Io2lezP7yqHfj2jjzHXs1xD2n8BPKuHEE+XLEFVEzCa+CJruiSmIQGosulumuA8IaC6A62/aebhiocJcIFHUx69bJYw/8XmekZL7pPlJQuMqjuB1iThmR6MA3Kde1xpozAHv0fEGduLen5eSopvEiUu/9nYWorFT6nvMGzB6XEO31VYWalwnzbx3WGo05PWrARyFR0HTIL4ake+pbppZSmJX7DiKDR2p9ni6kqFCfq9EiYmM14YGpKaEP0O8hgFGFV3uDJUpny5T3lVxchbFB+uI3xrIa4sXpcwiNtHFGVF2AM
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+Tuple+Index
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 05:48:12 UTC"
+record: -1

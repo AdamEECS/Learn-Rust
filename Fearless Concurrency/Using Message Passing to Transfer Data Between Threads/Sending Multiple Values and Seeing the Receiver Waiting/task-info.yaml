@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV79Ji2oG1qHyYJ+62WsmVSVnyQEVmGURTb3CQwfdft32Ev9EryXAjgevy4lUyMxn9wUYOO2mDP0dlMvCp70LCyymr0Y1SjZVOQyBcaRYIbMpvqrY/He3+r7rv/MwMSynrBjv8bLGUrSMxQIcw7jIQkdXr/p3Bwr9wlyedCgfFH01bd9ZYE2LUZnKfG7EIN1qCZLJbvyU/fVnph+wK6dO+UrjQqD+xlT54UWpZSJAddlcHHH/bTPE/qA3EU+9V9TEcKUsGTqoVfGHLHAjRa7koEC3SsF2P0Q9XdQrEOvlo0ZuJ2yVHwGGVbnOTjpWR95ZQjJFCY88BxWApHHj6I3VfBZN4pdHLEtmY6PybSgAZazvZGDkcgjXDyZN6u8/IIWfNAJ4FxyC6BldPaClavEnq5D5XzvegWJPYe18T+v+DXM+oaIPswMo/RB6i665ym6IUqJNHiH5fpRaFscaBHjw12iy4KE6vwRi2gy68ls6N9GjF3YscYRWyJg1wrENuWjQg1q6cXSW1VSmgjSV/jisy1sbyweq5sOjgaNO+xfylWDwssalUMZ4aOemrVz3YwthjKIU+CRG/iMU/Qod1GwqiDYGbazIkQAmhx3+56UYS1vyfZ7xj2QXHGoB8PyOjLsqe2jdcNWgzMY6LfSCZL294AxjUqd1d3HSfdHmvbWS5iqOy
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfAJaiehDQvCTlrwM87Nez26s/H/jiio8gmCqeLW9y4e22s/YVGD1WcpTSZeSPtcwWhQgrdYTnh5gjN3FwetKZpQEC/JYZwACPYenWoH+V2eewPSElE64dN0JtU6D+utDUQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Message+Passing+to+Transfer+Data+Between+Threads+/+Sending+Multiple+Values+and+Seeing+the+Receiver+Waiting
+status: Unchecked
+record: -1
+post_submission_on_open: true

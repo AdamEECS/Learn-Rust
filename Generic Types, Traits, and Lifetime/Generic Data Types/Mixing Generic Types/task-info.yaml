@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 6wMqOHH9nbGac/wHgpylbmvxtR/9WQiEm0vOb95MZg9mXLXnGPvwRyzcdEKyqezO82Rx3/h02SDI5K8+gKP8YDN5lTIl3Yk323tLwrIspcGfw4eggNWzp4iIZQklMdBdwsEAH8zHbimcht+RKsm5o0gL2Bfg6E0wSNS6lC+sMdGM8kNvhKC9SDFfFjfFeFpQ8LQw26q7tsrT51LZHQ7HMbgDu48sqD9kb5Owu2li4D41UPKF66P2RlXFxtjw0rRJAaEUqm3Ok6+tzyqu2HOI7ytGBepgzstuf62/iq9RFGwLQZN1yAwH5NFSX6qgXvzxxoCyIuGPwD5UJlxwR1VuNYIzohxNEUvtGhKKjfdzh9Ny0ai0lPih8MjK+R6KsaoyFsxqVWLWSEGYNvLKTTWisAmTgR+KnaiUeVGfPfYSP1CNWee8UwI5sxqKd5rcQiBtklX2rtV7xtDJ+kAYfXKH1csIv9F+msusg8BjrWr9OCkIeL9LsJhLEbgt57F0QfR2vSeFpR2aYDlKhHEt51tgnw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMuzBCB2z17D2aSEzuQummC8R7a/J98hWLEYMSrsig+8J0rcyZgmtI8TOLzOyFQVs7UI0kBTTkM+c82MMCfb9kU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Generic+Data+Types+/+Mixing+Generic+Types
+status: Unchecked
+record: -1
+post_submission_on_open: true

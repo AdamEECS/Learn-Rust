@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH/nJ7fronDq8mjql2KaRpylTdQq4jniGUc6sJ16WAR/cZOJ/zxKl6MVZbdAhXRU+guSft3C45N0XyrKIsVto4HMNjs1vgG8XHJF4mY25cWfknppvhCWYrENWPkpKhA0pQ==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 99YM9R0C2insAJB3LLfbof+bOldftv3XtEFhBRohzqzDwDIieZkmbbg8aozhtTok+JZFXSzspUbfKER/7t+5Gm+KV+cwmAqGO7PH0zfaW/MjlViO4QvIrXmyRQ5V8BQPrKy1WibqFNhKrWleI5ZBnQV0xGaC2+SgJSwNUYo8u1s6L4uQupUWZZxrmQSiGzRebMzgHCK8frafJbJpCB1kAtsMz6yB4hAfOPpgchzVmLlySJvJ5oHe5uc8ZSxTwOsPozvnkumQJxNo9++TFHxXt4zqELbim0vF5pP6nSpc4OXy+weOvonMVNqB/mazZYNWnyurDd1B2KiWM0kZ5pX/jQi5MEOSqrotf2mH3Bokcger+IQXt6LcOFYvVds0C1UmnYnWn755DWkrNDROqFWUOXz57xz4xkX7cld9bYg53Jrh4vH43f/a+BTFcOKqegvMpYNeDbuceVczY6bFK8d9OMsgYv8djVjZco/K/xsMf78=
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Bringing+Paths+into+Scope+with+the+use+Keyword
+status: Unchecked
+record: -1
+post_submission_on_open: true

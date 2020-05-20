@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DFGKcBNlAzwLtAXEMkHPDTucWbzMXnXI4ZXbWfcDjB2BFyj57woZz8PbdxP2nwT9ZGinNLttXLeos2BRpUr5JSceHM9RmEMw841/6NUZe9Bauem0W9bR3PGCjr5fAsNHPlrultXpCrqViV9adOAZ2dB6xW2fF1ju9JmWxe0xdVR06fQ1s/t1ysEEwjTwNQ3PcK5P/stfjkt1QRIjxnX7i/Kb4WfD0Zl7HXJfiefOXJewcjVkmPtSK1bxEVTjKw+rCG3H4X/omWQrxWZuXAPv4I465me1Po39ZlfYgdhHOdbrtbClv2glqOZ/B2rXLHMd23fT/2jdiSUDE/8uu2fuU3uo7Exl0v3y9jID+3TqLxh3
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfM6dwX5B9DkyYWwyclTitXf4VknYch4+gmL75+FOWcsDfkdTRUytaQcDfSmsdsBLrg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Looping+through+Ranges
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,15 @@
+type: theory
+custom_name: Atomic Reference Counting with `Arc<T>`
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: AhDqPuF9qOSZxu9Kybuo0//QaYXwHGz5TkVrnSom69bxphDKMFl5gDv2+GqkxtxFvJmxOMa+KHqKZALysA0+AE8Lki73siKzag+feC9DdtKMyBTAmftJICc63JTaWGg7wzgyaKFFxRu/0hEFaRcNNkpPqba2b0JTRhuXrx1XbzsR0kiBplZj6EpbMr1B86xrZUkPqK8ucrKHd678Ffuw+V0Dq6yHiPJX0cZR8iFa+ajD0lgKVyP9d9ld+trvwEz5I7Nh823a+ee74YGj7fY1DEc1zEs9FT97+RT3A9bcGTkN3Qs1S6H17es2eC0f5RnQw1X5nmx61eX6lDBSkB31p4NZWxFM+5DsP0ufi6tOmdKD9X8OjrFI138T9F8pBglzlzK1VGbbt6l0zKn5h1bO8iBPdy4o5SAMf3Izu3RshRxqLoPSIiQnqnGTmJWrfCPn1AXeTvldzrWb6FRM9KVKc/uG/vqWHbvjbVo90AfOSeffAHi+TIZurThBS8udwkIBLksZX8cB0M1TmOrWBFcRE4B/BRuHLQweol4n/XBHhOYgGPOVeE2pVCeCFeyR1tYtDbdM9tseA8TM1NGrRk5h4RNG5eo1TGfxw+fXSHht0j2kL7OdSR8uuxy9ok5UHERql/TtOFPRobSt9rttilFiNQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPvvzrMjUDBZrxlUYj//TPJzmjiSMK/hBr4zaVndPGqiPWV0cO+RElIcTGpZVtkcqtUHnqHXdpNOeQK6F2AukROA/Ap5sY1qJSxHTRgMAkde
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Shared-State+Concurrency+/+Atomic+Reference+Counting+with+Arc
+status: Unchecked
+record: -1
+post_submission_on_open: true

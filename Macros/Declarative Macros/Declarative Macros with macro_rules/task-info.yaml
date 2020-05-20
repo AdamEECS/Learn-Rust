@@ -1,0 +1,15 @@
+type: theory
+custom_name: Declarative Macros with macro_rules!
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: K74NC/XDU87H5BXshSjrwyQIDxEu2i4Yd4d6hkcYXusl6JK4g2Rp43VboMv6UARm4ay/ut8ky0is7cgUcbsJuN0eVNMgICJIjVV1RnYsg2XbTPGd/vW9t+G0fS9u4Fi64XuWJtjs7s2CIGJjx6ssIq8Z+VAULXC56ICRTVagZRlAY0MSuJiIiAF1Tm/gTnnclSb87/zGcS0OUPRdPfiLHqpLDke2kjJRKH4S21fm/Izm7L16nNtS8gAxWDkqglhvWOa/gX5pkAQkk0qeKi8O+KhF6aypVYV/g2KZdFCJM5ldrVdF8S5Smu/x3nEvP+MWRvlW875S9UC2UCHcDxISsHBwKbeVXeLs/GdA8TR2beGNmVnexzmfG7SBmVj3us5maw4PWDGygYJHu+xu8G8cgjm8lXLziVE3k/OGKx4N63BGKTu8bBdxG2Ii7zpL2t5LBre8N84cIMpHgsZfoeDkEnMb8LYWsT6Mdip0B44a779CcEgUnw2Tqqa8jthCMFjHinl4Q5kHJCDucAZEdc9yQSxkFsiYv8xrHQv/zta+HtJ3ysF3gckaRHN0tjZ1y9uAqOV4R2keRovWhGvQ1OPiwJNa8i1q/6UZ4OYK6zfIn6GO0iC91248M3UksDbHOttcQYryAnCaW9r8yFb9beRcGw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHkl9uPgb7U+CA5SgxHPAfJu2z4GePoNmSBoBnxYDLyT+9AfndcR1hBjcKn2+1gyGs7AxsOGKaYwKph9zPUwKd08SdItQKrV+3FNWOXuR7Bq
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Declarative+Macros+/+Declarative+Macros+with+macro_rules
+status: Unchecked
+record: -1
+post_submission_on_open: true

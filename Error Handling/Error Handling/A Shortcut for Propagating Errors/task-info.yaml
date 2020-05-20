@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: nInZXtpFMWwpuZVc+JpYVk6T9FPcIdOMoRk3IIKlQ4NXa3ddZX2zB8AfUcjaUjNdVc+DqchMi4+2VhHXO25vZmVIFYaeNJ78jWG5aBdNwfhn1NFOEcxNw5K9NzEHLhXpJgQEWuEpB6b2lhew3hxdBNpQ/D0aYgNP2YdpX4uw1heRyR0GrK9adI7HZCDjI8aXXceYTOxk+cC6dsseqoo7TGhHHYMKQPDe6Hf9esk8+Wd5DzoTooxyYc7PsoR3GBmZFnUFW0DNFm1aEihoYxEk8D13JYDnzbwyuqCF1aMOiperuYY2f86RXUmA03/28CLcJ9d89CqFpDnsBUh171oV6c/Y8kaObrTBga7v+ZA87bgFc630uNfpj/yc6pgn2PJE90gaQbRKSY3Tf+NgXXdJxRJxPwMYx5EoC4RTmmn0ewcm1Dy23xYbxMx78Y97JBZrj60EUfueMPTLc+B4TmDm2zg5sMm3HwOkk6G1Vtq0MSvMeojwIQHFT/tAvxXyIdhxXItfEJt6QyWOuytHmcNAiFdXh0gHE30XwwNtkRHZWUXDrpnUMXdqjM604SzRA74hC0nx6qV+nmpmvRt2C67nFj5J0520ALlMC6JSQiImYKO7XDTGaJ1Xfgz3bZQaxC0RiB66QQMyk0XUch74bZCDWCRNPZD4FuV6N5oj4GDXegSdZPo7F/yqXtzJu8q5DdJ75Sz88O3+yKfnGV4xISeGzw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfILXL2ZWN/pAHscISlxGO+mxoblgyndThBXGsTmlM8R3erzTrhDN5PjqWI3YlEXjcKa4sSe+2ByMUHXSF1GM1tjTzIvUh74VPdN7GW+30QG6
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+A+Shortcut+for+Propagating+Errors
+status: Unchecked
+record: -1
+post_submission_on_open: true

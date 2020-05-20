@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63ltM+bx6pFS9xLr5aL/RRkKfYtYUPFNtWME00DeFXN2OVV+8E1kS6Odd3Y09Ck/UZsRsCldj/c/KZs3N/wH5aPM9Xpf4ebCT1rGamENLBi7lWAbyffrMJ4BLhX9fiNylprHGYqLEvkGzlV9rgdSkP/LJXsqaxj6iX+wB8xqCx0MNJ+zp2ga/N9DVSDbzMBUnVdlfZySVcjuykuns5H0BpXV+/C+whXro7PRSh+PtWy/vqLr8N5EUh+IY/sjtMKnuA5jX5lkYfvMAZmQ7JPtV1e3CFO5ReRAjhcU91tjhJQ+Bz9r20RtFiK4hjpeIgAHLs0qOdQog6ckoXuDVZ1hIkaKPl5ytTXuWebHls+u9gnniqPx5LkSfG14/TYrmdzGf33lADkmnsWh5kfrNCVbCjhSKNUKsUngxQWRmaFxsWnqG9lMmYtHy3TIMNP9US5WSMPy8K9FD1Qw8aGXTF+xeukntJMbI0vOJfnUQoo512KFUtqxotQXArAWI2/XPk+eRjqzbWN6vkzyJQ9ezO8jqnGcYqaF+7JnfhJ5m1M95/1GLgAzhKt6U9MpuYONtTuiv+nS2jVkAzY4SRVA5dLTvTxpJWjb4pOpWR4y6+wn0uJQ6NoRrpRASn21u8G/7Do9Lbwq0bOYldOrqYXjjrsQYEi4ad3trbeJlNsnkxEFs1R4IR8i4AIabfwrALwx0oJQMw62dXrYwIc3g9XCFR8Y1mh+HN/ieRipVgNikCmaxgKh1R5htOJ0ZjZl0sOCGD/VYWCJ2q9pjcsxdkdOat9tsoob9
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLaqDpDRgbHGWWaupURFBFBE5ZEdY1Rh9WThpze1rvsuY5PiI3CrH2TPg0NKVFe6YwhIU/xslQyHxFfPsZyk9YU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Hashmaps+/+Creating+a+New+Hash+Map
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKo0WnlMgNu8CmJfAzJGCvr4UhkDeacFsG2Dsh+2ck48/xtD0gV7bQVqbCHbPcKhVpKNe7ad+eNpvHMF1GN86Zs=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 99YM9R0C2insAJB3LLfboWoJLIVuRUtDJRqi8Dwp+1to4OWSW4A/CAUwiqNK+zuJdq7L71CuzJ7ZnObzWVYCzAXBxJ9YZuPEEtl4nd4aSczIU/+wVpj8Y2QFqY9twVq5e/pa1Gp/Zaz6H/RkBwwUM6Uy+f12YEkiqeuBqQV6TGakJTs34PQwcWARWCHAPkHHHBEPJEr3OZ/6X60NlKkIMBU+utSR/zwkIYz1ZRwaKmpiHgV1iWjsbgbqgIcVx+AvGBk1VF3fvu1kPtBzRutNK1dk1jZd2mv8suT5t6fJHls=
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Defining+Modules
+status: Unchecked
+record: -1
+post_submission_on_open: true

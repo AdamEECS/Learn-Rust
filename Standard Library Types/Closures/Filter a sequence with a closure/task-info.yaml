@@ -1,0 +1,29 @@
+type: output
+custom_name: "Task: Filter a Sequence with a Closure"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 198
+    length: 31
+    placeholder_text: /* Complete the closure here */
+    initial_state:
+      length: 31
+      offset: 198
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: jts4GtHyclvJ8BR+WRkfIBldB4/kRAmL8j6Y9cshUlqgjpUZklbwYLiyFo0ixE/z
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAW49X/Jbbt3FBUZg8SNmoMoXAaj5nMTdtDDw2mUZs+KdBJjjSHXaGdxkQpFLrJ31T26BUNVPQvtqjpereXNKLiSJdwSW/g0Id5xSiV2/2i15KQr5m+01p7ESHKCdlKed3siAC6q1L11qGZYkaxiPX3QB0eksoikmwTYc/IhYvVABhc3WfYkDaWLGH+wq8ADvSrKmRD6TnfU8LCj7kFg4uwc1/dXgzu4ddFYtbbC2LwSCuyZL/0x+vJwRQ5BlvAKzG7kI5Ky/vxkMumPmhpV3m5NxuInb3r0iZZekLc6//iT2SnnwasPoaOO/mQSdBH4L4Lwn9I245+I6/BxT9yNFV5G5l3ZYYZpX5dTEU+T6IMWD7pDlwDpgGlq23B6kACebf9aD1tXyG0+uibIiN6C6zlIBFPaPD/rs/icKwlymmggnD9lftAig+g5YbdnPFJ/JLDHy9BAzsQtiOxb08uqLuM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCoSccEDM5LYTIuL6DpYGrKGTXSP65FSMR5Me6poS2TiWAZm+n1tFDS3PBbmNeDXgMqoQfz2HcqpBX/Kty9WttdVgyLlsqB3qyW4j+UtHUUY
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: C6+RHPO0ZqoqJlKOP+p3R0pieyB83hZDbFlYLjA1rdvTKgBY+27CLOE/zoF9CnR9
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Closures+/+Filter+a+sequence+with+a+closure
+status: Unchecked
+record: -1

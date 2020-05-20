@@ -1,0 +1,15 @@
+type: theory
+custom_name: "Refactoring with Structs: Adding More Meaning"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 5Z4up5ZqM32p8HVJy/941Wm3VRA/kW5YmJ7oPgUjQbr8QDGiTyGzwbNSUZyKbpA8VTYZmXcrzuEBj/qT9ohUesGrHVh/Fo1+p3ea1/dAXysHIm4RrsVhBEjAU6r/b0ELWNuKm3od3ppXPxs4vXWXKYRHdre9D0GmNLtY1LTwqhwuwMnhtE/EAjKuVEHNCqITnQOTj3wMX/eKTmJiPzzaTtTRmZoINRII6Kytyt3RtvIlDc4f73I636esVxLSRG0QAdN8ZU4qS73U9eX0IEO0UNoOw8VrA0QMYqhKZD9dwpq0LKQt+2cRw2PwC0xW3J4z1v3IbRUsVXI6DMIv/0xidJPdHVhJO+jDiry35h34pGlf0AIMyuYjBSkHKPp2NUPMS4YGH2TJs7q9sSW0eK5eJtd7M7tu3/YY/Dd1ujBy1cRBEiXmGDjBHxLuTdA9iGV7
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCPe0sGy9bOLF1EfxbfHRA0HdZJ78cwcFd7YAMF1FpD1iCOzIHB5hqVTeSudRCRTjKhWuAy8al4JicrgGHJCGDZaxIdo0fZ4pO8e3nYreGI9JU6k8un63YUnxOLCU7U5ug==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Refactoring+with+Structs+Adding+More+Meaning
+status: Unchecked
+record: -1
+post_submission_on_open: true

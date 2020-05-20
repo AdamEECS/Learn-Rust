@@ -1,0 +1,15 @@
+type: theory
+custom_name: Sharing a Mutex<T> Between Multiple Threads
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 6yLPqZoQUmeGUh1XeyVonccirO7Vmf7aC2eG4/Ojt7o8nTPLCE4rnzv8DZAXsyPnBMiyq7LoyYg9I7DxQLZW1sSSvBd1nImZnfppyapSU0X3LYIdbNixdivFkjOX8Zn2K6/dc6FJjzlyH5GzIJkj31wyGlWrjho1YWUiwuO3ZJYQiJAyHP05zuLTTfMogIafuoHgMT6GySxfmY2nW+BNLpTCAU0nghbaVX5dOCUjQ6ka/ncnRqMpuPomC52Uyrg0Zgd9lFCiukvQWAzwjoRPOfCOgkdCYt29P4pZvtw+l3tKCt5MeyPPoDpGr8yN60M8ghzRIdDqcdoKmf6CGpuj3xmD6UcLkQMtaN93CcLJwtbltPU2eyiIzI+jXYg8d2fLH9BXyyZ50VOaDKzmxXE1G6+lLfJAnaiqIchvOhpwAClkpRayNQtKK8fGUzN+oA3FFoRH5cirutwvtHXQsHSkWXEAUwAY1i5UzuUWf6GHZ/RxP1+esXUEbRRKu37rKVYZz0ughg9v6aiTpuamtKkTKoqXfCqDUBYN8H4JzEsyLa7jyn9JRxXV+rJ25ZZNldSDHgGWLUPG3K3bTAapQ0vpmiSJUXpgmQODMpwHLOivh7lKSIRdEDnMgy1IamjNnIXd3DlTBWCShG+mFpTAeFmgyw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIWoQK1EXlIFQYwsbp0zWGegjhv5Pyn+NRvsNmiR7EHkRUUSUKX/RY29AW5NF/vQxE1y/ZW/cj1cuJoAsRwiWM2Hg3SOB5AdfODeznElWi/b
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Shared-State+Concurrency+/+Sharing+a+Mutex+Between+Multiple+Threads
+status: Unchecked
+record: -1
+post_submission_on_open: true

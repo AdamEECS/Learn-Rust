@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Task: Morning or Evening?"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOw/u2Rcx8COeEyK6PTDDtqs1K3VK7T2dqUUeit6rxY+o5PKJnK1iqpi3ktdEjI7QQ==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 109
+    length: 19
+    placeholder_text: // Finish the rest of this line like the example! Or make it
+      be false!
+    initial_state:
+      length: 70
+      offset: 109
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 2+7POt4eiymUghlNx50j/EMpKvYr/2BnYLc9sp6FeNI=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAcL/VAHWP7SW8p4yJFMUf4Ui3x3nyZkpcmDk7bU8GMQfeqmchVxMNDBfynhmMJ8Ms6I91s4cVBRTNRIDPsLpMf1oloKFF1lIzW8XleIU/H/6j1WtiEJ6trVdgE3i0ME5bH5ECcHltuifMPLy/+GOSkNoS+pMKiOrqxqzvhQ/E2v0kMkGL9lFaEKhFVU3NI27VIuLM4XfqTOx6Et4MO+SXKvfHskw5gOori2ScDtUZgpxcl53DBZanlk4kEVHWJitmlv01dQPdNx+yL38X/dTXrwk+VcBqBMCDaYTCdcR2qdiosk+IinsjXevAV+7lxpdw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Boolean+Test
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:01:21 UTC"
+record: -1

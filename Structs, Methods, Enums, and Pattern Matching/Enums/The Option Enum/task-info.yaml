@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBTd03pY6WlDIIe4xVTWirDPuPDNZJhipJY9VLBllNmG/N6hC9980zxMt2l2Zcb303JQ70QsKc/zEea/pZQqdlY5VF71Bz6ZKH/PkOGp6+sPzi39JJuDpzMI6HXRCwMQGC32/iapeDF6qTNfgwl/xV/hZ21MvoPGUO0uelKsi86uwNpfC5ActFZlS2lRGZl9Ii/SJydnmMdTynbmIoVd9bZhwrBG+Cmq9wHozLOWCfyGw6EP44CdP1AIqWfRaNJQrp0BeDTnKNBKHvlRCBuGJJqzb0mDC8PTdkvqy1RHqTh1qqv0N7VyfMWbj2VXoPYBVCg3b/Z284hO0g5IfIsOV6787KC/gUyQNuFxcOh1/jJo9OYvUQ/EfPm4fuarM2p4ZPacDoBGvrGpxhQOUmA9PcTwvgsqYYNa0PKSqrkos9AN
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKd7N8+FArx4oHzsNnqNszIKPezXM2tjVAiDkACiHfS3PTClmF8F67snVWDVWjPP0oKGHSKjDsoa5d2ZXDLqNBU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+The+Option+Enum
+status: Unchecked
+record: -1
+post_submission_on_open: true

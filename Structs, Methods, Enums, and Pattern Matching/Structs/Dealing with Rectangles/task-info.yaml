@@ -1,0 +1,15 @@
+type: theory
+custom_name: "An Example: Dealing with Rectangles"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DGtX3uLxlJKQYY/mRVHta1Mu99zut16sNPD2qlyByqWylD8yU8o5MKk7x02eETzGzGitY5M/wLfo5IekUzCJiNaCXMFErCJiGM0TkBa+OMs+BGi66NPPfHM7cJ+dw5J/u3tuLnFOv6/c0P0XPmDT8W879i20rHIZcq44457RnRuR1CcXjj7xWEJ28F88nRQdY5lhlrvQM0JEdGJ27LEfQ7Qn9AS7iAGukbQ5Z14jSTCJwcmHXSr3W9qcxoYsm6z5TkUNks2Ou8T/46UpQOY1QpyFvJEWbgFaAe8CsnuCchR1
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJcIPjxmjTwv4xKMlx9LGzdfnbARNC2DDNQwluDyzepDADSCzs26PlMk9g68dcO+4OetADw0MnKPq7x7kHwu878=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Dealing+with+Rectangles
+status: Unchecked
+record: -1
+post_submission_on_open: true

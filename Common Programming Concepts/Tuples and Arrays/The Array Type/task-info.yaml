@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DMBeHJpDjB3ZlodS77ATN6QdOkS+6MyiYOCwmcmmDN8PB+GX2U1kY0o+vACcgu6oYwDx9rIlrRgHIF+0AQJdkz4uFXFeOBi8HVfc3ri7TxJAslgktGAmrneaBNiG7hxWZTInlWtdfzvs86lhNDsPtjJA+sQhaWU7Hn+tRdkXjqHwvhaRl43blFYKt/SLGkSWnKQe8FhzTn7Bt8JIiENvBIUG+OVt+x2AyTs22+y/PYJ+KZNJGIKeBFNUgdS5ai5eOfVm3014JbzbScoOSPowpDLjhMQwaKIEnZ5jR18ohhgyjsynKgl3d5ni1wvOo/vHM5pVwnyuO7v+h8Fucyile123v5TG0SwsIGvL8fDL2aJQTgRnp7WCrBiAzNvWYVfgLCUnDw2Ul5OtxzZKHOHCFwtIB3YnxZEvpi89gvJQYstS
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfG5kONWReEywuzSOhSgbZyK2m/QNYSx3WiSdUePiPUqQ7V/z+NhTY8XB9n1xqxx79v3PTR3I/QpSp3MsYSV5bFI=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+The+Array+Type
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 05:48:56 UTC"
+record: -1
+post_submission_on_open: true

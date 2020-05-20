@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 4GD09sqJlxfEtimMMaNGYHqnvwVCyzvkENxeFOfC2hAMhJytCqwWpipMCpaAWLb2cJPvTNhYfXEeGnNsBkw98XfhlqfuJnyFbJ8QJHkh0uGdnVklrmtTn1/v43nQmbJO4Nznnm/Gnhkd51/Y5d5LrQak9iXA2OHyxTHTG3fkyPRXIpP7fHafgPwy4iuzTsD9FwS6Nxv4TN9KOW5D4jictzP6hJGSsrgrU4gLXojHRT4xE9OS/obiQC05yNRBC7vReqfe0Wge2ilcmCzpPfuZCQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEzYgcKdn1xbzmV8HDs2SIbQoZKIXJq4hkvhhElybBlaCKMlWC8TH+k1tFyGqjOXOktx/eJE+Zq8XrDiBgRjJ00wCkVBBQo5/CiIyQ3kRhqk
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Recoverable+Errors+with+Result
+status: Unchecked
+record: -1
+post_submission_on_open: true

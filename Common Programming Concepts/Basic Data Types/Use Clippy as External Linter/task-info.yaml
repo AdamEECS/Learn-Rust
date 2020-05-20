@@ -1,0 +1,27 @@
+type: ide
+custom_name: "Task: Use Clippy as External Linter"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 40
+    length: 14
+    placeholder_text: 3.14f32
+    initial_state:
+      length: 7
+      offset: 40
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: UY5DzYuvpAnfcOxjVc8E4g==
+  encrypted_text: IxqBYPi0gc6Iaspj7DSFJTiMiw7dZe0ppQdJMtaLhK4HcaTbrFW7fMbVvYnBdIPN6PXtc8bCRxzniX+n7hrb2TE4s0GyJ+AkdO0nMnq5C0/ArcJZexeisG7PLZpu2sy0BUzX6QG/JT+Vq34JXOWWWevdRHatdgDUZ58rjBNysgB8cSCyhWB1FKycnRBPBWZXm/il/soj9AIPC3VqVN09d/rgpbndfLig7NX8HOdcuElckpOwYjVw6ywcxxH9DptOMGXxzwTGOZ+0S1Jv2pXz+9/fbDsZy+Bq+UcsDkLwS6E=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEce3DNJ+Gmjo+c70g24fQ6+zuWmnQcsHOJeswOI6AXazvL5twuXz9nP3RcmPkONQy/g8fJ/I6YWMeL0jiqV+3kJUzuF/RRY0gvkFiYp9A0s
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Use+Clippy+as+External+Linter
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 03:05:05 UTC"
+record: -1

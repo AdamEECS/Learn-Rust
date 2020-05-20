@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHeLEW6GhHSGYh33CiqcBmB+QvQV3DFhUsjdICxjakVwBnh5rLINFSVCNRMqk4f7iWL0vADEPXZmj8x3dJjtewiDgskxDCMxtMAC0ZR416RlxYzBd9gtuma0xdzSLlL90C2Dbk6QtVBN1kQfv4y8GHTw9sf58d67BZX5yZPEcLZw1Fz4zOHisBzVV7dqzZ/sTI54r7q/J1HbJLLCCiiooNCwN9s35I3cyxQRYRSPk0+EbW+p7Q7c/G4OrBLudBc3351eTH5W+IgmzjC78sr3Dzk=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCPe0sGy9bOLF1EfxbfHRA3FbxfXzcsNJ27IhLk+kYwBa+eXMdMBT4FFFZT8T/b5bGkZ2YSz/YIoVX8EvsBkMdY=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Refactoring+with+Tuples
+status: Unchecked
+record: -1
+post_submission_on_open: true

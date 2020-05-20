@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ekkwYCSZxni1o9orYFYw2NWABKtE4wVlQbU4qUA7tbXCdsI2tiWsSD97syRz3IyZw6yKcs8M/PYb2fr8FQ0usxpI4DVfYszECq/tPTa4mpd+itJZK2FD/FTltS7+0o7N4fAMQD3RUwQz1rd4VzRSHL9+KRuqY5KLNbG6E1LskARoy4S9G9GzEgXEs95GT/M1cYSyIPaTkFq1s4Eq1FVW7jVciUH2TyYYs6odQz3dFd3oc+4Oy/q9xFcVREJYuRoPyJunKfFKp0Qgg76WpvxA/vO1vCOOJNqVJc1BYSCKhEs=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBtd7SJSMmk+kRifpSyBjyn6WFwMx2s3XjAe9MSSPuUpgaN+n6pxFXCE5dEQas6YDFvIbemPVXHPXZ0xfMsso6o=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+Matching+with+Option
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,15 @@
+type: theory
+custom_name: "Example: unwrap_or_else"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: V0UYgNjFGHe8slohsqAyiBBVKeb4k8WbtLXkIHZnxV1iVTsKfBvOFLg8XsBYs+Noy557NqrFYFLYxHupE0Nm4URYYr9tuRNHp144jiB9E7Qo3eZYdSObp4kvd4EJAWhftCcJ+3isswxyZaNbjT7OPPJYHMPblGzv0+y8U2YRmPnEFCS31tYrib6yLgBYrRZnETsVdLT0ajKFPBS12FU0hAqKyzo2A2wknm/JaJuuDjhmdG4os3Uacq1Luh0rLtNA52PwQ3D0jebugpFmUV7ZHV0CHTfCsK257uNjPPOiUyaMvUqJ3ac7+nsy0uiQOocvoKMBgcDQe26PMgZSpeON8qxAWZpMtgdKtbSOUPZCG6/b1Gjq6BaRYf9V/LQ9CI0+7z8tSIX3/dq156WrEt9bzwt9unHx16J8gfgaHbCGwNx4uqBj7PU/T+LpEKYDuGmH
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLbFh3LYxealG8MIyWrPBfWPFMIRzowRRtCad4FTY/SiayTLyfVhWHSzEQWZekupO2wD8corusu1THPjZtfVNXI=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Closures+/+unwrap_or_else
+status: Unchecked
+record: -1
+post_submission_on_open: true

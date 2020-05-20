@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Task: Vec Trait"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 58
+    length: 24
+    placeholder_text: /* Add your code here */
+    initial_state:
+      length: 24
+      offset: 58
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: PyoF0y7+Xn/6yE0GAC1nekrvQ72u6J+2TclGJ71tTIsQBNboaR3SwXN+3tydgEkt1hdYmpygXJgI4wYs+8qY41TlLvVqny/cYzjXuoab2Yhqod5Yq+I/ckO/1yG8Nk+xr4J8wUkOLQc/FX/IbGdhpEsdhxTlRwQLrbsBa3WNguk7UZwoRs7E0O/aQ1ZTP90X
+  encrypted_text: kSxZY5UAcrDOD0O/WQ2vYn4BOYVn01fDkGsiSno5lIvuyY2TN8JFhyXaqRvcYAmLwQQk1T8AHuhMFJYloGWaCoiVotu5EIxaGa2fQPF3UPGa6sgQgOhv2nlMzvF2oPMG
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: h0UpnEQQqI07KI4D50wP/MTecFT9Ea5El95qtX0z/lgeF2s9RJd2RddLGYTO0KtMw/q1AiT15kAyQh2woyaOoIZaxT4lNzemB8JZsdYRl/84/ML+gvHIxi8gkEi3bawP/8qZIWrhAQd1ZtwTIdEYgbTuS4I8p97+2onWjiLeAK3vHTGn/qAcLPUMy77bclBNrMFRpWSwIv7L7JyBrYOluzU/OrJ5stX7Ntk5Kv81oItbpHCWTBcVFr86Sor26Wx2
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMruJbRjK3D470qedlNDd8a8U5AIXtGvwO1gAveVv09kL0kekf4E91a3yJEvzd3j84+x7U88ipCQKn3n3EuZARo=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: h0UpnEQQqI07KI4D50wP/CKhiizzhxwKpXhJcKd7AYZbYxxXWtnZtsdtp1HiGCnm93Mz9+JHPyvfETQ5OgMAOBUAv/JnH0Oec2AikqqLoILIVSQwglaF6MVb+BlSGXuuVdnaWugLZs5akUGXJwn6yIlMNkVfD3Ioyvdu2m5+x8AZkzXNiCz00bXGPZ5phkrId2bccO3Kaeis/HsnxTcnxR6WHl+V1c39c2O/kqoniyOnNfTs8+qoHrtIYfLOkw1xdTZx+WmBvK9c9u3fz3kjjHK86lA6Ds3hA5JErNqGUEa7uE64r9L3lG8qfKwSOVkh
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Traits+/+Vec+Trait
+status: Unchecked
+record: -1

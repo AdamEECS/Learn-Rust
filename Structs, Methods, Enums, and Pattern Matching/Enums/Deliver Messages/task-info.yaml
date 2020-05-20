@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Deliver Messages"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 47
+    placeholder_text: // Define a few types of messages as used below
+    initial_state:
+      length: 47
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: q/BCLu3BsoQjwKCicRF0owC9OJngOU9dubUXXu2C1qhcBaAl/wXT+ZwPlSKqiSTI
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xE8EnCBM98ffIBTDQQlWNfJmOnQmh+gur19FERujyTBrFqPD2A04e7aXmwJoE0uPoBOsI1Z6fWulu3RsqXxzhO9EXEg+s8cF+0giNrPLBCC10nJBJD00VFLGbp1N9F7axENJs7ZaBuToHNH5h8+BPq9814+HxQJb8v6TL5Nmi8vKdsg38AnpNn7FpZxKEvX3DufOPDtAt+zdvTzgTFvznEZgQwRSB6qDsqSRYbt9EZbsj+bh+7947MAWz+HE6tCC0rOwiYkI8LCMqJx6hVdyIih4WctzNQIeWJGrWS9ZyY49EubpI4SiBkn/ch52zaOvmQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJRYRPbnaAShm9umDNscbGHyWb8afbrnYXRrQcFmddhJjtTb4EPTv/0vwAzhyufmWixvQ2tPCkbak3wk5yjkKqQ=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Deliver+Messages
+status: Unchecked
+record: -1

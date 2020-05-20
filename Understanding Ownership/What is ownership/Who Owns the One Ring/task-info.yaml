@@ -1,0 +1,142 @@
+type: output
+custom_name: "Task: Who Owns the One Ring?"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: c0H/X4pRR/PodAqtsWwoQ23drjtaf+L47pmX3bgOtIn6iWp+vmsfNgUOJGvjYKKK83WQDMiEeRVZbremT6bkqvzQhBvOcdvKmeRRXF6S10Z4UZzL4GycikGhd/AWlJ3y3C3JKUYEwV5FZN12lvbXlg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 172
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 172
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 209
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 206
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 245
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 242
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 282
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 276
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 395
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 386
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 429
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 420
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 468
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 456
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 505
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 490
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 637
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 619
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 674
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 653
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 710
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 689
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  - offset: 747
+    length: 3
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 723
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DFqopL6bFFuezlTMn/GON0G2FqVuouExn3jHLatEOH8R+Upn9RJux5gJqJUYoWlPDx8ZGHNuG7Fi26dLSPmH1Zey2Mz9J5WhE3Y5s86QBQwMgqQ2Qe0aaWjU+SDlJ1OgY2qMVJES6kWIVrPf+xLP53NGiTSwhfn5j72mbTIo+4HQgawNOXCDWGDc31Rqz7Bbnpr53Ck0eBfV6r4rrAhiEe9J0LFO8Zi2SfYtriNQ299fer5fnFb0E3En1StTklaqd7LSjev3M0VUFRLnkWm9FRaoMbn7roBRprxkk3HO36GTqSccfqzUeBZKEZ+et51RXCQplbB4Hn5DemwZjmpZdcjUWjg7eEmFGk+g3hZqIMtPN4aVXFv66j8b9q73P1w6uqvaI4Gvi3804cuyAhjYdFGuoSUBJSvRsXwkg41fPrap2FzEDgsGG9L1P0g8fXecflGt+6lUMeERdyODhnBf2qKNGI4sdCykHyIE4UiHVKRY57r0kNmBpcISc7tQBLarlU6YXb71/vCKaQMscd65QxlOKXl2j4avaXc0y6/HpfQOxC/OpC8SzvKmSF+P2/LqkdDSLySJZ+G4fJ2xEYZFPmtp1dHXVI+AekXoybq8XZKJJcPPYXSLeKD3eNqHwg8fK5/Yr2oBNP80Z2qXTUzZKfo5kqAwBWPFUs+6GGFBhURySQZ7cjU/eyLCy6C3lC2e8RYyVqCL/Wbl3OhMatk4SJEaGMyNiOGiZ6DLMNuWkNZUX1GdA2WgMlrt38Yvj0jpDj/hTKQ5aUzCnzACDPEkW7bu2Z/vK7nKIQZYcwTqoQp2+udeFuk4rXvLO737clyjnpPw0e7zhlCFP4I6teppjqrC/7tD/8QhsIbZ89kEQgbUnH3D9PFgJwAEH1Pi0GXL71M17lMTp2CyuAP/BOdRvwDB3LljVYXg1vKa18dY0v04wxWx5YqGUUzMhOIt8iCGoSXVfxqTS0ThTaLKhYV0uLGr0ZrHTZHjHXTCdNN0aKuXQ7whSBxpDZZJSonvDGNdCA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHcmluBFNYAyFIj5tcdX02gRRSwVxZosUYmGdzYX3NQA0j3zODBaoku2fT/BOScv+WocFJrswpkDRYpouWKv48bnanrJF7aVOmCMUyLF1aPT
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Who+Owns+the+One+Ring
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 07:44:07 UTC"
+record: -1

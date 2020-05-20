@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAxjiptc37L0jbTQBA7cIxsG70y7QECAjfDLasnEabqEeyVWkM5PHU48oHwndWCN2NW4D1VmOG91W1pVi6SzVbqOe8wHYbw81Qd9+YCehZlWDpVmXc53WT+P5xe2s/wdWONEHwRQ6RF8SuUbUwcIUfSa+yhWh8WUTsAFxqVD8pPPtjrX1Sg9KTG3lUyFMDoG/sebJ7lr7+35WMF4EK2m3X4SVM2QbCgWIPSJSKFRt/n2xVrba9IFNSP0H/PGoWT1k1ehC9UJ8cRXIODJW/hKqDaIinQ2kQcYGiyLlys/QpLKHYrPI9jFF7ufia8iuJGfNvVuVtNuaoIerdV7IUIpXt4j0W1JfqPgdvQapz11fKubLJdWY1naN3iYpuYgPUvmGLnebeUaSBJxumW1uCxHixMpNxJe2h5ettuEkg1LpMfElcUaBk1tj/SbiTwwKqvJRS3qaLT6ilKEWcclXI7Q02ZUt4LfOEU51jLJe5Fu3zR62pz72YDf2RkeP1wPQhurfpFwaJh+bGSZLmS8u2FRdFk=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDEz2yQT77/2d+GXpWSITvIAwnlGA5JYWJLBxipWteNvanXkC+RmoeZ6p+PpkA75UZyEtjCL+RvQznJQin/Ilt6f439JyLlZdps23WCyVjYW
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Reading+Elements+of+Vectors
+status: Unchecked
+record: -1
+post_submission_on_open: true

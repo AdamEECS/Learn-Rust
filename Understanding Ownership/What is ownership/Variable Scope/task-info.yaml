@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHiEpi7WUapiwRT49udlRVW1mEB+gsVuRAApiIScbB5su5EG6RAZj94KZ5WP43fFP4tcgdhPUQLm5U2tLo2xM9vzzhv8gmsdCGKphYz7qwtLR3Z0JnC9IGcprPF23R1tALKNJ9+PIOQHz9wHzLkEiRHeQ826TtHFB7u2cqOzWH2WbVZi7w42ECGu3qF76onRoLitutRjc5J9bEqQL/nmRiTJfGqnEFl56G1ItegGYJzOBX9ntfe/zFAmuVc0ZX+EDpWryQTmz/jQzigB78kbLvQ=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPc1FOnRPZPn5LKAXq5RqlLzHUFq42/Wyy0GSEJHRAUywcq/10TR++IbQGSg7Uxpkj3oCnCvNaE9vjT0iaFt2NU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Variable+Scope
+status: Solved
+record: -1
+post_submission_on_open: true

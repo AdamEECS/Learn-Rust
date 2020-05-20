@@ -1,0 +1,49 @@
+type: edu
+custom_name: "Task: Join All Handles"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 165
+    length: 32
+    placeholder_text: "/* TODO: Save the handle here */"
+    initial_state:
+      length: 32
+      offset: 165
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ePT2ZXu9ATkQ3HDxAFZdHA==
+  - offset: 346
+    length: 42
+    placeholder_text: "/* TODO: Push the handle into `handles` */"
+    initial_state:
+      length: 42
+      offset: 346
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vDb5nlEGrQT7BF+LNpu5AXqcRFmC4bQHwnXdQNroZVw=
+  - offset: 467
+    length: 32
+    placeholder_text: "/* TODO: Join the handle here */"
+    initial_state:
+      length: 32
+      offset: 467
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tY3s90DdFOBT9Vm/OHmD6rxvHrKRnlKgs5cao8csI7M=
+  encrypted_text: eysUCRV7thCIZLxEdNCV71jm7iEuR+YbhBd+Et9mdM8tSdY2rtVIPCZvX3cMfuslFcbkyuo4T2Dp+5C+PhgrAXBKs3orDHYd2j+VFkBa9wYx9obMpy7S3ghFNK45ud44NsGceLVTWBTJ0XOQgXYSh14EJDYZABf2EDoWYtFR4E8pSsOeLrhkEc8hk0HJUWa9qWzX7oNlWaCKyRV/QD5bFtWZ4RIgy9sFODIK2HtZ9a9ezzy7ZjsULwXMRHQE6YZZYHgrAnspWB2BWYHz3KO6Ud0KsJH+t/ihcIsllmLJby0WxpRpaCto/MWBqvRTSgHC105q5D3yn4y6ozROrKtko6mlfdGQWUv0E+RMtSCTfotxJKY7Y0ReWik+rTDxnyKzSh99UWeY8orXSc7yeI7DB1Yda+YKeOUM7DFCG4+eKXPWcN5ZO2lzt1bbJVSGYTCmSYwENOLmKAu3SttX07fRnuAGb1htK21r+LE6/6xMVi9BB3Xw57hsZ+KWRLiPuLKWqLCGsn+dad7r8YBn2ca4wmsa23UU3ry8uBiHBEndJflJXeZKeIzgHndW9eB/NnDehAkFRZuO/9G/brBDZfF6NbThjWcY3oJBVSxoDS2o56dmemc1367zTcEsBBc1N6CqT6kq0PG+SiX6Od1eBtOowCD+OQ3dVkJxLzmfeNvdxvAjeZkP/2/tp9gpncgUOiQq5ZKcFCHDLvg0VicmbGreOT6TPW0CXNqfT06VFsh2yh26u0fWO2WI4i7D2NTF+F+4EqZDtxcEsNZIPB5tM2GfbX3S/QkhYkECnKBhNGt0+n6d7JtVyvX8n482Kr4fof7ObxH8H2Lu3bjsGUU3cquQGuwXPK4JuZ9qe3DGrZK4p0k=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfD4a1lcsRlFpigOKIk9qDoKXv8urXbbNQwZ08z8jqQHdYeT/FVDRns+kgMWw32O++IWBV39K00Bhw8gRRKbdk6yQZvlmRxK/iCyTsX/HRG44LSfCIOiXbVzlNWxKxrEeeQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: ZrXfX0hq3grwbdLxz14Atcp3uohvOyNh1cBvF0KKuVfEw65c0+w2MMhliZZ1mNJprQso+DKv+A4RKCBkpXEszpK/P9PChJ4cSkU87bOdR6JS3wiOpVO7tfUJ7LC59b51tP/ff7Rk7qVb8244S0qA9VCqottIpC1PBgyBaD6D4dCWGqlQAw4Jk+ki6hZt/NGoxXee+BTh5L7U2nd3iJRdRMRdhXCV42IDre+AR17poXwewK29D52IeFhoFaeohrFSkh2QRyWktC9mXLMp3LSOZVKgIR9TIhJInYm3Cl5tRtZKTcy/1fMYgcgslcu8hsglxMk+ADd2IHIXbjAdSWLY9Uyifr7AZXvzFVw8dIOphKoEcr9LkD24ZSjoY/iwxnceGsH+rsUd85wJ1scb+32EoyyCE1pALEoBDHXe0rUti0xqbFvvCVsoGqMWXO/zdqXsus5z4e/znmXbp/9G6A+IpslmS2yEGcO09HBprEe69E6mMP2k/vDiJVX14eo7eX3495qy3ljqAAsY45jrpfkuufu/W/DP2KbpBcxj6VP1QtR57tY0YrPbtv0QAu+ix5n65E3G2cXdow7g5gpCT4SRF+ImhLmU8u8pFwSBp3RjUQbOccNUykd16lVX8fDuOY0tfptLSOvnN8TZQHwYC4Aswal7YxkCj+tZEk13DCLl4SubI6VNzffAsT98ATAm9k0PLUuAybO5bStzU3+YeHGlXPh534A4wbleR+tqbV1PrgpdqAoua2iPpZF/doxX9HL1
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Threads+to+Run+Code+Simultaneously+/+Join+All+Handles
+status: Unchecked
+record: -1

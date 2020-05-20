@@ -1,0 +1,15 @@
+type: theory
+custom_name: 'Preventing Dangling References with Lifetimes '
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBMbGyLM8XDho+3uGq+OMcxWz2iTwdOklEK5OgcKklr22/Ckb3keBSIaCsfNiFzbxto719G6oGYY+jtfuJtZ9PN1SoGQbl7eBx5ojnyti0YJB+ASvyPb2hhL/TnWY5q2+5NtcvhVv2mNTp2QkMX0ShRt/nFH0vpTM7FAlFdfZM+y6TCIrJkUMbhiIO+5bvtqU0OVB24sam++ZwTE37sMI9a0kcj1EUKMDVO0bD1Rg3tK
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJxgMtK/x+RXVAlYxEs4G4pfoH0miANJszUKEr0Ws0bmhBI6d38XinZe6fD38722A1eCltaaj11E+3tloBNYBl3sGEFSw6pP2M5tI73+fOTPRmADX+qzZeU5o7dHZJr/RQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Preventing+Dangling+References+with+Lifetimes
+status: Unchecked
+record: -1
+post_submission_on_open: true

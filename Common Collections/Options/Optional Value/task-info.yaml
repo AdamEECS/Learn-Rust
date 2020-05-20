@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Task: Options in pattern matching"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 174
+    length: 22
+    placeholder_text: word = optional_target
+    initial_state:
+      length: 22
+      offset: 174
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: D8PFuXPFKSB4wapbzTcwbzVCCQca29ue+0nS7HHCQAIWPGW4qXp+Ij3RLhjJUVN5
+  - offset: 609
+    length: 33
+    placeholder_text: integer = optional_integers.pop()
+    initial_state:
+      length: 33
+      offset: 609
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qxLU1QW19M80ZQVU7I7crJsqqYV/Yy1r0dfQKT3D1KOyXkN7oRjIcptqVR6QBaC3NcZElGv30+X3yUN12F+aDw==
+  encrypted_text: 8hzlvjp+1XGYMGKsGakzTs+Fn6kmdp2KVSj/2MwzRTDhDy+38TzVwL/x1RygV/LMBakFxe6n2tpkEfHsldSZXoupJeVqfa99F+xAbFBVr2M4TGJBpSu7WZxbH8vvbwDgOY5DhgRWJ9beUL+M3qn39t29p7rxii+e1UABIiT/X3LdloSNXOHnVkS2+ZMtbrtY0E8YqLTeupPhOkFn31c2H2q2aIgKZIEBPABV9IpSrzAsAmY5oVUIyDxzGCv6cGcDERh6XL5XHOK7+NXd6YdnTo6xhSFc1d6ND/+zNTv6K1ejnv4Z6BvYkYxK3UmmrH3tDuxZpaa0bCOUyWvZwuToGGrGEW8pbZN7aDVhx7cofQ6YKegR+FnpJg47aimLGdBkoqVWPlGPRhxNuoTEE6E1YsbgEM0QpHQLXWKNhpq/58Kpz1y9Gc7uk62td3mxLm2ROmcjQX/ZoQbjgInSW03c0uS5YQ8EwlkmM97lJmdwR1Y7DcBRFYMVvYfmDNHXY3Bfz6JsutIucvriitMRJ/1swXtA6Q9KTEhs6DV7YsgrZR2+hrf+fH8d5fMH+5qDVDKqiSblGJnFeeA8hTiPn7liDebUhzCdCvonA8XfcReloX75PdaQzHgJTvdl4exticMIbHmNOXiAfrKr/2DA+ckEqKpF7RaKXhhEAZPSEkzTDErMSkgqtzS/sKx/DxKZJc/mzRvFEtOP6gW9r5agti9JAiCttdQbaHFqvGWJ3b4KZOLhdyJkM55noj1NJKTbaw+gXWWwEO+ycaI2xK4sA7GgcL/6aB9NSprJjb59sT0KMA3iaRQP0/htrLXaSKexWbOYsNylrS+Im0SMHhicmTQTVGnVue/GxKMIk/DN06Ku8yrylywUT1oytmE45KPuoEJSbTIw86prE5rR1yuqmDE9vvjyu5+YSg2ofDYke6R+ghxaRi+xtUGrD+izSLex6lyP
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEkteyBoGfxy4JGdPv1xf7QpkQKXPkRYMz0AgabVBKpWSgqij2np0YeoNmAv1hZAEIIIEZnxMTh2/GoaHosVc/8=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8V0M4U9eryQrQnEclBpfkK+A==
+  learner_created: false
+- name: runConfigurations/Test.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Options+/+Optional+Value
+status: Unchecked
+record: -1

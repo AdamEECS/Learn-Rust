@@ -1,0 +1,56 @@
+type: edu
+custom_name: "Task: Trim a String"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 21
+    length: 9
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 21
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: HHs/Xh3TetLgxuG0oo7+fg==
+  - offset: 35
+    length: 2
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 34
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Tf9c8oedbSvEpZfxODPsIA==
+  - offset: 361
+    length: 32
+    placeholder_text: ..
+    initial_state:
+      length: 2
+      offset: 364
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: owJHsxX0/IBia/PCY2iw40IqCou3F0OF8AjhqYKp3qRTgSlrKA9BdrvMJYQrJuGw
+  encrypted_text: arvftx4s6KAHENy0GCfSXfclMF5XLRoGjyKOZrf1aZrAB+wD5+BGI4YBeEWrtt/qYOc8sym2wVeLN9xjTsGP4OkTkm60TPb5G+YcMlwl9zUlFCy93ULsRNnm+5tLlxEnHNiRKWeF8clzUMXUyr6G8HyLY6QOXvapsEBTtamuHUV3RbOMH7UcHefQu7FuMEo0/d1FCxsejbZdekCqm+QPGsUqqpKzkEDOqkYhNxdVfcZCXSFaLeXKW64Sy1YvvvwqFS/j3vEYu+VXDKFZ7uQbDd0EufR1d3lRRHnp/AWBKLBDrvCn6QkquzJ2l1K0KMxi3SzhMN/gQXsJMTbEJfnSBXi6rUCC+ZxKaCVGDXdAnaDUqBpzd2uxM27ORwYM8X/yC8wOYLC0LXwtQ1RnA4XJkG++h1F1o2fxEfKU9uZAyS5SDPqhd1PflogyTpIaBKef9xEgeY0uxp+BHSmHgIGkuNRm2jrUN/m/RbIoAfmlr6HcKuaKbe6HaTrVwBFsIYw6
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 0CxIQIAKyPnjSUA/Y69njsf3BCp3U1gr7GOsztXac+YMVd50w+lu4uXLQRYMe4xLccOVsm58mQBrdn24+tOkXfdLjZJeNrfVTdnJG1WWgMLND/2ZZXkveS7baKmcX1kv3+PAY7/+e/Pz1WuH9ki2x0wOQQvXa2NMnWLwWe8JITfjCNgiPgp4LfjDlHE2607SKc5MEbbeRJg4CoLk3l19LXINKaceDBHekNTadWXIwGABH0ayKTBqmcfUGPuXEw8eTF94kRhFuHrUT9bRe3v9AGvRxSF490oWcysZwv0KNV1Lo658vmLzMnzvQRmN204k
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDZk3fl4GDIdNl2PnFU/dZWp+8pbBg+3JXxcF/OL6WMiYTjm48lEXmLFsx65YTwU0An7Ym+xkUytzU7yh7w/aSw=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 0CxIQIAKyPnjSUA/Y69njsf3BCp3U1gr7GOsztXac+ZWkQHAeZ/4512JjNagPnT37SdBVRz8QHHH/J0+2aHkok+RqiZAfuEfSxSRKS+/4uCs/l0bS72l1Oox0bOrEdYsBdlQxKHs2rfiN6Kb9s4K0QcdNroZP2ErP5SNa74bKr5Da4yQbAgZ3SNr0ZIvNDCsSBI5LV9Qc5xWzTxznEm0gMbxxuANxoxVY5PgfFzuP2JG6ChUIxrblPne6+s0CBrQnR9n1leFb/NEuuICg445fRLb+fELnlkdTHx7yrLjo2nMMQ75ri7u0D5vY2ORgGTN2myoB1jIzK9O8yrXovsuODJLfxHgv49Hv4hxPHl4T2wPoOv7/dogTbhJrML5ryHkbowemepkLC/6D43iNpiv0BYjT7SVvcfbVQEWx5bHmsIqgQ38vTKyQx7XZL8krF6cCo1gfFeKY/sm8gZCwyPoWeJDkRXoLJDptvEj6N1hr0GRYkR8OKCbabGLI0Grn4nsli8nCVt1Ep9veYVnN1TgybpLjyZ6MDhp/u/s4vyVE1YWnUj5kSBz319pjpVVckgNCV7Eqo5Sz/O/2LlAbJPfXAIZwuw722XU7gDg6LVhD/4=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Trim+a+String
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:35:18 UTC"
+record: -1

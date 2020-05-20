@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBP002tP8sjAR4VkCpEZ3H5elEMX/AkrQ2lIAj3bSUUy8wW9bnCX5Kt6SGwKY46097taCN7BI8e+l/XXtLAxANrbyRTho9K3f+ASM8vFT1DVUQmCOd5rlX5Bsd3sPYgoH0YF0YRIoNqkRWAbs7UJmuwnnIEcgd3eK57SqwVr2lOWEo7dra9maU/91+KiEk2tLuomMZVw1kYWtiMK/KXaTx5OSEeyUeianhZv0dD+74M6yuunN56PBPAYY0FDLyhViQlgScXnV24bZ0B0p3Fv18k4Pz/UxkMZD7zdZJeLb6RRQozXLaJgxn4LofoP5mBpDDF2h381d2aF2YKaM9prWvZDtDYfnhtq4vd0yhF6wEwAqBR+opxA5gjCbgRXoXQQ5ewf5KZITC6pFU8RgbWJa/d0z4RfuWKMIHGG2jDV4F6hmVu1GrLlfJfWU0h7bJPOojP+ea9zAmYGuk+Nu0OhSSm/U9ecxsFwL+IdNQNiGUbrVJbwImyeF/dt+XFB4D8NvczPvfo79F8P+lUlVcDW10qR1i3lhrv3+AwD0KF4jpOTg/nHol0TwH+wo3ZsIUvrcZExb8AEsYUICVk+0vL0/ZKYTkxIvfRybBkf7jECRVcp0pzylvZHLhvFB56Z7teF7T7B+dl80sg3UQ7YgXcY+Mgvcv4wnqi3GxfOIMPd73oVWAx8qtAX9AFu/7wsjiy4NQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLEiHtHA952psgQKt8ZEiainWKVtIVcVfKzFKmRv8/P8ny99Iwko5xkAenNsqtUmWbHB2CX+cg3A2T94pztAYE8=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Intro
+status: Solved
+record: -1
+post_submission_on_open: true

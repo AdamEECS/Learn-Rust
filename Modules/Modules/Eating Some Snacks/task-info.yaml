@@ -1,0 +1,61 @@
+type: edu
+custom_name: "Task: Eating Some Snacks"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHk4oufx2ZpUwAP3whK+M2X/3a5PsqMH5VKjeQhisvRhsUhO2N33y+xmsJBnKDEhYEr3UNiVgibKPJGVYQOBmM3Y3fd14xdK46NF5Mi6wG3Ii9eud/ChbPQyHCK/V9JAWA==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 69
+    placeholder_text: /*insert a modifier here to make the module accessible from
+      outside*/
+    initial_state:
+      length: 69
+      offset: 27
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+  - offset: 123
+    length: 8
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 123
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: xRV66TSis6H1Fs2VOU4Q7Q==
+  - offset: 137
+    length: 69
+    placeholder_text: /*insert a modifier here to make the module accessible from
+      outside*/
+    initial_state:
+      length: 69
+      offset: 137
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+  - offset: 238
+    length: 8
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 238
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: eg+Zq4s8fjfEhZGf8vhk+g==
+  encrypted_text: uU+KhGTqreehqC1klbvgkpvWy5YgJ5bZJRCISwgHI8M47RR3junCK3JUlBDbB1TAbJ6gUEWdUmoa3CqoQLvIaobIrq6lNkeD2YlCfUlsfvcqxUSIrELkdi3fmgxX+JnrLuRecKW6BGJq+ImZZu8H7lXTR+wswWuXlaGNyOiNoDhNpzFmfRhIsoO9TWbZEhb9hAfXvb/9sSaDAPuixLHqR7L2xoH56F/HKaRVLegW4e1aewwJNgEDhWtNyKQ76Wut63/AYNJuzzKtjw24S8VOUvpo2cxCcxODMlqGAF4uLVBrZ27o9URRfwVL5R+JzHCvycvvneJP9Mt8avxcggqT2yoj5t0i9JGelnj/yp7MlllJr/6GKLl2i1fhFfm4vy4fQkQ/PQryP9c2awicnfivlqtOdvHNrCqt/vPQL1KGg8pqsG2GRnzbZBTpkzCHIufKT0sD+LUU/0jhWFmcBRSGVxsSlJ1e5Pkaf6g+G2Et5KhH59X8MVwBvwsuTpYZ2tbE54IR6lmT/rqGkdnn33Eq3KSILDCTOwDu/0sSEoV79LRb54vi6tey2iXpOJ86UrEsRoDQpZ9W2vsF7rnrVJz4uUJ88E4rBiIT0bTV1xqIScRdx3QWAv4csabH9uHtVxe7mEHs6cBneBt3KBeehQGx0ghr5hvLJ8aq9Y7+lmHFGSQWjWykWtihegN7Mmi+NwpVkTgJY+PllrsVy6sPq0mfXftShavKekS/HlKbTibxLI1QNaYMnHnuwmUqfqoTHWgYe3maYgF02MMUV6L3HzAFJeg5Ztqq381wf3fHXKyrRyE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswqwWJVLvnuMqXQEL/lIRGhLDvCJyq4TVWOnQ52Stbky2QTR8WFa7MS55unl3Ojybog0KdYLj1bVDjmEGPSZUEcWSQ7AFh/Ujwh4WQK6pvqZxQtwocftJga/2gFnfqTnvMbpGFA0km/uQ8BV+M+BwO4JgMQ4S/2HjEXK1s4WIXF/8nY2fv1F1s1LqPWDDMjPsJETbxXZBy04X9IuBn2KAhApsj5uKPz7HN5IKDUEpAFJtHxXyrhSM5jHSui9JPODfy59S2D4ZPQ0qWICxplqbZFMiueZCJw+57tJ7i4bUWdBYUCRz5Y7xVuaBW2inh6OsLi/ZIS0xf4nlKGapFSvHyvOfo+iP683HEEYDidzi5nP652BPkPcD+K63VEPqOoPOrxk7Q+wbg1V5VXbbKudT2gnXMvXcO1xNNXtHQ0A3R5vvsILl6NPOe6sx5xoCbFSJGMvP08jYJfu8nBBspdtqac0JV1hTRVQJsYikTv3UCaAsms64jK8GHyk7wn8r4B2GzkqPhh5Jgd5lRC2+tiql/AdOmp+v3saVYMNGY6qIzaSuWJFOCmSXoWe6nYGkXyxEF8o/zg3budTLsy3pCRXtvr6sBPbvqy1Bh6xqO7TzP3sPOiwZuLgrYQOmLEd0hyotGzSfbGZuWJ53fuICaBFYjKPHry5POWV2auGeC/53CupcUNL8STd+KVfsfKpFlY2nBtwP5r/byZaQh4DKNV+HNUgVhUFUBydx8K1kmj1qsUj6MEnb1kij+IoUVI6Y7rfNBA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Eating+Some+Snacks
+status: Unchecked
+record: -1

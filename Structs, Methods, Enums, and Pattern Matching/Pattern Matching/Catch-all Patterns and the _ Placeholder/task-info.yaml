@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: T90Ng51CSajA/Ctohjt++vFa4i4uXkLxMbd2fSA2xEJQZMpZ7cfWXbW3vEfSCQEJUqslb62boQnbkolesxeBI9eVljD8X7LKok6FHZCiOHiCO/kQQ5LEkU2BtdhzcRmJZHzkKN2fUouQmWJH0URogi7WZGo95Ztkbpputrn6VOYL1tT7Kcx5xxg93W8MB2TCERNKmJjHl9TI8/s32lTbgs2clUPTjnuExBbT0ZGiyQelIrh6nJ2OHeGw4fSHfjXpmWeabB3mLO0Ixj6I1K0KzYNfId9MMB2iut3rdKozjgI=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKzZiqaU2nghhViMBwd19b0cDo2McPCdC99T/hgZiyDOF6MCC9aY9TifLqD+9Ee5xrC1uOajSxny76kqiNZUyos7rqb3k9cBpqox7ZuMf1NU
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+Catch-all+Patterns+and+the+_+Placeholder
+status: Unchecked
+record: -1
+post_submission_on_open: true

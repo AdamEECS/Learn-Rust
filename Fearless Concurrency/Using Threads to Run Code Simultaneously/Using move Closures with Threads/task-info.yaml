@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV72ee3yQbTy8NAGWvTpoi8ZULZFe2dyiuCkjtnvFc3fx/a+NEEf9z0oQ6wE6OUM0p3w/urlCQ2cEgsVVDgzgm0nwm26VCd/iSojb+kcwNeE9q1BpEhyxLSI6wvnRZsLsBLdNu90vnfZw1o27qWFebkGv5J+o7Kn7/GOfuCP6rwwiwAD3keAP2ETPseV0QFH/fWFd+Wc99bi5qA6/ZmzKWONNA2cmTQnGx2jxy3g2/zmnoOBKsWOzqSdIO8FCSRjPUrhfL1sDd6weOaTYVu7RNqdnV2S+ED+t9rWcNPKvt9u6FJTJ2dtojTTrXxYygH471HPUqWOycS4fWq9M1MHw6jja/1NGiUn8ChD0g4XeqYRfe
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNDP10bGWY2x+5toVNSXRBqNznnvzFA8IqHh32Ir0LjyW+m82d0zamDKqvQYcjwc3ylj58eZnIVz9LI/ar5GEtdQufjX6yqpg1L9vE7jq3l6
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Threads+to+Run+Code+Simultaneously+/+Using+move+Closures+with+Threads
+status: Unchecked
+record: -1
+post_submission_on_open: true

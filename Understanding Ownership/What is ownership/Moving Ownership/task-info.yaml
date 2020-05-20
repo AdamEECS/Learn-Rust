@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHyzl1+LXBlM+Scm/7bYaVbS/1A0WqxIgAFfcmeqjzDEp+4CrwpDD7++xyirqEbYTCiu4vhuFPxwMUIWRRKE7ZD21nzTQD16/v7YDn9sL0h/xCfJN1CKFsJ44/9obXytnLC5YJlsB+NhAqxM1flt7sLpgU07W7nAmjY/ta6cACtP
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGxvGKdSTAIWbLjNLxBSwV0lIJdoIn+DjN6m2H+DCcb+GCX/sd0wx7CV6aI5BfB1xhyrZ3eRzqjVZ/OKiGIfmhQ=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Moving+Ownership
+status: Solved
+record: -1
+post_submission_on_open: true

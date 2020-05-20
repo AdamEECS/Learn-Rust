@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: y3G+S8lnH7Ttwjrvx8ok3f7l+2loqKHos0NV8cMPvL0j/DQOfGEha9oQRyKuhz2EIP9GENM/y3RUitMKFCtUf58CoBB3BrColTRr+AEWDrJoXHYLgirqt9V/ebjKV1c6Okypjc5LnVlQd1c+uklbBGzkKlK8FIQOiCRQGPMu4a+vR7AbY17gEy4k4H+oguCw9wCG4DO+QEShdVldYlTgsPwgZy6tDFlHJaZ83WmuoZc=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCtgAFQ6dN20uYuJYusZ88Y/QFTbW9Nye1LBEGRIAUb+DijP9K5OjvolyaULfaUif8xg5KZpPxJx0SeJpN7y1W/cW0SXA+vApcMxZuaph9sare4TYkNsW6m2h4IaJhhWCA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Testing+Equality+with+the+assert_eq+and+assert_ne+Macros
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: s5r93CgWxEuzgTkgHfOF3xsyF84xME+yYegMLAcHXoNEDKNNr9r1b0vIZMYmbiyqIJ9kmHAqq9coaJLKJ8l/WwrJXwi66poxXhVtuMNA5HH8g+gO7F8bZ6gUKSHZj27UABfL+drf55EKZlcTPqKbNuoFzmIShDRhNvg72g29mH7/u4OJyPHU/4KOLE5Mpn+BtR2q51uXJI06SiOY6f+KPgGHJegRRbHEGMMjjAntkW2d5HexPDaiisEu01C3xXZA
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPxV7vzVJU6zyDRRSoVGNgOpA7LlE+D9tHqPLWJe7XG353fSuUr8Pshk9YjXVuRTm6pmrSTCDRMZBFnQ3fpEQDs=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Defining+an+Enum
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: DmxPC5FqW37KB+5XPI8P6ZjQsm3IHacgrJp/z1bxExcAppLE8vMX+u4OvkcFXEKrlU7CLDBUNCObWsoEeASgLZdQqenxc2fV8jgYHFh/tp6DRg/+Bfx7nq4jDbiHRFGHqyHbHmO0FwC2eU9+a8zna9h6hbwQjwGKlRx1FmiI07f3XOMw+Oj64g8cj5io5hAnKeO7v8CfQW2Q1w1wqK7GqHqrwiUrYoj6kZ1lIT/ZD2+PNn0s6xtx11ZiXVAObbk/+TTv6MdTYk4JJS73WlfnX7hko5jkvrpFzLVBai21C+MQPfXme3kYaKJMAl18z6kWS79pFWIb2YW8EDF1YFK9hvTI0S5u+/3ULW/C2Cmb/diL1DUijWADEygmQBfcA5RjWRCXHK+5ER7N/GFJ8gQEmKSDsZTdQOQkH2WfIon15vRNPlg7lcb9uu+GeW5Gq5mmhqZh3Yxq4TPVzJPXQHFHWZ8RiMjN+nGCtw4Y+SFFSbly5iapTyK/ltIScVJz9RuFFg2+DIg3J0a3qN40sfYt2TcVOjVXRlzaJdn++CF8al9/DearCSHFd4zggzvKYPGn6dMkWtdRSqv0+jAvhMjGMkgIN3t9RYE+on8toyd7Q04=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOY6oCTPPdWBsSWFjSpU5VJISiVcrrot+PasLI3mhaM9vh344ftwm6XeRNL8RA8sNBwyOcutdf6ZcnDotsBgl/Y=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Generic+Data+Types+/+In+Method+Definitions
+status: Unchecked
+record: -1
+post_submission_on_open: true

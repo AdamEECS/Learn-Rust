@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: jWxd+/fE2he18QG7ktYRGp/gww2V579XZY/XkLFyGnGR1/p0gmdY5fux2QS49CNzp8kMjJmO9nEYlS8p0Pnvy6BPnmEnfWhYlrJUsbiTapBTLwT/XNQKNYNTqgReRF8XJ5Bm0szhuLEdXpzyYfpUS6F/3LbCqC+x/+LVpKUG1sHsey5N5Q507ofQT1+EXc8h4IHktdcCeRdgWK6WbjfKngV7u9ExJx5A/wwtieN08KkogMV5nOzsAjmuWNFlTAmHUWzToIrwO5X+amFO0lXpZPImqF9d86HjJcHGnPYhIAEUhCa/iQm2f3vpAyoCA5l7ASwJLru/e2nhv5yfVH4HBg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNvZFKqSTRdRJ/nVEhXHV49wf3eq8WoG3qpH07sxCP2k7ziNA35dKifpj/3Slq4iOA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Using+an+Enum+to+Store+Multiple+Types
+status: Unchecked
+record: -1
+post_submission_on_open: true

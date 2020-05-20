@@ -1,0 +1,49 @@
+type: output
+custom_name: "Task: Lifetimes for Structs with References"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 11
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 11
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qMgrDZ+Ooe1FUphmzH6Jtg==
+  - offset: 27
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 27
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: WBat4okiK+5Zv/gl88LSQw==
+  - offset: 44
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 44
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: WBat4okiK+5Zv/gl88LSQw==
+  encrypted_text: XzGMSf+R3VfLJaGAI6xWzcQXSahXL7+/5gS276WepgP+m1jwW23y03/hqC5tvURqjfechpECRIsJkgIUbG4q7Fi+3RBO6/Xj+x+e/bJygkE8DXcO/2reLo7cNUbMICwiUejMrg9Pav0vZIIGsSFc6MbiBtVgZ50hP48fgw5ryv7H+XNGasesQHB+F/aEt4W4NZoms1T3VHpp6LMjnoxh+yYJUrqhnFLw6EYkjymXUxal2ye/kE98hYdfYz5I2JVmsCrScV2+A7LPnfYJVul8XhPqYCuYS4TdISZcT6XWxKKSUyT+QIfjZUuLMNA508Y10MCh+kImVOL8N3LpBUYZA5n3VRvSLVgmYQ0wlAaUMEM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfAeeww/+G10tpJOOb5bEVNUpMkv743B3Bt7TA/knVTwAoysKHial7YxL1XDMSYrKAVTRqj3XsjWTQFpnYR03HVu6P4yFTvT+DpBwm/20VAHZ
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: djixgK9yf+77p+QsN8barGbkSybBjFzt6KPRXRZvpRM=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetimes+for+Structs+with+References
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DOueOSWkalYV8bwFR5yE83ts5+dTfHG9f9DsXLlRiP9dOY0bfH+oT84eLpSqgJLGeusX7GJVkBo3nbxyz+1BOWJa+eMezuw+RkAGDRblUNG9bFbB7GICo59s/O7V7TZISaamFjsaDYPF/+TMO1FDff/qngu61nFb4a/yDHhK5UUBmk9KitWC+nMGQiAoWILYGg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfN5b88S2s5CqkO2ahTNF1NGFnMZs/G6XdkCsrRBVsN4ceAEgXezyxxVPPAwRsfB5fO5NDW3KA70ycRwSFINbcdo=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Reference+vs+push
+status: Unchecked
+record: -1
+post_submission_on_open: true

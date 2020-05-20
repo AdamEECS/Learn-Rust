@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV79Ji2oG1qHyYJ+62WsmVSVlY1W71A/evBS5zzZZeggljYTADVuguYGCxtNPahdj/y7KzhOGyEb0niAukB9cXImfJ8iAcBG+9p14D81LW7tzHkicqSf6MU+2TzGQ6ILuRFGTqKnrgaPJbvMzkVl5yofzhlbevfTDqeTcyEZKDg520vxJCF+Qi52nCVE0h6iyXp++ZXbC1oKnBUqmxIwKrXvG1fLGxxoGv51P0dT79h9uJdWiKIKMD4HlT2i7Qy0jBkvyoCr2vJwinKuEVKdTbmEspz1Lvf6ATUhstxd5bCpn+di3JovXsePQ+vNVRdV9Q2ivHwDM/JOgkDzeQGo/RRYQ=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCl7pTI59e2E2n8PFY/UI02kNLb9iQ5Twvxr+AYdwpUG9UT+C/9A7YZEbkmaA93bhn40LqsX6SOqJI1ZYmo3dGM=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Message+Passing+to+Transfer+Data+Between+Threads+/+Receiving+Values
+status: Unchecked
+record: -1
+post_submission_on_open: true

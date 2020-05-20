@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: HbtsAeeNMN3XBZoEP65e6q3P/I6ncFqaCaQKFNLrmP9/Qyt83Dl4gbEvNB0Wyhfqt0aJcH/mv+T4PRsmslt1YYFGMC80WHrgJVsimZnr54ddkazPKB39Bkh0U3DN/G7kBVG915NOhzJ3BMzLGYjn83+f8mwfBjB7B+cH8A7g7//q+nZi9ZvrDpJyBSc08TAV77cmOautFi/hURcev2DSSESNIuj7yIuRShTn+0lh9kwgZL+mJGvpROEKUaVDCTKDais6gNG3nBDjXBvmshOjxfDcm9GsbgcxhSaNbrgOcj+qD05UycCSfB98cpXEVHOVIyCnhHy8zaJzUy6QDD0tgc2eOsSOwm2q92Nu5YMFTtL0oaq8VQgfIssCRtr71G6xWixXkKQAopAxFsSfclmHjSfCjbxvTwZ+6hPUz6Qa/Z0V5MlWY9IZqba2CWmLbrfDuKRRq9UdBIzR+Pl8h93yL5W/hh48KakhbreiX8tQVlU=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNWVXJCe2bApVvQT28h21WF/l/mTbLhzrbW3fSLnhyAsss8GW/Hdu9wDqZ0o6T7Jk/oDgG4xWsXc0/4660rmdKrmHHf2AZWH4wMsJKuO1rav0/mHEdKDV2+yc+4NB3dRfQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Annotations+in+Function+Signatures
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: WWYYetNOsAqGC9WG+9bSmrDL1kUgbgk9gTpEI13TkbSBV1qxB1MQ+Dti3d95GKvLrVMRPmCPAQW4Bwy+AWJBu8tXXBrTEbmS4h+mXHaPpO8jc/j3kTKHvDpluDxL4s7eQtL/YCly6sUG2VEZEQI3CVXSO875tkoaJ5IhZaofBw2E7BadcTtmHRFubXlM24qRp22DjwjcOfqmqGIxaXhSvGlK8icMYmOd6NbeprL91hWHeo7ithvOiSd73wHlozX20va96qRyov3llOWaLrJPpg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDDUAIrR/Nk9zxgMdbigVwK+wmOTl0Xr8dIc59eYlApZmYHt6tUJU6iPjsnkonc/gsloVX5auB/Xc+fOM6N4ZNfLX/LiSl+I/m9gsdKtxAmkiJK17BPIDw9cL10DqQS08A==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Using+Nested+Paths+to+Clean+Up+Large+use+Lists
+status: Unchecked
+record: -1
+post_submission_on_open: true

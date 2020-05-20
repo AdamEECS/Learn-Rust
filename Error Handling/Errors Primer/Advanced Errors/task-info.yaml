@@ -1,0 +1,47 @@
+type: edu
+custom_name: "Task: Advanced Errors"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 363
+    length: 92
+    placeholder_text: "// TODO: complete this implementation so that the `?` operator\
+      \ will work for `CreationError`"
+    initial_state:
+      length: 92
+      offset: 363
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bX+bNw9tATTeBCc+nxYT707nvaR6oRNXlTjXGP/pqQradHvcIZsaoNB2VU/TGPOw
+  - offset: 465
+    length: 159
+    placeholder_text: |-
+      // TODO: implement another instance of the `From` trait here so that the
+      // `?` operator will work in the other place in the `FromStr`
+      // implementation below.
+    initial_state:
+      length: 159
+      offset: 465
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: gflxMgSRmua7+J5IPiOc2qtHgDxxbyuEct6Y3/Uzh/gjRAfD1go8hHiONiX2kl2aFLccYmOP8bwngK5gM0AlN8et0Y0+O3Lbgm5zdCaE2EDdK7f++mm8uPojX/AnrqigwzYlRinm5kdP4VG0EZfOBMOkb5OPjSJ9jhXbLAGVYIp2DCoAMxgzp6//pBM799cj
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IP9MH5fthQf9RykxwatpX5E5Z3DhYcXXkAcslPNxov1Z8BR2l9qRCX8QxcKlybh3Rafh6LDwE+yr61MpmrPwvGePuY1jYrNmn4AmA/8+qHe+tyPG0E0zoM/WjmzTh7HDq7DTpdPhsqgZB3N3aL+0kDvnUm46SMXWJwIT1OdMODAO8fqq+GQZnXP+Q+5a/+vV9pLEVfMxy7H1fXkYWmu2GLDuoVWek45fJbEoZ5tGTaskBJP4iOXYdqxSfQ0oOZszAN31zQjv5m6FEO8fXMbVAB8XeNy0t10da/8Nqd40jQhfSfVEkZrf9CO4WLKmJ47knEEFXBoFRvAWQAMkUyuLvki9VHTzqLTFQGS1r0Lxn9qMC0kdiBS6R4eC7oVmkPGjYtS0HVvTxiJJbqoKqJWKbEeG0zGxn2qJyga/i6m7wtbFoUaCKhnR5VGIOqRn0Hot1lUIRZHziru1UbrZPaeTXAQD/NcrC4VdRZv34xc39IGrs4MW8ECnIgUvcco6VdcNlPi8uAhzkWe5mXYtLxNnpOxI1HQZL9gjesojmzf311Oe6hfZ88tPOtqPLiyUbH47IDlx+GL/HtaLi87h0hSFtHkYVqb98+RAyIs8egK25oAMnLXcwcqT6RPZ/udAtXOVvpmmM9906ga0d9pv3WX/g/10w5qLxcueRglaBO+18R73mQ8Ub5kRsfEslQozAyGz7z7K10TS1tQTjMeeIAp6J2ZFTIbbm2bU9TStt9BOD+zfzAHruV/B+fpB43SFlCjSyqwUfNiU/8zrDj8s11G9QBt6CTQpCXzHAjfOMV/G+P/WRKAzk31JhcXXcnWuOZ9hV4RlfF65KnmtuFLYyRRQ2BYuAHvRJHRUL5tZM+ogi3/ugmRWiy/UwvGMolwymo/5BbiSH0Vx7Fy9MGS0wgHRFbwP2Me/L0qkhRHysK3DoNGFmA7vX7VIRKphzY5Qi1ZjI+Ue+AO6iyOD4SJJbzqFltqbfYBLmB9rgtqNNjl6Dj/Hrvd5paVsc4rojJHCreBGPSwpa0NK46fb68bclOCGa6podSAF6LVQq0dPBEOeJck/Dyy/bQxfZC+kV2BXrWe00SK885QLMFrgClbCSICR8FejbEtjqGkQtS2qUdgs9EbHpf4P9Rtfmwfyif3QPr/f8GsVwJ4/W2/DPknFsP/tJRK66d2H9of5ZlQSmQps+bBhvP5sTrtdHJeFv5xbp7z7thOhIQAN+XX9NtgbsBxZdT904G5mRxsrF8vvZ5Cg7Ete4O19/10iZ3UUhxzVMV00NJZcPy2QSLl5t+b1nWb5gLsT2c8sicOg4m+KMC0C62cxrRW8jHFCoodcg+wmZ913xUSIHmLlQ4Rhkllqzm7rXsq3VrmIAJpzcknKmNlEXnyLlbjbjuwtToJNY6Es/yul1TjNHkUsZ/8t/tgC3gsRKEE737XLYPNSEKgWEY7s4WySyy5EqfGhBv2eG/0Q2FK0g4GGplEBUJ5Q0davFK28fZU+PVhQX0KseJH8DrwL6dcFaAN0RIdx6kygRt2/OOO9A6z41WyTeWIHfCeUmmH6BXy6hUzqswxRBw6LlrnL8iJfUES5Jp2uNeAWeElp3rn4q+2ieQtFp8A0FkMVPH+bwiRvYMxavqPZuw64BY8BHG3JTW8u/MRh4Oq9qdNgPC/CJxA8GGAqC9xvKiEO6y7rheR/J2fwDNErpaDeSecuWehZfvzp2vXPlAl6jcFhkdxFQTPCv5MCRbMud5ZcDm24JKcQWAAx7xLARwLHFV98RyvVfcbnuIzHtg1rkBIv0IZipFptD3Po1IKKqzMPQlnMLd0=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 2urCD68HiNGJQOmKMKJXpfW/Jhlf83y8BscQwSELtLDDuJWDJBBQvYQ2VGVhBeJUYtZetewYj4MMaN6HRA1U+FGT82VGtnxo+fbuNZe8BCWhbyxT3bi7HQq2bF4fXDDTJ5zjPA8nmaDroTvVj72sN6h+WYB8PvZNIGhp5x6i+aJgLWdiirYXvEsVk3Uodf64udB1MlmDyHcQFX8UoE1g2jNNNJEeRlPNp5XOriMu1b3RkdqAw9FEbBOJB6VTi/Zzk0j8VUuQb7z4Gi17CAUu7QRjo5aCATAv2w0M6ulP+OiaBe/HPc7S3v310qu8FP+kwd+IF63y/Xy+typjdoNQqckexQjGeCgzj4W9Yd0tRAg=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHLnwhazHtkWOrt1UAAvMKackHBeT8uz0X9MQJijpSsDlOkvoPCcZsDdafOnzOrWysaQ/0+s6dd3TO+t+hRO7+s=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 2urCD68HiNGJQOmKMKJXpfW/Jhlf83y8BscQwSELtLDDuJWDJBBQvYQ2VGVhBeJU/xOCyKRV4DAK4RyeuhU7q5nSpCQDkYs46+izfT47h2QOvozAXm5/0jcYNUBjU9o7dtGObEnCrIyePuk65xZ/a8NgM5ULshm3RcIF6B4FQHtOsjUiLZEL0yy3wyl/LNyiV9hpZoNyexnRaZvj48Fj+QNmUJpegHh8bhrMFEmll6In7jHCIFlfbwivXAmFoY9WRNgQ0OdMuue+4ErGAeeepc0mseZX3GHWtBApHV+DdReYMlBTVjHIEigUdc4nrzgzYiJpoStQjMX6TgaZ0vWt6Uo7UYJEYMW/o4/YuwKX7687Hz3S49uIUJPyR8KF4jH+QW5tYIx5bDeDYB3E5SaljgkJqHCaHyKzRxSfFfGw/bs6ijOvwBIsPbxzAlsLPwof3zPQVEiElNHqvJgYJXv2/6JEXhZXR5drAR55dYpUB5CdzAQlHP9hM3mICnOu2qq/O5kea4Dk4ncIN4q8M6P5upmARpSpmaDocaIDJlfIC9vw+RGNwA90igwPxFWOAbxXmDEjGqjKHN5rPfv+of7rL/CpkvqWm8NDvYWQGvl0TR7d9M6zPPPpQ7GYDq4hT33I73GDyhZspDxt5HaeFCMXRZIAVYj6GwbhTTydrGgSGukcv5Cs2sz7Id/QhfJXr3n3zbpalW061uJRPi2vFxDa9EdTwGCUqqiez30L96JY8XKWZW1Qb0pMtNd5to6EaLkP8iKIgjVZJWvTpCC2JEUE1J7BtzEgGHEEezMsst60EPADIEpJBIK6gS9ZukfF/7Vxh6fidkd8lNWMtk4FdVba6bbGwdIUhLimzmvcpoJgkOn7ZpPUTrzsxTp9bPKKXOTVHk7MLLF688I6Jz54wEYWkQjHM2y2UZYcHNl9JMinq8huujfBlNZ0OowKaPuXPduMHzGxOu7/lwOgA1SMOmnSvH6A1+2MZK4EWk5SbCdYHJxwNqXPC4QeVkrOuJbsJMap5FTH59uc8P+oolJSQfK10p/j57GBSC+q8kXZRaJQg+gXNZc4cZAkuCGrlbJI/9pC
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Errors+Primer+/+Advanced+Errors
+status: Unchecked
+record: -1

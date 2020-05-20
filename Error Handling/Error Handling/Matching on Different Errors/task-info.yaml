@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 4GD09sqJlxfEtimMMaNGYN9584AC5WHvIG5HMsl9dzvqrdcPA700JXxG7Mw+qMUl7gydIkfchqlxhwpOhUZh4kJJtK12jH3NiQabdyy8YyHmqQOyjAIWFePIEFbtig1eFB+nFA4L5JAKmyU2HwfYqMGdbBnxLJfBMbVyhfjXxXhoIqVj4ZkcC4e36XWZHDpecaWR7HaNOvue2ooMBRsw+sLh3A3wVV6PFQwgaYc7edf9t+lwORFhwouAmyz5EYguECKNrwI2O/j39+c6ot7HrtZMeySsKhGSWBBCzbCPE1wbbbeh9cHgPqYXAzV+gurQ5F1MUStf4P57txp2g2LwsOcggIxqq6PFlvBhtAgthKfa79qaxilYXx37aUh9uVIdFuzU12/qti7JCLPhKCa6jkLpjhxg05/zzZ5E17/P6QP6bwTeCmBwd4WAf6CLyTFZWWj+u2K7Bzt49gBKrdiMGI40A6IXLqCjo6TXVSHM3nsehOJGGVOULs5bgi0iKEh6VNYIAeLCsYMwJqvii4WVojfeErKOQjNCD4bXDSl/hiG3YuryGIeO9eo0QomDAp+aeZ4LJJuICCOLsCUzlZqJqg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBtFcivRS00RObnZm0omlnt+quLXuvg9OW5bBXymIfi/MX6q8SGnKBguQVHKSHWf3MoZwMsnghdIiOttDqgxoMgBO2SGLLRERPy//4bbBeCd
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Matching+on+Different+Errors
+status: Unchecked
+record: -1
+post_submission_on_open: true

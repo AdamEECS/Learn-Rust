@@ -1,0 +1,102 @@
+type: output
+custom_name: "Task: Home Alone at Day X"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: hYc9t8kl3VJPk10qRSJLdrsbw2RHxaba2+JNuM1r1x230Z6Fg5WaH+/SVbjKREadCKJAyfOUd9cviO7CXp1DMtw1w+hrrVEhXOFWmO5eteo=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DOJ1ggmUeigbzwrFC59SH16VdGJTO3ma7lfcF1F5ND1C
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMu7k4TXCI7unZXg41jA8acaX/YkyFr8FC8qkK+o+jIvAKh/kLsB+AFIgdz7yPTrB6MzTJwMWobBXC9zVK/sags=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 29
+    placeholder_text: /* Add use statements here */
+    initial_state:
+      length: 29
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Cy55l4A5Hl+I7c8CzfSSn8zUzR2MMfJAd+1jyDbOvRELM+RQBhdd6pUmvewzLCmlH3Yx5OsbiOsollDa88XCQ6/L/RTchIfeeD0MTS95QCrokpefZYpMeji6RF0Ioxydeu2prYHLlaGHbGhHQQGX8mAAwY5uRuNWcxTULr6W29HSVW0eL5CBzqZ0IsjF6ovt/XjWXKsE249+dT0QT7C9pQsyMHpX1Aso/uy6fHE4nKA=
+  - offset: 137
+    length: 30
+    placeholder_text: /* What's Alice doing here? */
+    initial_state:
+      length: 30
+      offset: 137
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 44q96sd5Yzk1SxMEbCvqlPtgE9fqkpFVLMcRzrq0/cSqHMsQdDss9cGpD0OZ1DGL
+  encrypted_text: aZytHpxZ5MoexgToa1It3yrcaVhKY8fadLjS6tYY9Y5m+l/zXskFAE3ap+l0VLraV2RM0zeItZBoz4X3nZnZEYDNqCZpYSYyOaOVJ67ZLwPxrL86F62hL15yGeZBaWgUq38BNFkQRVC8nsIs949jaC90/Xc1muQoMybRk0v7pLXFOMg0UZKhgbd0W5XDfkibQBKGSrRu7RCKTr3UUPNgibSDTyCO3J9DCKc8NrKUOxE=
+  learner_created: false
+- name: src/ground_floor/big_hall.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/ground_floor/kitchen.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/first_floor/master_bedroom.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/first_floor/guest_bedroom.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/second_floor/library.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/second_floor/office.rs
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: src/second_floor/astronomy_tower.rs
+  visible: true
+  encrypted_text: WO3w9q5aX2pbg42OK1CMMRhRUzyHC8Ng9ES18poO2FyXjCUb6Sd+wbd47C/GwliG1D3xH+jUqXAHLWgiXtAE+ZXtVCCoy2/MtV0K6k1Ai/A=
+  learner_created: false
+- name: src/ground_floor/storage_room.rs
+  visible: true
+  encrypted_text: U/k7W/NZ9dTB/5kKnrPpLJaGFVqTTHWYRZnW1dZw9fpoRQKf9Kn+7cAt1epC6XUeQMCD9PreX4/UO9ww5UWQw5E00SAKuO7Rbh27m25lGEs=
+  learner_created: false
+- name: src/first_floor/toys_room.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 9
+    placeholder_text: /* ??? */
+    initial_state:
+      length: 9
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
+  encrypted_text: sPjji+m98d3Pjzl5ovNG1u7+Q1UUgg6B6V/0nsLpRKClhLpEuu7cd7zMy5nOi5qg7n5YUGBxR8HnvZEwgPgrnA==
+  learner_created: false
+- name: src/ground_floor.rs
+  visible: true
+  encrypted_text: UJMQyOtd2vdpbpMo+mhShS9njhxUZCqSaMi5m3CNoyCDWDnI3Uv7uZ6B+6/KiI719iXGxFGiC+3LUI6Jn8n6wQ==
+  learner_created: false
+- name: src/first_floor.rs
+  visible: true
+  encrypted_text: eW12DKrdKcpxNvWlNeNxrnkO7bXxHNjDB2coXYuUO7B5/r/bFnH22KX+u6DbJQqM3l3DL5WkhK3JxUHTAFDzrMsxsg3LGy1mw4tOaP5tfDQ=
+  learner_created: false
+- name: src/second_floor.rs
+  visible: true
+  encrypted_text: /9+SwxHi1oQ9ve2qKNk1W9b3WhwFQfHVX1teGAHhJ6UvB42CROAKzYuq+MLe2XEkU2lc7ZqPCF2DKgaMLjkP0Q==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Home+Alone+at+Day+X
+status: Unchecked
+record: -1

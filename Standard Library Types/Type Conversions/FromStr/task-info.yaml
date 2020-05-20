@@ -1,0 +1,77 @@
+type: edu
+custom_name: "Task: Implement FromStr"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 753
+    length: 33
+    placeholder_text: /* Return am appropriate error */
+    initial_state:
+      length: 33
+      offset: 753
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: xJSu6E3KBeOipSm7UZ0hmyUG/ZLbY3L74WmmSuC6envfUTottAAjJyfLtICUSLhv
+  - offset: 860
+    length: 106
+    placeholder_text: /* Add a condition for the cases when there is a wrong number
+      of fields and return an appropriate error */
+    initial_state:
+      length: 106
+      offset: 860
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vZCIoxMFDzUZTIPXSZSC73cc7mdFBTLyZvuagpB6Rv1nDOPKa4Q50dm6zJwr5P1mgH/V21ypyEjjzueD7o1UlMOfjphPyKOEgkA4BJVqWit043R/dyS1pb2RLF01iCMpzezRJOfDkKRf65T9ZsVvEw==
+  - offset: 975
+    length: 131
+    placeholder_text: /* Extract the first element from the split operation and use
+      it as the name. Return an appropriate error if the field is empty. */
+    initial_state:
+      length: 131
+      offset: 975
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: UbysJxFO4oDUlh8wjZ2+fp84Y/Z5gJu/SEmCGLcjBtvVFQyEbMd+aOBQETHihTmNTk+TiuAGTkbd+HSJsAPaq0++y3RgI/4+5e4sa9eRbJNTb7IoNT5NAi3BpRQ9yWEmbMYZsoO7/qHNBmodePz7J6hHKTsMz0bGJL1u1Gt2oqseHo8PXGpQcbOaMchnX3TF
+  - offset: 1115
+    length: 120
+    placeholder_text: /* Extract the other element from the split and parse it as
+      age. Return an appropriate error if something goes wrong. */
+    initial_state:
+      length: 120
+      offset: 1115
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: orynRTv39WyVWNiMHPnkqp4ypEGa0xdlL8u0YIf4rGeRu9EWReGMajjPJx5+rUax
+  - offset: 1245
+    length: 65
+    placeholder_text: /* Return a Result of a Person object if everything goes well.
+      */
+    initial_state:
+      length: 65
+      offset: 1245
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wqix5Z3+nHKfufDpAfEvrg4sQlqliJSiU8pWE6ps+rU=
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IP9MH5fthQf9RykxwatpX5E5Z3DhYcXXkAcslPNxov1ZlZtFecbktaQnWR3lVPryKsQxJ0NincA6BvjzgmGi7bj1FUQKoac+0OqomeKYD30aJHMwXRDZ9/9++jIvLZCnOiK3paPnoH3DtjGW1iclTgCItkXjYL0VJpf/1FtNiDwme8JrDUMdBQkrGXJX1s+2zi10cCCdyl4ure6YRdt7auCrw+ZvKdjtm/i68be8ms8cFsSOAyCv5YOBsq2Xra1vYkrpTMLb2kn/sI/h+VpJSUW/WzpmtAK27ix4IokziqIC5bNPHHrqUW3w1LTfKJo4ts2EZcXdJUA5yPtvzmlRT+H3vTFgdrWmLBjAYe3sGrPIBsdQcZpv5SAurz2KaL+2Qv4QXjfwd6T4e7+K5+EMHyaT8GIsGiZOgusXMCnTYxR2SBo4zwnJaNmu34bHOfSD88ynPZ9Ib7If7Bx9sNbW6j/qeOFBpZHCUMvXucruVRQ11j2qr3PVaaVFYlZ+3Krwi7QtDRFiFHR3jnI2iS8EIBeo+Hh5C2fOHlgMCTruUc64NHVWB5HUTUX/TX9sS+r3u0VYgMTXFEFvuFBddI+V1zpUj2pmSQH5EefM3GkOzSuU55ru7bxgE6ModwhklXbg9SMHRCSP+TR+CYNr1RqMko6rKLHw0b8p2iweilCEsucVJy8rslmEcJqZRdPTYDPhPiJ+GVHYgJjsyQ+ZJ/C2iEhdW2/q3L+SzDbKjlIQyhSPXgFWv2qmdmBNl40Knjqbg9O2Hx2CkB32MFXkvlMqXWuZBzAOK2ZsY4wHaSHY42Yl+W4Of5jhmGsU4wuD4yH0mwjbjhkxy8hsKPIfqqEvYoK7vfYFJbdGPtEaEJd7WRLOTYqd4/vPEOdLJvgwcgPKVoc6e/7dBIBlJg9zx8J+VGN+XIuJispFKASZ3rm5EG6Zg5b1fp1ateqATm9cQCoqO3qLQr0EkDYTs+OvjiLDLMinvx/nPR3s+OksDOOyTnAHdYIqtaSu+Gm5KTCWmO2hZYmPra0HyfpduOpDbU+gOWfkfNSy7mn1gQZMh3pRlw78qW9vQRJUN/7x+M+dy6gFM2VlyRwvbmiuW4rGLivofZdNF18woZfSUn4utymCVk3m1jHkwYN9QfOaURZXwZBswM4O2EFeZd/OD6h7+kxQ4vpGLmVCDBAdYZxgV2QlbKXrb9lgi9rwuSKW1ox+/ndN0rxltr3dTuT4RxHpf/iQ3gCeaLyw6/7+4cvCmKWzMKpDpZJ4y1tdd5ywb6hg3k0tqn2mRgoC+tHJAotmlmDngX5ip7Z21/9aNDLGNpra4mn1cJajJt3CTK4vU2xSUvDtDYIH/nocr52D7OUAkuqEAiDfVosbt2TE9+EtZxsJTHNBhm7+c7Emr/vo0tUVy5QaUQBns86D5mBFwglLr8oAtePeytluX/GwRXkmuyaEb04LKk7rUu1NGPgj2Dx1G+6C5kgt0ZVc0cKHhpgXA1Z2rIvBtmdQF0T8E7De5oL/AwLnNpM8sgNxzYOnyoxuDtsj6MDR7ATtWYhs2KDt56qSEYthKrKtyj8eAFHeOJc+VL69RMsUbi4HWlELuHrWfWVxajuYBABoYTpmTBrrD5g4pwVgMwZwl0NFYN7smhw7McRdG+ukYpLU8GUAvjr4j6HiRknFK5ro7P7kMBKfbrsh7z212mzjGe7U6RBlGK81SV1uulU6T82fGxC4TAo/f8ncq6NOLsRb/lrU+fblAo7++Pk=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 57002VrxwfZDxOTwEytsXcncBG9WRPHJrou/iHAYDUBCWkV75gFW4Zqkt+tQqAs37uWaDURFibDgHHNh7FVpTvb83y1np+ok42ovz16rK5dopJJmLGZ5DQGR5Bpb+l6eRW95QaYo30iQTJTsQavPeIcBjG35u1TjIukfgdLx8zZQps1UayEjsLdScU74CIIriSDZrdS9/TD3jcwoXCz0mRG67SlF+1uUCll0YC3K/1XIEPCdk4mgnr2XhFlpqp1rcKK6h/FIxS3Ytdczsn9atWVCaOAmhdl1OZgVUPplAxymCxj1SkMuYbiaX5k5BYMFudJ1vP2jvxHSnTx1J55zooGJM23vhzUcXnYKVjMgwMdfZpfyoZF2Bhty+D2ZqYGkAwNaExCe5rcJuG99/QKRj/KlZAA+8UWJdpA04ak/BAW+iqEz9UG7VwnWguYA2rjNruBCwzNhoWjq4sAJ8JnxEQTvJ6mEfExrkPr/Lm+hPSM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLX4eeXRFs2NYG8V0ZSkko7OiR2gBHo4cMQnzJf6TFJtVwnf8S9xN/pUz2sqL+m8PQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: true
+  encrypted_text: 57002VrxwfZDxOTwEytsXcMrcC1riOB0rtLIbYEKOxz3n/qloG6Q+hJCDpTCqZh050vTo15tksDxA/1ywES5Dy8zJtBjBzG/SXrGCkrNijH85z63Ufjj7irUUdFoelsvxffRmkY/0wLpcMIli6LUe8+yYp766Jt4MNHLbZDaR1dfNaDLtQ7LsixMrYbquER0NNngM4tGESpZM2M7bhuwlHc3VHmmeytTKhMbb4H/Bkdtob2Qthp8JbKF+0Sx9g0kKqCywVjmYM/BXHKF+n5uFuxytRObS9ET63mEKQiQZOLbrlI43RzdqEZjRL++EGDSrT8B+yEFTXRW6Rmcare/9NFqW0lcfowvxbwwnkhvFFQQ9p8Y8RNqntQMEC81LS7XkHNfqWo+pEb+dkWNxh2c67TMCHwlF8HiVC2XrEoIBvGQnn1fE4Xx2vDzBW2htyQBRG0w/d8Y9YCiTroz84S2Yr5vmCCgmgoivm5AbWbVmSHNrafndx1LQ7uxlMKa6/vfqX5SqTcLVAyGa6xTh3KnjNKQbcts4h3o4kRNTplgsKNN0IGsPuVmg9f9Zx2yfF7q9rFHPHUsmozAl6AJLZ/CVTmnuhbY+M8RvDdwSzoVaC93bJVGucpQlJt42Zwi+2wtSq1pp1WxpWis+LNGeZJsZI7DUsN+HHsb+wTFBTaLIrWRo2sDIKb7+TlgbnlGiwpQUij/+Xdh3Ydv1rbQyIPo149Kd04fyL2mTCQAQm2Ob+Bjrpp69OWw2Pp+Ms3Zwmt9mh4jZm1Fo4lrb2BWlImP3fpueH+nse6LZBmlRWuA4hVWv9LAV+ch//D51nId2c4tyUaZUWGvj+xPWoBRqCLQ2sS+iHcuVvbExKf8LGmo7UEASBKIvObKswboQyikElIbiNrnkCY/f0ht0fdD7KXjqNTY1pqN/KpcbjtZYw0ZyZ8/OM1ZLJ2tGpzavl+SoU1Jl7+84avQbSvjp4UC3LUZ1SmfkFaeQc6jgPDyCNDdvrQEF2P2SAXPkoxx9JeO4rDal68vmbZoe3kgXm4KBo3a1/K68Lme90gBTNh1+/4iyvJQ0a+aSjhKCvv3OSzHAPbT8k6PmFZ4UMwP17g1M2y7CNNQqS+OafAL7IWi6IPIV9pkbrro5jCFsgE7Sp/BlP9+yNaaAyV2J+eI0ELp9jMAzzGQD4gfbQhmZmOyiwTy7+2aYz+HfhONHqETyNS3TJoppl3GBJA3nHZ9iGR5/mCeaCn0oui36X3aWTXHjgkTv50b5Q/33XTMjYjp8A6LZhQtv/j83L9J0DrKilFtfgiEfxOQ9RQzJSRbuE1g/Ekw93uGHg++4leV+L8q9QJjCeJiYFB4tjUnCwuVJsjoC0rWjOPA1l0EF2hB194bHUE2PJH9EMiqq8pP/x9fBmT24XgmO2gmcSbcB+STjGuBgfU9dmqYIEMkrtCKHUIoT9viucbArBzojOSIXeLkiqbQp6kobOXwEtiUTJY5yk1gdFWIXM/w7z82R1MkONWTxR433eCoFpwdPufLrhELEGlYZIEDbGfPGhO4NHRs5HRoiQr4ZZl3cZ3Tw3vE9/wvzY4ebjpRlLe1U3IcTI40kuOcsOPErre9lppPsWg831dtFZcK25TRHqbtqqz0/rzBbUIlnN57NyyrwzappaQIlaLkfXBEqa6h+/9RQWscEU7V+R+vra71GkKvxVkU9e3WF0Jlrcy99boGn52tpCzKwdTVhCwwPOHwqgWFaKJbpSgKpJWPthQd1RyL55PibauxFr6b9P+ibWsdx5IlEh7YXeJLINUlSTMW2XjknCTV4rQBIA/qg889vONssAwQojuq6c8cfpHP7IYiAvRVnKveuQF6WC2M
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Type+Conversions+/+FromStr
+status: Unchecked
+record: -1

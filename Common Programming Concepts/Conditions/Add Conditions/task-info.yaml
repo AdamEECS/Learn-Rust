@@ -1,0 +1,56 @@
+type: edu
+custom_name: "Task: Add Conditions"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 99
+    length: 17
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 96
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: /woAluQ8/g4A/EeI65UruezyPQKTHY6lCCJJJhmsYtA=
+  - offset: 127
+    length: 5
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 132
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: w/IJOa/X0wTeRQDPu82lig==
+  - offset: 139
+    length: 14
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 164
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: uIOVN3BKcAggn5BPywCqjtUuenYsPTzx5Y6Fh1SJ5YA=
+  encrypted_text: /WnNls5KRG1zsc31LSAwl8c2pRqNuyati0LjTywdRTUixz7Yf8Yo/KPMWzGKsVfdPz3g5tfmDZce7LTabOT8vNaLOhI8uJXsLqzbVVTVyffJqej8TuDl8/t8eKL+5je2dKLAnZ+j8fbZDzEt9hAjwgxN60HLD6UaqBxukDe9fuCXjunjphTPjIGz5Mi0MGKnvYuIodmpEWqceSbnRXk/Pq91eGM07qH0Y0K2ooVEclF2XuR9WGj09ju2o1765fAvIOvrPVMI8ytqET3BwokH0w==
+  learner_created: false
+- name: src/main.rs
+  visible: false
+  encrypted_text: lo2iaaeo/gUrY0TqRXBe9FJe7GZpsnlN1FxLghgHntypJe/IFVZbcjFZ931ZAR9I5lFetwTTaxJ72bxYjtYlM9mksghpYEzSM56xFQt9PJp7WyfBjZ/6S9IAFhpqi/CLA5ibk0R2L7zfjeKCcBcDdLzF3FsmGdM/vRO/v37lwh6AqOLzU6Ke4+5FT0VW/xTjg001es7HTGDB8T672VCBVi0ea1+utLAVJqodYYjSgvz02d3Xg5srbOvF5WlUHTxP7Gv23ON7wA6DeDL222rioVN7nZZPing9uVVhqgrfTQDA+F0hUnoLTH8vzKMOREKZNUMKuTLKQaJcgypHz8NLJsqHvnUtHU7QBjny0PnSPssfbY48TMSLw/f7fgkqaOifozyg7C0WcvP91LrqaPERgrgqUZZmUkTXLpQdqTJ6r3I=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNBvGWdEF8anIwVdU2HToB+SSwnZnIyinfHzydIA/aYYB+6ywbYjqfUawMTxjD1ZiAHgGa0SghfZh1j9NNO77BI=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: lo2iaaeo/gUrY0TqRXBe9FJe7GZpsnlN1FxLghgHntxNF7rXjVTJPQ8lnQNZSebP25YD28ZwlbGLGzOB87aQmJ1ymMQ1p3VEUArfFrCGIqYRqYbnllWoc4zT8iIIUxUzSsPHvCCAX8an1yvvQ5Gmgw3EyNukIYsc/b5gmqlijmDC/clFu78Rh/irCRja1jA36R50E2DZ8fdpnQoB6l1oqjb0TIb2YTVbtFFfqbLuyqxkzhZ5gsqhmEYXXuPCGE7d2yIGHxElDyp7kF2DUhwTGptRY9wWV8K+CVFVgdfi42PHb90JxLfix3YmEsOwh9V/StMLeri8d9mI7wXBI2P6FXjBwAdN94Y1ONiQGd5/rjE=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Add+Conditions
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:47:07 UTC"
+record: -1

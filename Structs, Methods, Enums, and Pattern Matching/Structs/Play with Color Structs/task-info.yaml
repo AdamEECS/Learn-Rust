@@ -1,0 +1,59 @@
+type: output
+custom_name: "Task: Play with Color Structs"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: +Wz0S60mhvS/GERy4YIhXkYOuKq4cnrjYGmOrL2ewhi9OBWKGDrUgPCiU77SgeD67HaKCuui+0ukReeunXspZsVbNq2hJFWpfdavPFJLvVPdTDGtuiO5fJlSjNAe6z8+
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 32
+    length: 22
+    placeholder_text: // Something goes here
+    initial_state:
+      length: 22
+      offset: 32
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 2TFBeVRnPG4MTz5iIb4DawSsft8MQUJShEaaJ5fbdjA=
+  - offset: 82
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 82
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qxg/GOfAZHkMDjG2Cnq5hw==
+  - offset: 174
+    length: 34
+    placeholder_text: // Instantiate a classic c struct!
+    initial_state:
+      length: 34
+      offset: 174
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: WOsj8dMDHAgxl7zblUXNzzZjrZ/3E2YO07/i85T7zTRUlZzQnd0Wf/NEo1ryBwfqLOGbkqqv+NE18lJqtJOolBPPNpm2naFLD9itLJOpL3kZnEfnYIznaaut3Icc/glmNtUjgwTTYBdCTOMVp1fgfw==
+  - offset: 286
+    length: 30
+    placeholder_text: // Instantiate a tuple struct!
+    initial_state:
+      length: 30
+      offset: 286
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: svLB7K358o4OT34SZvI8QYgQK+fXDyjkAdHuOOe8JfZO1En/G8tKJb/IpLmumFPfC3EbBuli5Op7JpP2utaDGPvNS2jUBET7wv9857AMKAo=
+  encrypted_text: pjN0ylu2U8xNNZfmJ1iw50PA3LFbs/PkOgHgB7+5k0JiHmrvgxxijLbtijaF8y1yZm2sY1C3TuXjOGAIfGjlkEXFJ8o8Cjmdwqv9NYn+sqdB7DAAkRtpAN8MDBZ9HlCjfZ9c8DK1vwpGfD1eZSJyVSnOhIuFL5GtnI6fJ4wn1lZ6KSqqbqG4fw/nF9JBWEu9ltGt9P7gXtVienfWq9YkvQA5i+g1hNyytuiCX0JEGEndhDGhSwTCYlP261aYA6lZExAaZ4LlxwaMzkqKHC76KlFy0yKTjHTRvJGxg0duwYU6G2LBoWwpP9GEKevC86FGyz0/8QiuMTSbGEFbC5SM4gEczqPG3LxBn/7e/VGyoTcZ5WPsRy8PwN8CG8G02QKMk53Zi3MwHVaVSxNDvaA82pXXJwfH3pU9vt/T8hR7BKBv5tpkrZTT+fkkbVlIJcawZBKi0xcG3RhZO/i92pokDcOfbeag8Hd83yGPi/ehvoPaJdYeuprf4so60SfwvA5r79heAGiZP0GIssaPQG6rBwMsMnu8/qszGPCNqJFA0EA5E+PlksP5v/k0HCsRWqOOGgPKKgMdatqELaasj8I707xGHVd0/mR/Wp33ZSTDinCLY41H9FWIH2rHA6JRGgITgzeUsonMVVvdB85tOqv5zfMZoXk8c5mqHNl1FE78o/5fwHYidiNyeeXl0DqSYkYOFa2x8vnDvIn3CAkMU4xDVvmIqKEoLsFNo2QSE121avsr83IbQ/74Qglp0WvJfrB6crV5I1fL0kVNq/fPDMYp4Xygp6O/JA831HccedVgYrg4HYH259eqMKzLJSLHApC8fX90DQkguBAH68f0Nk8+MxLEZfMWdCc7Qoi7AOmwwNw=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNSPJQPoGeODtT/Ln4dCn5abZbHj+Lwk1pd2f4rMQqEvyiA1RiPXa3orIuG82WLKcPT2IGS5v8TQhQiBqE8FZvM=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Play+with+Color+Structs
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJU8JZyyEVc1++RADGsiJnboi/4Z3N3V1PrUj/8By2PsS+T8NTl//CdfA+0wwzrZAe/fBVaxW8nOrz1ebJk9/BWKkdASg+zElx2/nYVePjkjp9zFnSS+5NFKgGiDzlx7DQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBEZZqFKK5GBYfuc3U6P6A+qLHe5n7xKKaIecWD5cA9aODBdvWYGT0tw4vRJv4aI4vQVQXqMjW6pL2ratHHmj1w=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Updating+a+Vector
+status: Unchecked
+record: -1
+post_submission_on_open: true

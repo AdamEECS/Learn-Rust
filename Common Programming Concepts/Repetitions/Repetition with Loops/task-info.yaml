@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DOD9eNTsMxVdeuGeYjNQm5gQslkI7Hv1hepr/tP2JWRRa8OvbrqqTJunqgluWm2WrvQrwaugF9yjzzBDpfjNnxeWfPGrkrdwg7zy89Tm3BQH4MnUoMofTuizoIpntEesqDgj2qMobzsmh/InfE5qJTU+TjSfnNrONT5QUKHeMYksgv8XnItmsb8qsVG3VTFhtbw6LcTkPJORCEUOGTH5G0vD941dCJx+K73PpIRm3tsqIXAGJoNjgNr0hwjk6z3h4Q==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLoaOwQ7C3nJJkMtdX26UFCAVqiC5bSu9R+v/UTGrXZBL538pIkjP2tXRTcKx5ZExUhSr22W7G/y5hVjpVfbDIQ=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Repetition+with+Loops
+status: Solved
+record: -1
+post_submission_on_open: true

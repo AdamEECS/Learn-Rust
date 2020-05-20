@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: +QKEmDknYulJvS5PMPP4CIe01Rpjheq73Poi/nPrOgn/VXJgRO4S/Mx9cjyVcjU5QbitlaiZJQdwk8LLPleNRY2Al/OYEUF9tutyno8R1mVxShUQI5yR3/oYoxd0w7QDMUk2o3ObiRLe+ZtGq0B966u3FiVTsquc1vuCgNHpaesEzS+M1zryGDOPof+LcaYQORJznndsSG0vE/Uf8AdRO35OQa7ArHcPv8RgPx9oKQE=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNnhnzHRjdGXH4VLqTk4Qjzv7Bt8te9KU1HgK0lSrj6WM2OaEimGHslMI+LJkvCB/2nPkfBbKA8tflyHkqgY7Ke4pEZd41njkl9VBKE+qn59
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Enum+Values+with+Different+Data
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DKrk0OKU7JWGlvtQmSKPSCfOkiZX6Diti/Cy7/Effn5G8pKZrKFCJomO/H7SSCpovbZ24jcjjdSYB7eWJ7/PuvUPin0hwwf3jwflYtIXvMw77jodH5Kd2d4Kdre1mQjXgPsbtNJg4J1AAPoLva0mY7mH00a03orcASSHkl9S01Durlsv5HdPWun4BHoVW9bqeldXIZG9jncT6LEUWuviQmgrv8YaVTGUpMURlJtx/MN38jMVrR188P6Jv/MEdlSYRYLrZjtQVaCXtqh+0P0d0KkCbMHb4NaBhAW4TWO0WPy7Ofv15sMUBKZJZ1c7l/2/NfI51eOPqs9CJNaqgUSKne6ADnIUrIwyJ7/ZF6RTh9545T3inbnPvwK60naw9xQ8xEUuhAcya0ibu4vCXcN1NATBNunf0RlmmJgiUHkT6TPmt6ETPiPGY06qrtWznL4JyjwSPMFbWw1n/jw5HN7B1hJUz/Rr2Bfs3TDYwlypWLjoFYYHMTZ8WbOQcvREGHmQWBMbazwP/6PKAm8CrY6WB7gZDjILhhnODtlRYiRXDd/F8ythchjzlCe7CjzTgKe5YhuiDnziyVfhvS6n2t9W1OSSWgzhEAdqRyx5NdhIF3j4xcK4U1S2C7ImllMopSRN6zalqB3ZNXvYt/ESwMHTvqiwqKksc7T39r3ZPlKHrwye
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCUTtt5pBruic+81djI0ccWlCb6jUUSNRHrWvvfwclM4+AOUpC7EANiAOKFC52jTJY+UbShGh9c6C64q7I09GKZAn5LJ+lzNpc6hUru9vYfD
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Intro+/+Duplicated+Code+Fragments
+status: Unchecked
+record: -1
+post_submission_on_open: true

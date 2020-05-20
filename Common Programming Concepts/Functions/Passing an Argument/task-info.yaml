@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Pass an Argument"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGhohCp4RO7zA94fNd1rb59572jpE4ZkQ/RncPwIOQjXPOO38RR+ySsowp2Ak8lG0y0IWxZVdN9vawfcgGOW9gI=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 24
+    length: 1
+    placeholder_text: TODO
+    initial_state:
+      length: 4
+      offset: 24
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DIa3VXMABcfHSs7tPmvIOYZ9Z9pZLvPgAop29XeLpVObTID5oFM4G9pGeTeTI5IFyNgoKlHshGufGUmWvbE4ghGixqWDZDPp52PalvdHTZQMPz0ThD4E0QzxDoA53QG/K2l2LBYsgSyqkilhBHPQF9y7cR6yCAgiE0IOUJ47cOvn
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Passing+an+Argument
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:25:38 UTC"
+record: -1

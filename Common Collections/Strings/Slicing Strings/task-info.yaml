@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DNjK0gQn9eW+MQ/wJTixV/4aaSpXtPdQhm4gvNfRlArG46sLPmYIrllB7Ic+odRyuRTGNDDJUA6ydAM+YSBRpBoeBhrpx+5clvklII8LnCi2wPzFd0m+gZfO2FnWgiU5XT/KhsXtO+cV32pRcC+pqz0=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfP109psJWdtiNCF5oj0Zee6pGle1afD7zRknz6B+Zjk3L2iilGaC6myI1KS81SPJlQfOqPYyiTmSEiqyRiBZHyc=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+Slicing+Strings
+status: Unchecked
+record: -1
+post_submission_on_open: true

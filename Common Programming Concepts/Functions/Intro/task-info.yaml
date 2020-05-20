@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDNmWk+NOBXMfT7+56h3EoywSNYFDsC9orLh+DW8TUAcgHkLu2p5gWtn7Ba/SXN4IfCFuqwlDPiXZm9cfZWTrk4=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DPtKvvC9HWbFjCz1x11M+QThowFpnQkSS7K4+QdcjCvOZaNXVIdhLHPd5oietl4q+g5iGsOSbhfjdblCq2J0czxUCXnexWrWKzCbIu5RseavD9on5Tzwk6fK9Zxjy5NKY00w8R44iQwTk7g/aOuFMk43p7KWyyF5Y+VKCBDHwC9t
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Intro
+status: Solved
+record: -1
+post_submission_on_open: true

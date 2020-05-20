@@ -1,0 +1,32 @@
+type: output
+custom_name: "Task: Build String from Literals"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: F+i3v5LJxg3CnJQAPODXVyN/apGt9fniSKHW7j4OjJxtQeA7afwQZiFGGnW8CfIx
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 117
+    length: 96
+    placeholder_text: // Write your code here
+    initial_state:
+      length: 23
+      offset: 117
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 1ROVL2xZkvW9yfAylnsv0Y0SUnKpexp6Nxv0M2m2n3XyfGA4rkX+0ItQNesQ5YrckmI+Xoa/UwNjz8nO4Vp7wHCbeDODHzwS0uBuF1nKfVFpRHCQzSi2dBXpHmFl/fvWCP28n1goVPx4qifK+uuneQ==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBdHe6vhkBX1TpB+XCoU2t9/7NnnUs7JqYt60mXp+r3C3Ne3smfybEC3PgO4Cs4sm+I5wEsOqD9P1NdXV6CRyLJJ6FmTYfJO7RfpN57O+c7EnITW9AYjPENnZL2qQDM4U+MHs5rZawu52jNkyMQeO64onobpf9cqGf7WIFHGH2AaH8VVGqjpMcjOSuPczzzo1ipmJ29TdozMk+AWBLC1mzA=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKhjrg51y1hMfKWzufoHDd01pSDDzz5LvQzMsJD2zbiFfJB+ZRIBRWY4gaYM8LdUEO22DgarMbPzbidw5eHvh5f5dbFr/28sweYIkgGcBWhw
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Build+String+from+Literals
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 07:39:48 UTC"
+record: -1

@@ -1,0 +1,15 @@
+type: theory
+custom_name: 'Using if in a let Statement '
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DNT+xyPyYmctmgiKB1vla3c77anhFFB6iOdjOZqxZRGPJK75dhB8nK4AOTy51l4RGms0qJ9HsnRxu6Qjkd3Q13WK0DrOQWh6wpMpMiFahHfXoUsLA4/hXmc0JPWJInns/NADCoJi7zP2SM7+PQU1UoBffEcqJrT+kfua8Byjz/Tw
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFvI9gWOGXRtd4CaV1PmE+T8HPK4uX7YmHZ3MU34ttnl2dSCAyzIokEGlxi+/MgwAb+8vC71+lt9eEYWfbI7Uu72pArwgjsHQNiTZK+HxGTD
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Using+if+in+a+let+Statement
+status: Solved
+record: -1
+post_submission_on_open: true

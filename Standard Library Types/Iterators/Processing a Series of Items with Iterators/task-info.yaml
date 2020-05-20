@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfP9ODgPiSLl0AMY8PPMlK08ONntuInOu/yT+BfXPeYsjv/pIOJq94RSCsVtBjfxDpLxAB9/c080hSjS2MYagP8k=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DFieuQBf1bqKk3bBIwuQCoaUkiv7YdCnUqsg5BnkHendO7TWtyyqkAwfkZxSwZJasX+f66lNgzC2CAL4IYKCkfmFt3eWvNmw7MHGtdWrinpPMqHCWbQYZ6VQPwXO+Rkym2v/U4D2XPVuOyMxucnfvqRf+IlynZjXebqgDWPfB02t
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Processing+a+Series+of+Items+with+Iterators
+status: Unchecked
+record: -1
+post_submission_on_open: true

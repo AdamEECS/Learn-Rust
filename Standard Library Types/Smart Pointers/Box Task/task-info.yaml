@@ -1,0 +1,53 @@
+type: edu
+custom_name: "Task: Use a Box"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 58
+    length: 4
+    placeholder_text: List
+    initial_state:
+      length: 4
+      offset: 58
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: j/+iTtBNdYQtLykFM5Uvhw==
+  - offset: 119
+    length: 16
+    placeholder_text: unimplemented!()
+    initial_state:
+      length: 16
+      offset: 119
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 9JsWD0JtxU3L0hxSELvf0w==
+  - offset: 184
+    length: 16
+    placeholder_text: unimplemented!()
+    initial_state:
+      length: 16
+      offset: 184
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bBgqMswAXdsysoHwOT8s/h3Hb/2B0fMxL9sR/t8zsJIMOeLpY2sq3oZChNNCjW92
+  encrypted_text: 1xA0y3Imzamr83KfZKd639hOeuTxnbhFm66EBdTYny4YbqOvfU1+WaqKauEn0MDjJLFhGyO5O3uP4mMM+IXUVS23OQAqtfkYQ6Dp0y+Gm/vhBV/Bx2SXzpEDiSLUjxpdrQx3qCelK0bWsAUyyYvSTbRG/0mGo8LfybZedQTD9PdH0yDSVVEOMMrXYMO8LRBl95ZxTmiRdq6wfgD+sfFQDAZ2hcxk6Q9pM91wj0CFFNlWNg1b+9Eyh0aVp5uj1pbTHB43wkfVHSeDwh++24pjUg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: Tp1JBm6Htat9+2hBcnfSPwGKIMoX6NSWjFxQWDeo1dy81V1A+5ZLBZ1A+6RzOnB4xjzdqfV3npSszkSBs34Spv+Kx5MYXOfs4qFrOyznrdcpfM2IJvIMtIe+tgSki3KRIBvrXxbEztU9Kb1OuCHYg8ZAE5X4GdzC9EMnK2n/B83+uaG4kPByZmUoDI/dHunwQ+mnTVaANNX6O+AqpOHhdHPlpNAwEhCRJ19yvHwhAXq+02ot7PW4zedCQYvQ1aqqcnTtwvHg2g6C1R/0Qhr/FQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfAKM2faESPnqMfPYkW+HLRYL2k2TbNa5ZUg7DZFg6vG4sqWudVcijIyW+T24peB9zg==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: Tp1JBm6Htat9+2hBcnfSP0xmZXl0Slfw+46ILbPxno18K7UdGneXpiXuAEHBhwaASVTyAlt63jwKppoov4xyjOSYB+PsfJLYQpZ2Kw1KsdcRBphm8jP2hZWv4U9hC8cd2rWlCsNNdgpQTHRZQWIlZrV8qe6LTmsweHih0PA93I0ks8ARRV07oIr8BUxnWab5sDyNwkeOpT9J5/WVcmJtiNrW/N5Y6lqqvW/KKfrIUWSdTSRIPGtKqHTIwp9S+pHkqgrjB4jMGNJdYYUWs8SNcOo2Nk9Uyq9qfnNJZdmFE3c=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Smart+Pointers+/+Box+Task
+status: Unchecked
+record: -1

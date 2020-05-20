@@ -1,0 +1,69 @@
+type: output
+custom_name: "Task: Sending Packages"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIvSlELXSJQk6DvSQaUK+l0cm2ElG4sFBLuuCrC1OqLW0zGUTujv50DLHvofT6DqcFuBlY4qTlidgiq/7Eas0uM=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 359
+    length: 34
+    placeholder_text: /* Instantiate the package here */
+    initial_state:
+      length: 34
+      offset: 359
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vu6KTnC1kVTeP9F+CxU+EbNkd90jNFS5HC0735awZxgjVJxM896L6IM/AsQz6odaEZJXbKWtkTRaPF4FfcMKMs/Ptacsjr1tbQKPPdudtiIGWXVwcDx9pi2nhAmxB6Q8jA2LlGgTexcBEXJzj40SOg==
+  - offset: 435
+    length: 21
+    placeholder_text: /* Add return type */
+    initial_state:
+      length: 21
+      offset: 435
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: cIBykhzvWSahGq6AC7El3g==
+  - offset: 466
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 466
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0ixyJj6WppUhCC8sr2RpJuyxUyBfhEGJhz35heqDegRuoVotH3eoWS8bLqZMjN9P1uGQTmvHsPiY+kRKSFZnsQ==
+  - offset: 546
+    length: 21
+    placeholder_text: /* Add return type */
+    initial_state:
+      length: 21
+      offset: 546
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 2NBORuR2M9+V9dBBUHx7yg==
+  - offset: 578
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 578
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: krjX16D8qGfFaSxtxDc11GGEdmaQGyuV/GgL4uZQdXM7xwxpCcbVoMZPZvhUacVO
+  encrypted_text: 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
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: H8MB1PXhLzN5PPQEdXsKPJCyYEEZ/y4FTqAs8ebTJxghptgY4hBrVhvFLcJ/QNC2fVc3F6f1RHcKdlOHb/jTeXNHZbCVxUnD78R9OAssjJxWg13gdsjVPJ7Hi0iSbPxUYKBcoepV/irtZsRNLZ5pbv3OLJ211dW36jZAVtTWCrhNVGA3x19nWjwE7BqTHhQvmxH/JMKxMAJB6Kj7BE4iW92u1/Bi17Ge4E3uIzqWrYA=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+with+Methods+/+Sending+Packages
+status: Unchecked
+record: -1

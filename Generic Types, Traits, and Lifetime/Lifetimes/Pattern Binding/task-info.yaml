@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Pattern Binding"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 141
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 141
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ac1NvB/ST28WE9KzNKVEwg==
+  encrypted_text: iE4XuQrXhKZrJgkDUiJW6jDZNfACkGEJtffxlyyKRitt1nUNJLXmIOzD1UeObtBVNcbp2E5beNNxdL0xmFt1TKzZOCzY00fcSrxXpfGwnKAfbGZPkM1SV1ZVSEKWdx7oFx+tvYIHEcpcLWgoTD9MQapAInMQzP0rMjtGjj12RIl28UdILAkYNFdTiI8iZ3pF1T/ZJ1cIZYx6RBV/prfwCx0+t/i91cInV1TWWIlBDm7lGaKzu7E+dXgOJL1P0V6PMfe8aMeyU/AHXzMhTsUvlxN8UTieZNbX82dccO6xHy2I6e4SHdQ9HLY91CrfcZ2bG2hVbIJAI+vG9NzRDoqh43PRYeutz1b7ILlfCrNmMj+OjRBebxh+2liTsbp5IINLjwpevvW+dlrnotjoOYP4+Q==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKTZ4LymY/rF7olUZMSkFPQ3GfWMYOFkGFiiO9SMBA4AR7kc+15Hk1IKHA2UWeWOew==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Pattern+Binding
+status: Unchecked
+record: -1

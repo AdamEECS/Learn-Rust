@@ -1,0 +1,55 @@
+type: edu
+custom_name: "Task: Process Some Strings"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 44
+    length: 57
+    placeholder_text: "/* TODO: Remove whitespace from both ends of a string! */"
+    initial_state:
+      length: 57
+      offset: 44
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Eknb9TnhYi0XAuajtsDmIrfBiW+3mVBceW5eCgQzGqY=
+  - offset: 152
+    length: 74
+    placeholder_text: "/* TODO: Add \" world!\" to the string! There's multiple ways\
+      \ to do this! */"
+    initial_state:
+      length: 74
+      offset: 152
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OUDT2+puZVueebHzAcvRENfUGuaGm/tx6jOBx+o0/89LBY18qCKWl/rOmFu++LlW
+  - offset: 277
+    length: 57
+    placeholder_text: "/* TODO: Replace \"cars\" in the string with \"balloons\"!\
+      \ */"
+    initial_state:
+      length: 57
+      offset: 277
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: KSBOl1iExiVHtA8xia5cRN8BHSXNiIHBZ5inm72iqpEuUrZ+MERE6BUmz2tzz7QL
+  encrypted_text: UdzV8IOULOvQLde5YgxjMIIfNtwBy4L24tVyUFgMszL1Vd1CoGctbXd0p37cOx+fcGstO22WB4EsbcSjya+HKkwGWDXmdc27FnKALa+nQR6ueRmGZmZPTfOFrnf0wUFn+TkNHUxGgUp+IZ+1OZPbFx9XpEHw5R9NmHdmfOyIT5Nxb6kNfu7SdwI9xluSY972YAF76K51H4m+8XwTG0sKlG3KT2nlymtLpUuJpfHnSW2yhlFpQglfGWVH7QeZZ+QZ2e41U32CjHsIfTuSPJR5fKlsaYw2m2d+s4pYcYwI6Ili0cjpKsoiDiRT7cHtwxKqUDJiUvB6gHluqHgbx4LvNolU+GwYLr9AX+fpvg/WPlgX9fOsrtFBLUwIKgk7OSVTYxgVOpHniZcPXDJrtaX3cJmPkqHbS89mjsniEFAJ4nGmV81FDGzqOoCiW7AnvaJpATPOkTjNXLfEYS7ftMyYQg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: NKY6YWBqcRgN4fyha/OcsYePzTPLctrlmkoIbGLyuipRDX2Yi4zEm6mW1/WqjbP+zpGZMt9P8BOxh2GhbP/WSkN7Pd3RSNOT29GAnIPc8H0LP8xOq6EnpLT0gpYlNU/BAyQST/96tObiNLPEPk4yph0B4mX8O1hfSs87l1RWkUMM0zJnZYUoyhewJdGG5TwJFx5swN812r3caCEIDxvVbORMCRM4kpJVP7T5xid2O3/v5hmmugdvFOfbOw+axhZ0
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDLBW+m149nzgdo2AOsPJ0HVD5riODkn9eg7O+JjhiQzYfF878Zk0V0jZ3g7VOQxA+SvFmdmtIwAaYNKRZZNkwI=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: NKY6YWBqcRgN4fyha/OcsSaHRc3bxJ1YoNP9XPajEAGnFXlvPxclocpnA+FnFmwZV0qZeeP+i2vJTezoejE6xNQrBWe+blmwcHgTVWKygqCfOH5bjyW+QlncY+8spStUN3iD467s/Z+W13LBH3q0jiSdi0MU2w6sPvHTO3y+M5y2pqhkbRnUQdYNN/fZvVhWMwJROUPvvbsuoM92xH9Yvuq8xKqiK+PtXm3to0yApccr2LwouW9eYIqzBuxyB8BGMtTdn1xKE+HZE5JL2nga/hY+vsm9xEPKMKhXX7804Kljy1DXCG8wa1Ujz+itoAbL5NIUadkfsOaylxIvK3S4fwbuqF1c4/TjsZ8wy8uJU3V97/vioGBnspWLW1PMohOK2lK4nMiSw3Y5uh77rOEdr1jSgEes6EZFEN1fVVTKwNzkCiB01PiIsxIpDxvOE+MbX9UBq3361bMUtHXoEhRTGXP+TL0BWANHfKnArjwbdI2f+F9U6e9W6Wp8uAbnAfBhAh70i/mfvTDAMdHTsD7MiXZghQQk8VQ7h7KqvTaN8Snh9rRWg1rlXvjP3QMYu/5sGU3fk5tuGqS1axFzwpyzCwkudJZc77/ph8J3C6gknpT/M2XlGIZtGMoFEAoPWcoA5AVBQy3WRGsqxBBICPWsS5NIR52xilvHxyAGxdFg+Gc8hoCjHqUIT3TtM6K4QlcV5V9OqJG+w1C4dmm4cBUdU/ymhlkAYTE/cTlXl3e6GdA=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+Process+Some+Strings
+status: Unchecked
+record: -1

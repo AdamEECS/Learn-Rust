@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 99YM9R0C2insAJB3LLfbof+bOldftv3XtEFhBRohzqzDwDIieZkmbbg8aozhtTok+JZFXSzspUbfKER/7t+5GoNtbuNYKFu5+qS5CKWEEALoDK8a5P7UF04PFIn8XrM9d0zBpXB/0cZpcKa64mM5ZHoz6fQ76AAR/CG77Ur7nq1V2bGzPruYdfHFYyGMOZb8gyR++NtrhW4aKkZdaXmCzprc1Zl5vnMlKHxEJoEbefdY9pc3Bxo0cz3fnoR8PGMZjwUcJ3k5kQxlfgNUdeE/34G49hUw27+zHHUisYBtxmHgKYfEBQ50Rc3hkWEj6Gh6xD51/1/8BuEvR70LVXvnLQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHrtnL8H0gU8kbshzoYg3rluDs2R0/5JE+hM5kQ4q+fCMHMbE1HWfU3jhWK27C2IXB9WV/iNQQw1LfaEkXsFj0NTbpQ6t7tv9V7o1phCYMPB
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Re-exporting+Names+with+pub+use
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,44 @@
+type: edu
+custom_name: "Task: Loop Over a Vector"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: F7pXx/fbhKCAyygOqHlLovGFYw5TNDq66SlJz3/cq0E3U5dH57V1FNJHQIPSO1A9xR/2BpiAZr6iB/hBTI2sl4Jbv8SCHRx8It3mTvW6B6d4ITKUHLlpVqEXgC+t/5UnmFRJ1FDVhw8yOYXvanYH2g37927HLdgpC/iSeBUPL6UjKuWQ2zJLed3TckenF6SIuL+5EsvGwAnRFX6B8S4mAtLxU9XlmvItuN0QfT/LpoS1ikctN10HnGZ+V1Afwj1Tp8wFpqJT4xbjfw+G9enb9w==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGnYveUlpVEOavfmI1yz+0eLtRBXBQycTbt+QkdKVuGjt4kj57YW/i0rMaIEtRmWg64GgRz8Jhp1GlEVrej3AlE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: F7pXx/fbhKCAyygOqHlLovGFYw5TNDq66SlJz3/cq0E5xmZqlyYJfHfFBGN+OmlYH++efZNC5MaoEjUR1xSDLgRAuaXL0cgRa0/XrTKHkgV/3yh/7tZN+H73mJ2a4OS6jlK09Cmu8CHJ7kkPELbjr21xyKyJ3mOsmC2Z7j0EUrEaeXdabeL5rQ/GSxn4J+p+zjZLFtBE/r0jeCY8qpaQ3ukgjlkAnSe7YhSf7F8m0jB7/+iUFIAQbP/rHjWkb89Pz0yHf5tb+RQ+zfvn+XOb51Qn9lZnNiZHUo0sqn9LKD382smWQsILUedoQL0eZkEr
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 60
+    length: 39
+    placeholder_text: /* What should we iterate over here? */
+    initial_state:
+      length: 39
+      offset: 60
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0w8qf2kJhkePUlHZgwRzTw==
+  - offset: 110
+    length: 71
+    placeholder_text: // Fill this up so that each element in the Vec `v` is multiplied
+      by 2.
+    initial_state:
+      length: 71
+      offset: 110
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: QQkOdZrK1ecvHJkXTJr3WQ==
+  encrypted_text: VaQcRwByVPots+MoZue3411O+gQ4lYrHrIzd3AVnZolw674D890u+TCc1y5R+XgA6r+sBsdNv8hdt4gZRNerDycWRXd9MdvpVpbYXcPg12xtSYazvO7B4rNCrNqsVeYkV2zT8/BQkHKpno37vEw2W0B42i6Re3jOZgNcjn+nZaOd7VamZJvtZZqwIHQnKZqr/h8TvCJ+X0SUJM6gogxVh6UdSZEUTILEgHi5EuPjlFbxyRtiC7BqLnlWi6V+P+GZwInDjvg5y8zHbJnvynQyYRvetAmRdFMOEkxlku6SCHUQ4T6N3xlwy1ur4iwmbZhs4YKw1e4gCsbQjbkzHhxnRIkOFA2BmLbA1wBagXZVeOo=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Loop+Over+a+Vector
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 5vzbQhsVRcZBROYb8Vz5BZzrQZ9uZVvqTotUKtBaXUN8Ttm9xLZ2lyTayZi6TQpzdtJ3ETIjjn0XyFN9zfcxhgiiD83xJaWdaOdqHJdIqEMDtwt+qiEQe2fuOpj+wRelTWj6HBpXMtXgcTh+cZGG0TGRLu5x6jz2yvQK1X+w5HSYwewmGRmwHGM9iuxQ3mkseKKAgtu7/F6uwni6/hUKow==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPSpX/myVtAdYsO7QSQKRlnGP7bFnzRbkj6dIJBkYEMTAtKxr4GZTeW25Ey0UEuqmmcVCVw7R7Zi/P/+6tg31qgnqQfkg88DPuOnhTS5SMS8yWHNzkPs+mSgUu9SpkWwqcQFZQhQvz/27ecJQcggO4C/KCZAce2Otz9Z0etvnAuqTXcPmSQ7oVfcod8C4PdNnHhQfzu9FYtYjHXeRpAamXZFwTcZyYi5Zxd6N0xvsnI5xuXHHxxbShr8cBJ/NMIkdQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Procedural+Macros+/+How+to+Write+a+Custom+derive+Macro
+status: Unchecked
+record: -1
+post_submission_on_open: true

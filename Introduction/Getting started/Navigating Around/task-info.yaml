@@ -1,0 +1,19 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DD+0EgQzJURpAtp3AV+Um89rcWd5gdKO7LlRr24qR/gwiWi9yZxjRxgJiNUw/0J0Mg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJWer+eovTkv6J6WLl4fWEII5NuLEbi+7dyYN2Qw4VMklgAAGpjo5ecpO+zc7zfGGmbSGlbjGg7BsHUtxgsmIlI=
+  learner_created: false
+- name: edu_course_overview.png
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Introduction+/+Getting+started+/+Navigating+Around
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 00:51:15 UTC"
+record: -1
+post_submission_on_open: true

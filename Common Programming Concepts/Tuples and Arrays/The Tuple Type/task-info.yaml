@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DD0XU/Pj+Vp+luDCE+EorgvctuEwB3Y45cu2DcienTmTQBNKYWlerxQ0pVvytXL0K/JQCNO/mEAoMh/3vQYSB0Fhux6/fIrvEQV3NGfuYEYRMRcQKVVkGKm8qYGNU2LI182IwMNpuWEduiCEJHs5jxAF488louU2ISooGE9kgQ8sPILM4FnrAF9bUY61Nr+JKI48HJ9OiA7tsjRPUunKqtd/mdxbikNi/CwfuomF9x6g
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfE/t4L7BLGf5xRp9uY4C9k2vsekbeexLijoL27+1dBKTNzW1zCafvcFoYwr7ps4eiCgROOBwLxg5ydiz3pNbvAc=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+The+Tuple+Type
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 03:54:54 UTC"
+record: -1
+post_submission_on_open: true

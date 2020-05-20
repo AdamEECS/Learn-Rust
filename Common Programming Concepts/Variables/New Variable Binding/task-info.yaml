@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: New Variable Binding"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBLc2pcshn7wVf0F8MP4PFvJn9zOvz4ppab/J3pzyOyAgY38XempfKbQeb6TVKc15wypiOui35ScGxGuOwDh8es=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 7
+    placeholder_text: '//TODO:'
+    initial_state:
+      length: 7
+      offset: 16
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 0iV8NCCPfPrcuz8qxwUXSg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DH2heQ9OcAOBNkigOKpmuRKTxAnW+WKPmSE3gKJEnWtM/XVV51XiFQeVvvZHhlhVaLl1TMDqDucHHQ83vrSOo2Y=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+New+Variable+Binding
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 02:30:41 UTC"
+record: -1

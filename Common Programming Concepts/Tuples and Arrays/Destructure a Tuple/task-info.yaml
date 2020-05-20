@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Destructure a Tuple"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLrk5oZUyR2ls4naEWTghjTHsUCgsZebuBG1qjD9f/01ZFtiGuXBV70Yo96HiQVINh16cKYCxs49VtVhGj129j3s9iLr99+hxf8nQazzWgyr
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 59
+    length: 11
+    placeholder_text: /*destructure the tuple here*/
+    initial_state:
+      length: 30
+      offset: 59
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: pGQSvVObzyhbKTIdEXzI/A==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DNSicseHoKD2N/axt1aoQvGq1eHwR7cOgwUhYJ4ABJBQx/Dkuz985Ti3hG8jRuE1sY+oTZ6lwgI8Yv0mQeU8FcAlLfnmQ6HYZDOkRUs9ep0WAeH7Cte2+4+FK982KCNeFZIA0UqdxA+xK2aYrwRYmgGpWNg4an+J3CiD5q6csOANHdDS/VXd1r9IARNjZLTT1w==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 46zQdc7odwehfbcrX7vQ3srYzCNjgknbhUP3l90kAexXFjgUX9DgEDhG8rN2m/ddkWlYSU4q9VccsAwcz1XKkRWP0Q4zeUAG3pAOsZNBoogq9LfyTLmvrS5eRFYjuzpLTkVS1xT8EZbeParY4twvzciBMFIi2MknX/2Grm3jA6r4Ag8hJFacA9qAqXF3XZrlTfayxUHOSzx7BU34qYy42mEnUutgzCdR+kRpacCq+/if+6g0YrO1tuYvH1/o8vjCcASpMJPdP5ZF0lYre+LpJVmdyPEXU2YontkscfzVnhtFFMiNvPBL/DR+f74u4WvEP+1hZL5vzg9d+NlHuUuhV/FePqC61ILQXIDtfT3JDulfIM0N9R3brG7uSckzbLYS/1IqkaOFtdKjZg3LvboeX39h66ZS/fm5Yci2YzlxfcQYe8G2fo090d5ShYXdt2yzUHyZXCTPRAYFseX7q+NInbUh6BAO7YOaaCIp5cn/hAGlsDgjnENcCrNIMpDuEUpEx4uJfz31fPvKo5IAJh3lG/nD9oJqFw8bZDH82hxu3zKO8cGEzDEdms09f2BIvG3i/3yVJ1818GE69iD9dhFa8sCt3efB6RI8TjUGSrWDkpO8VQ44KDvIe812IaBhkhoUBddKoMdktGYVDpSuOl63pGy9iJreSR7QYZpaLLJwUvw//lZam0WvdkmPVlgXxMVf0abGgx0ah1vx9TTtm17CW3utOMXp7u+jZzu/I3o/cYvookp4I+fg8wSFPUChvxU72P74/5yS68LuaRUpHddJt0o5DYBNdKq+BJ8LS3WvMVfAlEcquldU1pZ1rb6bigrvtdGmwTSqPhme8oIflGKMHEKCqTdjq6RjEjcMUHbfI/UoczkX/Pev1w+DEiD/kZbBsqXByplNvxTaHUArVbXWuDeCpRQ9DaRLv4QCe/Ft0HRjvGBDrEQd7N2z1SrBMXAb9uuSTVoOWQBkjQggpR3oc3dURFskNZo0K/1WV4WKB/GL4vk1Vh3mw4ZLdb0d0pq27ETdbeGD1RImFV6I2wTpYR2ihXU4zCV0u6WdOXXzqOD47E6z1ixjfcT6x6ec9c9KCX9mmtVNVy2T/1K22NIwo66+ple0d7KQItLpi61MB0hdJjbANwuxUPiTE2vlXHK5JIK4fkfwxzXpUuHrCeeXog==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+Destructure+a+Tuple
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 05:46:58 UTC"
+record: -1

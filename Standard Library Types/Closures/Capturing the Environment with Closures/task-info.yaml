@@ -1,0 +1,26 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 264
+    length: 22
+    placeholder_text: '|| self.most_stocked()'
+    initial_state:
+      length: 22
+      offset: 264
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: +n6I2VCuoH+npoerOPedb5jsSyu6mJUGW09jmV2qp6E=
+  encrypted_text: rI2CgUVE9RtmedI5+2w1djIb6NJJN5TV7IzE0JqqwR3yeYooiFIdL4cBoQBgtmcHpmnpVOn4yRXBF+dErHLj3lMw59ZdIqTNg9IBZwflAaGmnpyiRlRqZOWvCFuweyPYoNU1lioHcoKZZ3PxmsGTagWq7cyS/ztObseATy2hIJksNBCl8zE2/B89Zdb3bnQQH4Fl4FPKGlVmDJMwYfhNtF2CQcSsQSNj9A4PhEBnfiVGTQPzdrq8NfwfifJSykmh7kYdk/TOwgLy7w+jU9VPoG9ezli9g9FtByBAoZm+Vssa8OBY/MndARhZ6mPLc9HZNrAW0qOl3BuGBXPNmWH+C1lUCLp5iWEY3+356TqWL6R60j90SGl6K1rrhOqgXebPXAFS2SxwfM8wpAfwv16WSf54K3hKuFfcnJlzDCU7JJls0SjH7upSI/rNx/xVwk9ZE+21NrL5tXeCVzztgocqA4kykGNju+TefkzYsSPQsxn0Tj2M+thDP4bQmCOfSXTK2OVSZ3DeKCyQd3SwQzpaUTANn4Drap2Qmh+tDiZEj1j+mYCNaT4GB4F34ukNZeMN/01aNfogo+87Jos0Tc+VBVY143hqAIiDl0tgInApLXpwb1iA7khIv41U/uz1FeFJsg7z2U6aHlpBZb2m200nZsajol3N6BSoLdMV/8VWc8eXT4VeqqUSHw02CpO68C++CKp3E8qpDbB+cCcPCepgLmgEHCX0lfZw9fzRHXEVNSxZ6QreIscA2hMd5f+NfyhA+V9AyTp8mDHDUSVR4IKXu4yqWRFfg7QImFIzIZUPV4IeUMUAJ/qD7zld5Jm48j3DxmsjoDfmRT6+t9XA3tA4cij75CXKcMtwp3QgvlfFIWlVygpimvsPM6Avdxq6ZeQrHhPdw/o6R9qInEZ+dyiiL8qiMTW1rCQ9h1ddXvyMJEmxEgDNldcRjxSWdEu1Skk1skydbYcmyc9zfdqeAz4eAOnqLrRc7gNnonO1xNMR1btsMPxQnAncTCppL6JC1MfXZqPxvje8NgAkL6ZaM0SNr2fe/miTIo7piGSPFuoUdnxqzPViST/VNA7f+r/kTi3iEiGEok3OrdG4cZ3qWoorrt2iEAAXkUqFGx8DoGraHCwf8W1WN1z0z8VVcJrB2uVx814V2WL//QUskz7eVT1eHrlj/+4YSG+VOLYcT7JzxFeVaYp1DW8A011InnF4x1XmnPVhNjQacmiwo2VFAI39RU+ItzEkX+EMf0h+szoBRSpNXpMRt459FWYHtqcPA7Ez7TtcV4vU+lnGt63T4wjsvbvy/Kj4rHzgGHr/fOAdKB4013AXeqyoq3Llf2T5LoE+nbWNE6mx9PMr9wQdt+airkOGTxvXq+tMEwNoZw/KVFbzOhJhByn194Q6cbLm60lujyta5jvfZaU6g5Kt/DGeg/h54uArruiUowFoNdb4MeSJUTYKNCoz2219+JJImljqmkJzyt+lLeivZN1XKbP1pANZOgo2NP7Qqe7k9hIjS+TAIhZPRgpX1Un5wcTlHPdy7KocVlXNmp5quKODofsj8oBFhN27dVOwhHcTmW4b/6AcFS7eep3mJciM6jab+Q7DpZ3FCGd65gIRR3y8d/WP0A==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIKw7xvCraPPjf4BFdJl+Az4GDdgTOjj4S2Fp/B1O7P/1GwdK35dUq9m06/Hf3kER25YYHNdA4Ew8Rcx96qRk7YJajQ/ir2BviIQWDtkQxXc
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Closures+/+Capturing+the+Environment+with+Closures
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

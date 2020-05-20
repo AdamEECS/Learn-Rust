@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJzn28VoSqh7iD0a54kIyHQYjpj6boGOgaeguTfLoKZmzSoUvg9WrUoLa0VXX1tiZmNSLN2XM9/tMOJbWsj8dD1Rx0lcD/gziXTWM0KsGWEEbwxWTrfA0ydIep65BKF3K/cpiCrXeClZZd4rlB17/JOCnwPoMMhYXaymURoSWtRIdKa0MPNNEpfOwgh5UbmO2p/hdi3UTSXTV44Btdgz/Zdd24m8WuLSAtEj6ajYlR/zkQ9ZhmZjpDt1VVppKvh8oW7g1OIarzvKaDV8EJHYYDF/ZXyxLagyH8TukQF9WpAEFJ+EGCbrfQ/eJWEeTf9R/w==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNEO9R9qDHMEd0pDLHUzZMw5Ar4XY7t/7jR/Y27piYgq5ghk1epSX6jACgE5Ef84CBMVdjm0Wx+9m0jnE1u4v9s=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Numeric+Operations
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:58:16 UTC"
+record: -1
+post_submission_on_open: true

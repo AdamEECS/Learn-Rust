@@ -1,0 +1,43 @@
+type: edu
+custom_name: "Task: Custom Errors"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 383
+    length: 64
+    placeholder_text: // Add another error conversion function for ParseIntError here.
+    initial_state:
+      length: 64
+      offset: 383
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: lKroCT069bzsLH7ffimPjy3bnZIkz81aXH3MQw006fcy5lNnAJp78vhwkoxmXLaqumwnPeL5wsQRsoYLn49FTFXqhhQKatuYLe88IbpAXQh3vZx96nBe1f0sIdK14YEFD0pg1mWET7xIwv6mpAnXrz9H04tO2EgxAwodBRsHJVU=
+  - offset: 701
+    length: 10
+    placeholder_text: .unwrap();
+    initial_state:
+      length: 10
+      offset: 701
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: KWhO+pLg0E/gfNRX4ptjHcztkt8GfQ9ISsSsb/POW+p/Z9O1ceY5qHtZBLLDucOVAEXmVGoSIaabZ92W70rJfA==
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IIjiyBXnCejcUh1ivVHoyOEoxm6JXVqi9V0sBeCbrLEKZODPoO9gYzfOq6Oo550pC2sIfrSGYymXiQ0aMa41h/a8GdqM5ubVXz7lCTjqasx+KeLYU1FOpzxISXRHXFDfLmu0o07LxENgTcspqVHZuTZ7QOOdVQUhFXmeZ0DcfHuvVd/QP9i0U4wu2aGiqpC/XyuYhCOvSMpTyyD9lGsN7nbI66uVAKYVRoGi0jknjax5RQ8lJMeBUr6vPex/LuLS+MHhg/YpGpMI+aoY7B4S9+qYUhfo991xqsAjmYoTBbKQsziXjxUPSAyXmDTJd7OhpHJTUR1D/CCqdIaV2woV2UDaeuQrAEHPxKg5i0UHCnhQb8/ecwTWXM37qUsf8uOwGIH8gvmcRyfPHt5GRLBRXvLrTE42SMHX8ft4RVaKIvXQvQtz4LvdEGmt3vkHOWdV3xKgY6m6wtyXkMMQYXj+DhrIoqOLredD2tB8AFQvtPjidkkc+7WAvv+PHH7DYnoPJAG9h/aqvUuFqPN4Dp7gUnXkBZXi6gtbMju1guLA07nB9/SiMpHo44eK09/+gvqhJV/KsEFLg4pZAdi0UDofJspvAawjn2hbEwAO/HlCbXPkSM2QhL7QykqKxnvLRb7d6pW+xbbwAe0IT3g/IDOnGSUeBOUBPnCdgJ4YZDDrvoCbekhGvT6y3Fhtz0QXvhuiOt66fDrXxk+Gc7dN2m22LivbjLc8NPca/9R3U23AHSp/uHXHkfTgpKV0kJ3BUjPkAdumhx1sLlgUFAgh4RRrqmmRB3ibrc7aJCCSD+AGR2lQrdAIOcM7j/PXIuCwLlaK1BO2s7PaxbG+/KSd7skzIMnGJJk3spl1kD/8F+LcnA+CG2IIiiyn7n1xQlU8F2cPNci7OghcmANbBVemJzJXFvZyyaYyzM6d2eyDEVOSUghQ97w5Pl9Y2/q4saR/VBPtsnxgkvPI7Q7usgL36Szyatwy1TwL4mtN7Fi+LJI/TwLf9ltVIKXkps5niVkkmiNeCyLOba1g4yBPel4ekKipPRenPPmQU3YQsr+ff6dGZY2hG3XnfBAzJSPpbvy5GrFIyewFzbJn10wb7MWo/aaENR3+yVE+mXR5DzYH+XXqzxl+E1kW/NNyWkGnc/7aA+2v+UalMTtMmQok49oS8tYy7L/krsrq97oBgvvxm6mscAuSsRMFy5FQgYAtze0DSu/8bQ4WA6JxZ+w0qWzN03oJf4/9CLLq60zZ0haFtfiQEQdC+uTDdOgG3Jti+Rrgy8r2h/uvFRlLv7Mr7QJH0ToPTynlQc8WwnfmQPFqe0ACeWlQml5OjDDaMbdwq1+5nc9DtpK7rO2vj9srmbUsmevGugTjjeGPd2/6nrTItRvwOBDvaeTp11XY4x6YaCL3T9IpsvrlLK2Od2VTnSmiZTuMSkhs0GHSL+h99wv1P92m7fknS3rrTneqwmQCAr4eTiQJqHxqioeA7CJVDcWrTzHzxNaQs+0cq9FvvUgvfmM5fFtKGBFJKhmoKEyIMck91NId9UlkRRF6PyW3/2JItrC+zY94K886Z2yerFtBHTutQeCfBvom9JXZmlr5QkkuBzSlW2z5R9WV2MCwUg57+cIoHXcGKjvrPUXzlyNVtCZHXuvzMcWt89SAPgaMI+Wdq2KmBrfLGIMbHERY2usLPHJBY3ymutnCRTq2H+G5NJQpE4mfvJfkstI3YnXMUhqRzBBjXg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 86VauIiL+frXfC4J/T9xj/h2bHXBncMfbK5PAx2awmMoJol8tVAKCVWJx/CVEMRoGU55XI43kXBkIaNpXQcTxAWE9Z0ej4U3LvOhOpFs6SSgSgA2PFJbdhA9S8RbFH5VtbmOn3QXgyeaAsgLn+lH4J+GBl/5HpA+xHcB/VZ/JqLDiEwTGMlmVlB/7QRmV/A0lBhPOX8K7y1KaVhjfQ30DnwO9e5wrYqiiSU4zHNLazmy4MEfmmrTpZPnVFYWeBhU1/6NmxMIpTrCZ+LzRdPOCcaoYzb6UYLgI3uMC6MK2wSd6TE2L7VGMDVoczfwA5F3
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBlvw/ZmMqA2uQPnSmiQ3T0bvy4byjkcRcrwRd3OTSvdJBCopFqjK9+spLW+f6tCKw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 86VauIiL+frXfC4J/T9xj2Rf+L9vLDgzIPM7d43//VeztZqu1RG7jvM2l2RBC59MFpFZziGh3BcpGJpmKtw5FSCVM4yvtkkeKOmM0QnEutZGPgEc83YQ+UlDHg3DMuHLd63eGczQJu3IJKWQI8kY/UtW5kxUj6vmDc94NO+3XbRoIyMcegko9XpGqpCTGSqN7BRbmRU/+GRxc3iW++mOZB7iBOIgHQECs2/Hoa8OBe0z/dXIaF4rWW11nu/AnVe9rQOxSJ9SUjxtafnkPqHX8X7UgNLTvN09tUZxXeEY7l9+8LJ7uqX5WwhoK71WJ3C404QGMw4dkbmQKRiBAxbQa4UPCPwJYVBjZoEkr39IUGkqc6UXWnyR5RkxI3pbnIry8gLPvmZpKjS0navYqfMm2K5008x2iBvW97PXAxMwJtgXP2JD5tRQjROG0G3h8733OVzU04Y1o91aOC6Qxf4BbSjkabxFbxOlBJTwsV7mVYAM0iRx2te7lwTlo4EEHcIYCpTxTXbzQtilqgydx8lsCL3ByNz+3L2tSsa+Ye7HCM7dzdh6EcsBns0WO+YZ7olRNMOF9MT/RGeA6YJsNxtHvrIZ/+c37wLQZ88QzuPVLouEaunv7UyJbJMai9kAuhisnEvu+vElMnvGoDabAkSJY1wM6Qx7QUh3OSm+UVhrgtvSwvBRG3HJeCgLVVC59fEPl4TUXyuPXVrisVjMSsglJ3tFb3gX4c56bqVF/fAFc28l9cH7nLSEp5slNayoNmXaJv33lgoaw73rLh2ztA88LN5CL6OakNCwHku+Dp6vG2PL7rD3ZO4aWo/9Om6wK0hpd4EcvudX3wxajqEtlfA4W/VOZO6BeNGul+eVoyw2VXFOvpdqheNbcNXF/SIkLkz8t9S44Oy4+dGfdmArBChcwq1MO0tdboa8fwbpcyfxIC/jPYHR5vwX2k7eth7jbXfH
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Errors+Primer+/+Custom+Errors
+status: Unchecked
+record: -1

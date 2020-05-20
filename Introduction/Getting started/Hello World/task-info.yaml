@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Hello World"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 65
+    placeholder_text: // put your code here to launch it
+    initial_state:
+      length: 34
+      offset: 16
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Ru/F09ZLSjpRk8JyOzlg3zy/K9iooZ3oix6M1X32A/s=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DD+0EgQzJURpAtp3AV+Um89rcWd5gdKO7LlRr24qR/gwiWi9yZxjRxgJiNUw/0J0Mg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJWhkF38c7t1Em1U+duEC1fsEagvwgmBfdPeIQrt4cB9NY/p54vj5bvesZ4/Z20zg155aoHEKp+ilJOpyaQrZWey+kxFjfvkvlCjq3Qy5LHQW4zOEhwAP1Ls7V/cD0HKAw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 46zQdc7odwehfbcrX7vQ3pqdVI77buRnnvEyd1NYaqhohdn25jZwHAq7bGVNFRDLaaOyApDE9jtZ/RjuIIy8SEweahmiv+q9GfxLQvV1BO1xuKS6Rttmfa1DBDW+PjhMyk1X+UyVwVGkViJsrE3Q+IJK1lKJaUWOb9zUEYoJz0hr/LfAP46t0xcmoEHS37JiiClKt/g6EE4g/NigDMLZ/b7dOXO5nyiJGfO3n2TNSofOE+SxBUHrDkjKZ5fAthlGqF75/Xpk08UeHk+g7Uz5fzM9NIk+9vyOnb52maGJwuZlUow6lmCxSMkridOa3RACzUxc+kegZHs71z0Vl98kIG9aM6bDNNqL1jhSAUjCbH5RatUN9IQCJ2T5ZxYUkhvNx745Gw76zyL2lEBfmQrWnodQPKW9dKba1tY71bvMTa64kNJxR77B5MmaYxPaYlN4KCQO0IrVFwLkj8vzbaQQZH/jmkG/0ArMQkQnZjaokdriulKwsfhLWd1QC8a1gRAU2VDRCYzt+o6QSVrareoMZiZMYjMoNnTKo5sFgOqeIV5c0D4UZtmqiXm/elxP7S5sn3a639/YzkdxpnZO9C2eBRstQEx8XBQxqOTDSgGwo5wwcVuUf2//lVHQoKEl8oafNvVLJmzUNWmqdSL6B94V5+ASEnb3XOSU+Fq9ZmsTydzgfU53fLMkNIErk5aC3BBLm+34uMYda/tPIexCg3vD7blsrkLN5M2cwcE5nJzI87qemA4XVLUflZOvkfKAjBFozrY7ddf2unf82vSAJeHk+IFXTrt8p8pXUyMKImFqLXmIyiTbs2f2HRByoBiNx4dV36dJI1SKoNMMq/5BkhRxG399+T0BDZXjG3LlWSLde2f431Y+B14J1QYP2jbijXGmN/zZYXnM+yMFrfu9r8UAz+PEyg5yVhWYGE3JvjpTOj8oS3Nxb9r6aLQuELDZrEhhgJ71oPO0D1qo6RTdz4LfViTAwUaZt1yEXcpT5o5Rvuil85JsvBtjSDxdkRR9Nbvx
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Introduction+/+Getting+started+/+Hello+World
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 02:03:14 UTC"
+record: -1

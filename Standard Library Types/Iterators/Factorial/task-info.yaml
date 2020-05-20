@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Compute Factorial"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFCMGH8dw2Am+VX8+zLLrJX0/76JtU5JPPeTDN7xcwilayWwgS7uWAjqkueBmdMTmBGhQ/lyBK+baYR8bafhMS8=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 40
+    length: 29
+    placeholder_text: //Implement the function here
+    initial_state:
+      length: 29
+      offset: 40
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Y9g+TI49PQ1SxkxAyEfVgjEUp3kiRd6L5VUfYmwXqzo=
+  encrypted_text: VcN7n8pN4juX6JH6PuAoIHAqhLCciUs2DISKhSd6a4hUpBEn9QOcLn784airDq7cCGPqg7q9EJvxHvc98R7VAtUxT1QEWOnNzBZAjAjvPvs=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: NZgHTi56hHOr8IDz+9kXn8G2ACH5FbH12kHHv9qymTasNs0KrGHdZRd5KzA3/AzaMPntPT2MC8KVHixRdTeTpJqdWNHc/mi+pqLWLEXizMYwNrxZN3Kz5GenXcw3YXthxiWESXCleKxcjQs7fDQudQ0R3aRADttQ2jtS2zvv6OTzEO0TB/cuy3CZ6yLfQK7b/RnkHsL1CvDeTm0n/fP8suMg6IA22cbjYDdm51xjdq5Cof1nnmk8ex038pshH3LW2MXmuxizsISBMnRoJ8DaphHISH1aUmRKcQQhmR0+cTi2RmrKgWnoycBQlyWylZtq
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Factorial
+status: Unchecked
+record: -1

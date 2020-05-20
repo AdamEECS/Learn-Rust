@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Task: Use as"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 119
+    length: 23
+    placeholder_text: // Something goes here!
+    initial_state:
+      length: 23
+      offset: 119
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: kmKJYgbh4/MfXSFgM/ctjw==
+  encrypted_text: qfB9glsiw62FupVdd7EyHpUwtLUP79UPaN+0chdHeFaWeHbqBHEhew21UIW5D59Ao3EBUdK8vhXQUN21ygyP2nRUc/a8D6B0sJkdf/H0FjcDSBFRJDr/t02D65oz2kFmUupvZjCrJFGH3KWmCEWAab8wbZ+KDh22oyEhzB8GAJ3Ud/tZu9sjRy4doPWjFOTyKRzLy11E7DGPAMXPsmqvEA==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: UoGyjBcDtoz23WQdOArYT8NkPmcGkIN3i0+8heBJKkhn7hWaMikp5xBq0mEt1Q6Nm0c/MQhKAIpgDby6asBBe1nJxDQXuroExKo0GAilcF0Z0GdpNSJO3x/J1sEDGZLyKG49UvU2Q0CF2EmWqx2A/N1GmcGajBVkfN09YIUu9I4=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfP6idbwBu1ClJERFWnKZYILbykn6KvSH5teE7P5lFUGvkYQTrdL+yXe1nfaGpUY2xQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: UoGyjBcDtoz23WQdOArYT9X9bm/h4z9IMWs2CnhSzkObQIJLOKuYgkUhe4GCIv0pkt8IwS3tNpEGcTTBdXb8ywowQWtTheoL/eJzPmFTg5TRO9talYkm7mN06BwTZgdqRQDfEstymPGXTd6Nm1UXJEWnpe0Lgj4SrwZrGAYyvm6DAifQIzp8ClsnGkA2Pl63
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Type+Conversions+/+Using+As
+status: Unchecked
+record: -1

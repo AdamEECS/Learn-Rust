@@ -1,0 +1,60 @@
+type: edu
+custom_name: "Task: Sum All Numbers"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 231
+    length: 27
+    placeholder_text: "/* TODO: Send value here */"
+    initial_state:
+      length: 27
+      offset: 231
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vpOPM8+j/AqPoKrrufHyNQLZ5ExDLhoNEStidLYj/vM=
+  - offset: 410
+    length: 37
+    placeholder_text: "/* TODO: pass the transmitting end */"
+    initial_state:
+      length: 37
+      offset: 410
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 7Afbe8EM/cR0XiTA+sON2g==
+  - offset: 479
+    length: 37
+    placeholder_text: "/* TODO: pass the transmitting end */"
+    initial_state:
+      length: 37
+      offset: 479
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 6pMn29IAMg6aeUn+UCYbXg==
+  - offset: 613
+    length: 62
+    placeholder_text: /* What should you iterate over to receive all the numbers?
+      */
+    initial_state:
+      length: 62
+      offset: 613
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OZQBHuEcTFC4h57EoSrXQg==
+  encrypted_text: GC4vN2OH/JVC3vSMc+gA8Ba3m6ysQIe4RKVOhYHLx241fOpQgm8trXEOzE2U1k9OfoX98xYB9m7uGuX4X4RE6EgF/WOfTvrBBz/DGVDhFnYG1nhVBWPWPm0UIDfkeeH0JxFDakU1fE4a7HajIAeCE823fGNz4OxSeKpbh8NL8X4iUvLVPYFID23a3zVEINeSyZbFhNPw2HG7wUV9Lbs9ipew1W/pfPUVGmIb0xXsJ15CQpNvQH9aPLcG1ab0FLj6GzPz2ingydn06IPot/62ovFN/BKVjsF6bI+ZvhtyT7vAn9pkuiy0TD9aHVyKtzUZAXE7w8AaJyYChSsLNyonwHhRuuLR46s5ncLxigWkp6nKWWjkjL+5vz960B+1LeRXdOUpUnXzgdWcDMsld1XjKnbWEuUocuinH43PQASXS+YrK1qfkFf7NXiKh+K/2ks2TlzEWehTFa3OsskgoqZWKBeYDVii1VWLYoMZok8M72Byj/BSBXGQLtDiYRc3greh9Z6OpD8s6fJkb3dY2NWoNNJC+aeujJoYiJzCVkhHwqMptZ9rikEpYQtaJmcdwBXpepnk2nAKsfpGjFI4WyYr9Y6HkW4bjlSjW4fDzvcZ6GhYL/ZUGgkezR+pmOUp1TB0npGTYBRGtmX1HOcy7wuym5j1dmxk/RsJKBchtfE9e3tClyscWGlYeTjnd8MY7EcH7r/X35hUOgKSpI7KXQ8SJfsU8rqsN6xbmMVJ86m/GwQVcjDV3781CsGJpqWkuo4jQdnkVB55FOhGSvALNQvjacCa/Vu1ZpThgR+iYwsoz50d+86GiRlgO8xODJ/m0RJL76s9x08RbC00kVrrg+lTdLIGz4/JzKP2R31ay6YOhGBazOnBllT6JS1XnivsVs+1PQTe3aUv1FXwMYgoiqNHLQhNGQqG4i7xIQzWszJcoaQ3xW4MBHD8Rc3Jsn3M2SKs+71M9MCMD7OLJW0bPx8QCeN2xAJXcJq3q+SuwGN8C2IYf50/ep/7tzaSHeed+WrxxYuZU3oq3Ae1U7tN4UxgrkN3kjbgckcsffjwuMG3IuqZ86HXu95/GTDaFIXFk0fwzA7wN47vvv7s0mTb5EcuREpiVC1AEOi5eGLr1BINjXZ8Oxm9OljeTd1xKt0mTyEq0ujG27m0761DqGnwk+mZkJ5reLfBfNUiejwPh4WyEzQKJ2SdcNdbsChBxAk7QiCI
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfM81d80+yRJrock16jufzRWqkpWc3+ZEqC8dXFB6QedG4vUL3Dm1uaXGbW9WvsUMKET6LBqM1Ju7ZbOIETco0GYxQZk8yjYLLHKb9GiO3OKFp28ub4+wSmW+Z64h8hsAkQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 1UgO4orn4AuAF3F85JTATpdcA0C5qjBUVpem6oFdyNEFB1lcv/o47Q0XjrXY4/TFg2sXVL+bKxStgduXvpXs+x+DYCegPELyDspixef3Pn5kdbTTUeeaJZkUZioQUabiN/PtMN3HHdnQusRVvm+sswngu2nd6CeEDzV7axZQfuqXvrngihf4bi2w/yiTVtskbacqRYDQ+svRqACGDNI4Ycp2EsSpja5QwE1pdhtUT8GJLJ/TIBeSMtRv/al4VCGfJtX+xCucOCXgNSiNZyoC5BE22Ist+K5mjAIf18+11NqrV1IaQ01kSJEHVTBaKUToeYuAVu3qYkjfR7JbEJ03Q9nJLq2RzWgfnGaZKRLAMlIeIWKFad+o7dLAslK906PAlcpG+5Hs06bfpsAfv8eNvSxwrQx4FA7RpzwMcg0HENoQKh7JvxW//PXPb+7GHuym4eFNohRm8qFG12N66wtYeOlhxLEJIzqNpsi0TmSlbKXKDD7NXiWGPIScCWCb6MK5umv6E+Qnx37YlZx09K1Wqh/yHBnfGsjxcpF0UDTkB7unW0vYmNxktw1jmpDorLDm3vQKZ7R8dxzz7rhV9u3TGezzVYUMyFCsasDWO6y46cKYbt6gIa8SYqPhUZbhUaBo0XqdZv+RL69WdcPYCELN6K0s+gcGeSW+X3WdQZ1h8vKSIo//KdY4jxeO/p0IZrlmze0pkLwyOmIDSYYjBkBtbJFa1U/uYmK+CUz1s3Xl3S+hE6yqGu7f+63rcbch4T3D8YuHgWgYlKSJbER8R63Opvjp0MSl/2A0urZTfjEGyl0=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Message+Passing+to+Transfer+Data+Between+Threads+/+Sum+All+Numbers
+status: Unchecked
+record: -1

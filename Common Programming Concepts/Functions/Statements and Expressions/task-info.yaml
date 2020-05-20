@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHYHBzR02LPSqsB84cEyS7IphNcam7tGTPZKOfoIzOJ774X8nbf1UvxWHitIjc05U3WbqN8AECsq1/+w0Qq5bnX1gDCbP15xqRGJL6DlenQBQrVGU5JvT45q+c2pSvBHvCwNtjy9udaoPUSM9Jal0kk=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJYg9yaALvTbJGA5RD3p44kO/u5i6AthIjuVDz7/D8CJc6rZQXDFGMjhFWaBDtaS9v/k6Pu7Kz3+9vLksH1/P+GCALPUIUB5O7zvQJ8059PU
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Statements+and+Expressions
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 03:23:54 UTC"
+record: -1
+post_submission_on_open: true

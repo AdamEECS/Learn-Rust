@@ -1,0 +1,39 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHx+9GviadTwTnnJLyVhvbh3DFj7XzNnqNAxqVIEUiVZemWpU1ukaR0yuFnVFw7X7zlrbUKz0OF9u6ZfItkX74O6+cUtK7xo/pJoxGITbfj9tuMpy45MuchuPmq4Sto3GQ==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 204
+    length: 32
+    placeholder_text: 'crate::front_of_house::hosting::'
+    initial_state:
+      length: 32
+      offset: 204
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: e1fDpdCYIzfZttPi7cY2969w+TsG2yVauJX7aEFWW4rwEM+dZy9BEKrdAHT1ihAg
+  - offset: 320
+    length: 25
+    placeholder_text: 'front_of_house::hosting::'
+    initial_state:
+      length: 25
+      offset: 320
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: vGKG8QeUsU9AfKFJUI06Hj7mQ6rpwH8tE7N8LGXh70I=
+  encrypted_text: 99YM9R0C2insAJB3LLfboWoJLIVuRUtDJRqi8Dwp+1to4OWSW4A/CAUwiqNK+zuJdq7L71CuzJ7ZnObzWVYCzAXBxJ9YZuPEEtl4nd4aSczIU/+wVpj8Y2QFqY9twVq5UTB5pG5lS/lsFQVemz25NuDMBk0mQlhKDGiMfGLiy9pwI2myTyGiULGSJyqt0cutMeh80GusP4vpjKnbCX3FO5nSZDp0GlyAZugPNgy0+o1TcvaQSzqMj4TOB8sYa97czN4Y703ia1cOq4TyHsmxDQ+suRR0pTzHeRHS8WgFPz71fMjoyYMhIh4YgkVN6C8O+IL+V6z/Cuj17S8hAO2aWFsZDzfFwfg6fvks9IBQwYjTTEu0r2d9PGDwUVaoJU395tXu8F5iDpbkGptOQ6H9w/YNx0tP9toKtt2BfmYp046324YnhJ6WQTeX9sujBCF38tuZKKgesMwkdwjbJi9qW+pbQojU/QvPrmXquVDQ66U=
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Paths+for+Referring+to+an+Item+in+the+Module+Tree
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

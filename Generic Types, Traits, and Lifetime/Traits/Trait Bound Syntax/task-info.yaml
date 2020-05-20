@@ -1,0 +1,73 @@
+type: edu
+custom_name: "Task: Trait Bound Syntax"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Pp0Ne+LkPkUs/Cr0L5nyi/VaGKTZgaNpriovY3v7GHA=
+  - offset: 48
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 48
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: F1wmZPJ3Nc4ClRPYXNymuQ==
+  - offset: 91
+    length: 3
+    placeholder_text: f32
+    initial_state:
+      length: 3
+      offset: 91
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: v3ZkPzTVOIMmYksW8RSPlA==
+  - offset: 158
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 158
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: F1wmZPJ3Nc4ClRPYXNymuQ==
+  - offset: 194
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 194
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: TtHqopb3p2QJdVXzih7eSQ==
+  encrypted_text: ftDTYRH+Hg1dg0QKJlWKZfE+W5uzfAZZkGJNGXT6D8NyMtn1dbbxkmd6eqx+41kIt8VGLq26VTJHPI0VquzGaUvxJRAsKk1Exbuh/ZcPdEjnGov2gaGKjTMnU0oNiTHbKqjXVD3wHuf5ESU7pvlmB1swD6yfccyvaeUVJVaMPpi2bjeHyYrMDNNothOQYHOXpyX7oOtGj56fW3UImaEebCuzoZX7HEWII3oeduzxeVMRGrp5rultOk+GdlRLViwdvPCJ3pSKq+xLRIsTZSifODZzKwrFmTGWtjyhwudQOWDCoV8JBmn1hNDTTAjtBQw7aADKySAWaBsMdICQ+8M8cO4Lo/b72negjbWV4tlfVfFg7I/JgGi5GPBJ7nKwJYht6jCC8bKecvNzFn9hzJVantknDIQEs2h2B+njANSywEjgtZL17vVdOHOlbHhiPx08APG4xSB0M8QpqhSPU6ui+nTV11wFhedhLuQZKLLp2yyz7sFHltHN1fJ7CDCo/nmjqNZa2bZFXy7Fi49uH7PPAg==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 93/DF0NT+TRrlAUbNyl9wmIZcBbp3O8DSdzOUduz3XWaPauK9PHA5NoII4+z+v02yV8BvU4rA7gmNE7EGstfCxYqAFaOP+WFjM4eJSv7Tn1leLUNipABiZyIuHnojb5gxWrX2eUQfjSCbRokm7yCsDTkAFok/seDD9iwijZmhXqBGUsxNQZq2U6BQ0AyGPNAq3wZ/RPBVof4xjhzezeMiNCGZ4UD5gtpt8Dlr/zlbLVLSfGNvz2oNTpel63ptTYEHXVczS0Az20OnC0EbOGRoGF3aQyt/V1QGgUdViCMdv3Niq/EsPphha5b9m368d9bVwLAcUl1xrszWdfAK4Ppy1/xzNOv8te4yFV+LT4d5yQ8CRZMbDc2/PEqN8itm1qt1yrSX2Szyus5454rF9tCHsQYAmguoZ3vFUIOoJ11cuBEeM5/uopHiSaG+KGK8cTxeMoj3HuFVwFN29K76cpIbDniuFkxIXcAVUo6UqG7x5WgJ0ZqOIH4AuAXspIcf3lKT8jKM8sSvCDj6gj9Cf+vIIwjje1PeIaDVVc9pJnvOccKPFs5A6CQUdlDuagqzlKmMhanLsYqsksCZ1wYsWiS4XNszyC6GPdS7+BM3o6bclV11iJDvvPf8lt/5LDL/FpKLqxgr9PQcltRjbmOlC0bD8GhLudfuU6RWa2emFQ1MtKWGpyflwCTV92Bv/7F/UZOqhlKcwukOef1a+U9WxL+bd53igMF7RJQ3Yw95MgFOXKtVFZJagur3QqWXs1kQjYPvy/RBGt9//UmBTGgUnq3PqFWLeyrbTmq94RJWgYpEr+VVybiui1mLEZR6iGsLRh8
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEWrrV9tqlu0NC6HVjuHuPbgktVuUHykydPzUPcaTSPTl90fmYsxgaiSIufgQiG2BfbAfaOSduMRprswU+CROIE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 93/DF0NT+TRrlAUbNyl9wlryJefvFEznYgepdj61Sivqume8foJSO7KyOAaVrc5Z+yzQAiefDgrbVi+nXVuA9Q0np4Dh9ev1d6qIQMHwBf3ZxdjvfHnvAasMUNQx1Nju8h7uthi5xN1b0rewtBD+1cjV/jvMiOogo2Dq4204+vP6eDWgFbffH492Ga2tTCgAUDsuXTfmGFiJKhCBysPpjcJ0K+LzMOlLFwLG6sGT+JAYmyDK7Jmi1HmVv5QO9nwhKfQqzZ+knIqJV7iDjhaMyDy15nWyO85AwhKMw149fZER7E7EYhXu34sdY7+gzizDEIPz8zP9GPzBCgbcCBWqg2oGghjDo36le3sTkO012EiueglZf6NnJp3WBw8Jf3oqZKoCR4qVF8Mmidi4kFV1/aGBrMHjK2mTWYnm1R0LhWYxyNtrVTO2ERlBAAp1835UWdpXEalXarJ8y37D6ajppf1ZZeIGuOeJsXPF1aFupDIsAcgDR0QWhkli0zTXRCE/ojPSl+a98TeNiRqXH3K2nwI688dR/blyEZwbZnWM81tCKmM7rGhjdphesnIyinv+zupjhT30zmXQ7ecZ/WiIt17JmTTEh5pDuJEuyHcn31QonRy4o5HlP8VN64AGElwa5KOKnZb+AKcqoaUtd+xotY7sW4kLpL4SMyfZi/M8U3XYFd+odtoCVyvgBOqETCjbbO3kuEus4jwj6xIFf74Zh6y3NZibV43KuDsmmKW9HLZ0TpjDS7qk6+C6uJrWYjc5cfBDj3JI7rF2ijtMOFswlHmosPZVrlCccA7YchVtL5M=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Traits+/+Trait+Bound+Syntax
+status: Unchecked
+record: -1

@@ -1,0 +1,42 @@
+type: output
+custom_name: "Task: Convert Fahrenheit to Celsius"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZiQNfXTlFHqmXgUmP9+T6dE+lGKKbWeNtoG9/EqpD4o=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 43
+    length: 3
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 43
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: T8AiSMXdLBzRojlDnyN8kw==
+  - offset: 96
+    length: 3
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 101
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: T8AiSMXdLBzRojlDnyN8kw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHFtWRnV2U4d05Rw85Ug1eWgd2qlgk4aF1+clzOL7UU8Cv6bZbXHdnbDAKZqb4TWYq2U0b1k9zgZta2ztD1hfzERWYrJIoSppndmC2OeeA6Z/AYVlLfuG6agjz1SHyoosyKNjflapXnLBRww4ZOAum4xPOHdJtTozTxPdiDqQQxJ0pF42ViqkUKydwkFxi3ms7JCLXaKTJdPNtNvTFq5dMPLAdcspZPm+1/EScpB4Ez0WaHgTsXgQO5xoTVzDc0qmA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDbmwSoWOmNJu0K/xIYV7la4Tc/ZuHLTyF4uZYWBDUzB8jW4PHKTfQSGFCdCddLgazptWHalxpgJE89LgbwOANs=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Numeric+Test
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:00:26 UTC"
+record: -1

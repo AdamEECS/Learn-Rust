@@ -1,0 +1,25 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 99YM9R0C2insAJB3LLfboecDLz2LkW+CJTbLIrKe7GFUhvsBSGJ60xS4/JTGl/g9xYiA0ZtERiQmGfdwS0T/qndUQR4rlZuYgTvcBEBoSoiqQEq/rmIu9YEN4qLx9/Nm6BVYnZm5WWghU2kGHF3vWsKJqVOnFfWMP7phSFNCK+nTDg45fc+RXrtNb46KBC4BeTVeUHAE48As0OSAe2DbODbW5op9cNp0aHhAkdXm+raEbDQzsEkEG1DiJQlCA2UU
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFRD1HXDWb6SFJBDGA7qwtmm68n11F+9begjg7qLllX5fEUNQKvrAdftebcIULeOEoiWHjGxxxI712RrcmHIaL43p80mt/l8wITOuiMY9aLR
+  learner_created: false
+- name: src/front_of_house.rs
+  visible: true
+  encrypted_text: NH7CNCZzcB8nx1b++c1gbEdD7DySKZs+13tCU9RcXsM=
+  learner_created: false
+- name: src/front_of_house/hosting.rs
+  visible: true
+  encrypted_text: PQRLP57JX8STEOCMjuD1PqzyUBm8WqEFjN7YJZv1WMg=
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Separating+Modules+into+Different+Files
+status: Unchecked
+record: -1
+post_submission_on_open: true

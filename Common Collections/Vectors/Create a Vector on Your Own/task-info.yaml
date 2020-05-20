@@ -1,0 +1,43 @@
+type: edu
+custom_name: "Task: Create a Vector on Your Own"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 118
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 118
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: FJ8S1FxPC8dh+Isw6daPCw==
+  - offset: 143
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 143
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ljYg80GtwiD8wzlesR2aYGVecsZHzoM8X2e2D9xfP/I=
+  encrypted_text: UFPjAAgVzP4QoGrZ+qtZidymE8Qyx5EUfMYbZe5y5ptBDhFH2ZzKeEgAJCFGG2hjDF6Mh50ZqoRm0o1ZNRYR04Bt6W2LUuGGIezAinWNytYoA1uEm8c4UgZtfcd9MTQmmDQRAefs7Bz7KpdvKDrDrOPEcgnM6y2WvdhY0eYaAUubc7zvsFlnAJsjCulkbL6AncROn0vLHhV0EMq1crsHC2gmy/5hlx7rQifH7YcT2CI=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGiiBWdiB87JzFWO+FZMaxUTbAjigQ3MUK9JCpOso8VtrUUuaVpFUIpXPaDhhkQOkvl5A/zDEPsFsosGBMW/gvLauRgj40XCmOnqcVGGnucGzn6TaP/CmCYvdlu7D4ZlPyLjLBLKY8OFqrfE95dmDnPr5dMuL1Y0KzpCfEzAbyxGq6mgITrLJ3HHTQsZ80v+t2VNKSCXEm14e1nIxl0Bxro6SsrGmzxaM7cvjYEFT/LDwXF1NavkiTcPUxkqQXfdMlsA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPf54Xk8hL91XTnuqbNhUI2adhOOqfC/mFsh61lU1svPgEfB6fSJJe4FH3sO5OozY6hCAn3ik0yVuwK7qfAPHHE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGiiBWdiB87JzFWO+FZMaxUTbAjigQ3MUK9JCpOso8VtrUAp12PPD7bEOcOYpAslyW7bvgz3ntTzcwX+4BpuMM/ekCWa1WOwHkAsiTiR+Iru3FQSIV0az/dwxF91AnhO1n4RIF+bA1Rof/opO/+aVKCTVL/iSgWL3nzZmA7d/JhH3SuyMzHqw+B4Bp9Q3hR/C4qPgw7urqgEfq6Gs9xWEvLy+ZRantE8dNbZYYHe5+iMINPyevffReYgceNhM737UHZcyo4r67Zs58DHBaeb/26Ds+k0XQuNMZlonUPfjrarZUF4ch3k5VN9L7F/S3bzbTrQIz8ONOOk6fJyKKe/nUKKK0BAL+jsz6uVbWqln4r6TINM66E/fyJc7rbowUx6owOg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Create+a+Vector+on+Your+Own
+status: Unchecked
+record: -1

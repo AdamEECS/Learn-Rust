@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBP002tP8sjAR4VkCpEZ3H5elEMX/AkrQ2lIAj3bSUUy8wW9bnCX5Kt6SGwKY46097taCN7BI8e+l/XXtLAxANrgRYyVEmxnO6OKlm0Qsa6D6zGPAODxFU6UAuXd6dvLtuKhvXeYV7gKhY2ngbjLoeMNwzXyKv5QAORGX6MoL/YO3RDE5SohfDMvleoGYWSM7+kHmlDvRw1CpsdVvVH2hcs2HuN1Ps2vgqZBM0gEFRWRLnxIr1Y+zmlL2HeF1k4AKgqRk138lafrKlq8DahXvUu8+KwENqseoCoXyxua4hvWjPbD52rmWYiVjJtiBF15I4DFirOE5nM7VrWlEIxGqAfVsDaM4IZCGcwkpH23+l7hy8TXGqt+1mEoHGebaZF6QZeQGtzSVmZWd+SKi7ETvR0sYyc8nuwuzTi8sFTHyMroa3l4D233xhxzv1qcpySahFpR/TDzWuUlXsgkEz4npy8=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCTrXKTQwKO/rkt3K0Iyc0oaJCPLQNcPUj6yMcns4mKWssRyC646+ubCva06saZFSXp7EaUV1TQfNUuOM8HAvlk=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+String+Slices
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: DX0eB2zUKdtF/LLZwfgMqWNV0tltMCGEcy28bdsgbtRxpRZaQ0y5keKzcx2kmxUSTqJ+MuuCob7QmanyYzDpkk3VRBrbRL5TsVJGCtwPeuii8p2HnHL97cFrDkTUU7v0niA7VJgjk2MQ/+l9nUqIlRKGKlCazKLz7/acUr5ndJQoq8XoocOVkCJfKSIef0ZmjTucSTDn+lOxTAM3Wde0M6a+mnuD26KPU43BFDufvOqiFK4zhPbAr/LHk1sKItFS2KZLx5daMxTvq/0pSzRbsgiZKsKIgFwqrJ1M+eKy2HE2iUErrw1RM5Ih10AqQlQH7uxQShvEJaewxU34u7/7N8PeIZqsnKmzt+6kspjVan+Or67TCPZGTcr5bGmUiiWaj8fCQMYWGamFppdLF58dOw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBwSnIDHg9HXVDV0vAGPlTkG1FsIIozs57xQ5nCW+hGMBCkqGXFLpnJq/Rp120TLB5R7G3YSoA4xZcAF06BCRvY=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+The+Match+Operator
+status: Unchecked
+record: -1
+post_submission_on_open: true

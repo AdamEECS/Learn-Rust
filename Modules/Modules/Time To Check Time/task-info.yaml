@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Time To Check Time"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0yqQXU5DjU+HLEKSINpb77v+R3215R1OygaTrd6y5dhijszkoa2mHFHm96fQxXNK
+  encrypted_text: Db5WS5gIYQ31rGuhSIlBGbcX2EM4KhV1q6P0mk/dqebzzi9HJvZZzZzkwvgEXK26VzNleCQE13QwBZOoQPOIDeG/7RPx/AriVuL0TvRfH0tq3XeqVrjLGCeZMqqO2fJQpR0gdUfWuQxUVk9MJQVVwjgLmmGRDxwrqIua40afm5nZNAdP7Ta0wYXne/FuhTuOFY/xeVqdSufQsYS5Mv/YKtgqSW5W0BSydxh9cib4BLm/FFVvbm4aV6UNIBbi6He6fYsQFvJjwWqAjfCVDddZ/PoGZETk+T/BUdWg6qEmMi/tPya5ej+ZZyBlRzGGVdgE
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIvKjjvwvKovMJL/dv+qhPMcoZr4TDy2KGkj51XaKFeIyvK2mRn+fNv/aN6ohLvUoA==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Time+To+Check+Time
+status: Unchecked
+record: -1

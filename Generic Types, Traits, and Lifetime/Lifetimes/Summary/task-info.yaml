@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAxq7GRAhLXEp5PjC3JNOelGqcOyZTPSDRgW1kqYuNrW1WUlcQKPmc9xVzJqg26DaA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKJZa/gxssmBnM/y0MhvnXp2TmdW8L1JNROjKT46Yk+Q1zzb2nqwxslhr8xoX6v801lgvwxyJwNvg6r7d3h5VVU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Summary
+status: Unchecked
+record: -1
+post_submission_on_open: true

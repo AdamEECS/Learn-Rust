@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Nice Slice"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHlnH/2By8MVyet0rnxG93GtbJC6eaPBPv3CB8eJ8TGjNIgRtj6n/3/F1czIgHvaIXiEpqMZD9h9nUAmANmbsM36LdHumJ7HAgQKa6/NjlwO
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 63
+    length: 8
+    placeholder_text: //type the invocation of the slice here
+    initial_state:
+      length: 39
+      offset: 63
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: v4qK1VLqNIpP47xlkBWKbA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DMBeHJpDjB3ZlodS77ATN6QdOkS+6MyiYOCwmcmmDN8PGppYj02rcYYgGvJ0KbXqcld0V5RH/jBgpHpI8T3T0lLp0CEPVIS9kfAiWAgZscx5YBPnKvnxLQFJtWbVM92D7oI+wCLSbMqLE7QfNYRwMgV8iSq1UUSi+gynFHgTluMXxLrAciBcoPBaXreBoVqZT2uGRGaiYAK49J93Eswcc7v5ZQ5oYIYVIkgS/7Kmq4PEDq6n1uR/y+Vq0+sv7WrIp4WQ5rbz6CotRXoeiNtScqsb6ICZGimB5yRqlU/9ft5He9i7joRxReT1qd7aE+IKX3BkFOUeP3P4nWnU+sBAhFo=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 46zQdc7odwehfbcrX7vQ3srYzCNjgknbhUP3l90kAexaImjya60iD4C5cDaRNBYPBeLXE9xhApwpd6Pkt2LPKyB2zD8UwIwt23LxgE0quFbLlpZPdIN95Zu+NA7tkGpJrfL4nyv34im+zIbN7bYr8r0QJHZ17snDVTNRVURIwBs5c0Uj/lHLYYLvweo34+/C3h/oqePZWYu8iEui7pInndJunZZnj+MtiVIJ9GARitViaCwUzW19I383uTivCicYJeFglsAVyKXVv4uVF7I8y+De7XeW0kK+d8tZZHw6Xvf20tPAfCJ0U3hI5YjVN5dvJ4on0JbFULyqjVlAOLNhgTXu8jXMdGPAQtrHrhzQXAtjIskf8ycg7EvOi1kjfOo23d6Dj7wuG7uVqpAqNzWqI9foWZMQprPNffXjebbAQ/bRYXcp20ardvzqs0tm2Opk6Eyvuufo3yX6jfKDlW5DZYvzX3kLhbXH7N91YkgS6bsnDbPmEwDFERsdhOqJhH1EvSHPAZsc9e6iUqdttkVBx7SohgGEl4heD+youT517kHbnKKuayLXWa8To660Bu4xroPSXwlLP0pqRRoZfe/NdZzE0qtt0cGk3CGPf6H77/OJskQ+1mrzMrsAiRELghiw2beSA1Ss6akC2BwHB/G5b4U4Et6EKtcVo6y6L3XzfB/KvVGUBCDlMMyClBb6qj8RMbfIHcb8qaG8to5SokFHJKQiiz2Jl1sW2iRnF5ZybNYKUmnj3Y7gC2N0eEQQeHxl
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Nice+Slice
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:37:28 UTC"
+record: -1

@@ -1,0 +1,28 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 77
+    length: 6
+    placeholder_text: x = 6;
+    initial_state:
+      length: 6
+      offset: 73
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: NC2Y3HcPl2uJ9h0lK4ovKg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJh7a2uDXcgSSYIh2sHQFA/MB4kQYbG8BinxQ5M1moOy2ENaxjfZ1gbZcawDBhLl4pL/4KeV0MseQWUMfdRBFemUc4KUJTvlHSw3aYJHgn0964YmEnDNxPpgbV9aPFCYjfWkedSw5x1YktOOcHZJEFY=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGljAnHSCA5LXg71tUTn/ALcWaDLFU7ueG0jfyM/iPe6wbvQ+JMN/rZqkxlvWFJ9K9Fee7oP7zKaknemgvtNHx4=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Variables+and+Mutability
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:28:55 UTC"
+record: -1
+solution_hidden: true
+post_submission_on_open: true

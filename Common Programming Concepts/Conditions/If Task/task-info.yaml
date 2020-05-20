@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Return the Bigger Number"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOKPRVEPK6TMupqFHQYCqWiI+sprwpdGu5naB0Xh7p6hjHIM/4WvDdeHxveDTKkhvA==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: +5od/8Uu4jv/B4zVyTXyOuyWidB6TMqkjDRISr+xzqeS70xwyzLuBpWxEynSskaW82oZ60uzOVCu3NTjI7MAutFPmOYntPz/qcWn7Pim8zFtgEt+3xZ0Sd9sGbzDkUSh9Yh1brQw39Aq7rMeg2T47aSRM04muu9BNDvTzuQFF3TTt8/1bMhAIFP93TCHIgBfRU2NwVzYbjh5wGeEEBbc4BnWtjIYkV3IWQoSWlzuarsfTcMY8RVnocgP1bw4UPqoeSz/q+7kOQm2NK6zf4Ps9vXMO7GQpseNhrNCbCd1WEdqeY4M6V+0zxUxIQGjpov5adS6ATx9nXRUuMs5JIS8pLeQuVXl8PjsWKuKwiTC9Nh73DtLI4MbNW7YnX2xX85/
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 43
+    length: 26
+    placeholder_text: //insert the solution here
+    initial_state:
+      length: 26
+      offset: 43
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: jzuo4eerrtvBqUS5olwW1XRaXSPvwiz4aG94BjyRpWE=
+  encrypted_text: w1RZuxBXi3usuT/VgOC4HW4zmRnO+8YtHhGhgg7vuyewvhlqi9lS6ykwKqWB2tSWTIf5ob0k6x49Z8IZ2VGkQQHpxz3yDDB4eqMJC+qhQIw=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+If+Task
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:44:40 UTC"
+record: -1

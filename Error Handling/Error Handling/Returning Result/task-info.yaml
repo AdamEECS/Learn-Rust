@@ -1,0 +1,49 @@
+type: edu
+custom_name: "Task: Returning Result"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF0qyPujJnQtotsR+pTSiz5lfRe1oBi9ZU0mWznHMGtX6ndk5k9kWz56LNZq6q3AwnkjqMVaxFRswAJ7ZnpIwd4=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 14
+    placeholder_text: Option<String>
+    initial_state:
+      length: 14
+      offset: 46
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: aVz0abIXw8dx4icFflKwN8NEB0r+Wi+GCI5ysDeHRy4=
+  - offset: 95
+    length: 4
+    placeholder_text: Some
+    initial_state:
+      length: 4
+      offset: 95
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bc2B+quslAh78GJ5ih6t5w==
+  - offset: 238
+    length: 4
+    placeholder_text: None
+    initial_state:
+      length: 4
+      offset: 238
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: S0nX075knx3Q0zKbFN24oPorl28tpwtAm/TmIca8aV2J7vVDSylr8OomU9FnSLcT5NVQUKN91Ha9FBHB4wBPzA==
+  encrypted_text: 7YJPk4gFfS2zHIWJmu8rAFA5ZKyo+DOs34nRieZXSpoOptbrOxKM7TuKy5ICBJiK/PepHPvb5dpOxRL/L/hV49A0BAju9NRAUSEQcJSRZdb/8iao/DF7P65btaTNMRHZuoio/lmL1VhMtk2wuqpMKvCiHzEgYjVHT8alrvsgw0/rbaHj6WWSOHZgoRs36cvnf2vS8+GN5MUf5ic6+aEjtpJiDd0imYQziW52Ybrqkm5MGOG/ga7iJvN8jPO4o+9s+9b2CHqTBTGyhWPjpKHEsai75g9ZOfw+hSvOG89yJX22ECUKVvtecDx6W7y6dzayh7YnO33X7V1BrG4y/dl03Q==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: R2FtgTXoueyWF94Cja5cmgRhmKX6/j3wwLe/DznvEk259I3PvMLiMiFu+Zzgz1zbv7YkM3DKWCuTssBI6LM8F86SpHd2Rx/d5cYbItN7r74P65jRKiFpj7szZxgIf2hMvACXnJq7CDLzUlQ2zseipGRwYu25dwXHM7T5a2XvXJJPXf2cf0Iya5EaIKqggJiozcPLDls0UnBiSV0qrRKZWmE/VXr24eeTiBMMU5kcSn+Dv9z4f7OUHAmmheal30Kdhw5hGDiaQNhhBtMfGz6foC8zKzUy2BjbbH34SEZFOYlxqLWv0a9qtrjnhcCd7+e9LfWgJ9L/0JocndQJiZavsCe9LZm0s9Skl0nVL7g+mQC60bohy4ZRdvCFK/+90hXZ2PV9JdZZmYjAIsBKXERJaDcqsgVcxtKrLtSGqfmxk66BPljn/DVFDME8e7JAOrvxxIHGXM68ZbPjMBdfuCd6lcLDSkbvsVoOXoAg2raqo8FL4qgm1pOLaDS0htfFAJyifNQVkwUvOwhB6xr3Ymv5xpnd4eycfZ36rnJHuJbXpzwkiDd1C544KA3ktDIiwjgZMdv+LoesDEAMWojfaF0S4fhHEP0et1LwBZu5O5aH+4/oppyCx+qZEA3FkFqXocwXMA9yiGBbt+Xn+ctZxy5ImO4aNhIVFgYzx+ZwnFSkaOn6eCzBmXNx5rmTPIsaY0aWTEK/QOY55ppDpHeZhx5NDMs1iaeMfmjzKqRce4sp2rQJYtiYRkedKOz++k77JVmyLZuRWFM1bq0kJgV5iss8Xs20g9CuNsZ37eZLuofN+UKEJMY/RKSpyA842cqRHP+zfEBOZfEICQRmpwJlmOrSns7Z0uTX3HqCbhAlpueHjb0d5U/UnnwDnzcwA/kEruUrup9i/THyNqlKKLno6YsD+IiJR4LPXZqdB0cbre6LA+KRXEWTHvnU9YVN8J3Sjtp4
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Returning+Result
+status: Unchecked
+record: -1

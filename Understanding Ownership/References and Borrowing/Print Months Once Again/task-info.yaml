@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Task: Print Months Once Again"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 235
+    length: 11
+    placeholder_text: months
+    initial_state:
+      length: 6
+      offset: 235
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: ZIVbShUV4nUKWW7m0P6nRA==
+  - offset: 422
+    length: 23
+    placeholder_text: "mut months: [&str; 12]"
+    initial_state:
+      length: 22
+      offset: 417
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: jcmDLWYCUkaWT3hYU/VfYAEuOBRGp0icfAtPSSZIVPw=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAWaEq+kn49POlNVzGvBpraFcoMw7rjlnE5Sl597KNdFveKGI8FT+1Ci5qlHFxsy1tLeb7nXx9BWhcJsTpvX0aO0/gip7CgjvP6k83CglZODzHk8C2GSWctNBl/Frx+rTaOPhOVzV2Jq2uaWDUl7sIMEfnx0EXXXwqtFLzJ7MncWCjHvqj2nXFusbYNALIgGQdUTHgA6OJcdLhU2BkIvsHmTvF6nJDQ9yl+d4DJQdkYz1uJpHhjBpo4ChuTpm4t0gLzaT7XzTAKnX7rTyQWMOMk9uHJq5qWucgHCFg5jiL4wTwBJm/XeJw2ENiCZ2DlBFG2y+f+Ikyr6wGV/RbI9gZ8grEPLX6wpepj/IVuvhXzkrpTbrQZyPo/jc9hfejDzc/3yhEltz3vYJENkJXxiuuwzj4nqIcowcVb3E3Z80RrFLChpOkR7/FtOvPEioxl7GLnUHTMeUNu9VqfCUJ0kC88ihLh6JVXneie3yWcZpb/ePQWEH9HO0DFNl0BBqUWiJjwFlc7M/KUAXQZG7SEEpMFksQh2c4NbbbpZjDuPZ7HOUmFJln4wOdLwVr6TYGub+44z7+T3MRs7euyDCPkJ+Mh7zWgBYNE0XeEycWofP8jP+5yDgu0t+7h4s1jWH/Rh8g==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNPFERU9kE6ZGay6XIifWnrI1lxmA7Jpo8PTZLUffJqI7b8LjGGnwPX3iU6TCwbxfNHw5Vs+6b18HPPvOV47CmVwBC6FPk+6Lp02/tmkPEiw43Rjr/dEoVH0OS2C8WEGYA==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswokSTIxEtgg3UzU09hr0HplWIuxmDGG5ThhPhmwedhkEH0vaoBigIfzknTGDSFazNA7zEdepIGdjF0+KHP6HXRRJPe5bDUSuklcnKePFT+zeyARSice6LAUEMyTYf7Lv4miEC0H8w2BaMm1NTDuryU8OzkUGcbL4Wp47voR7j7zzfIxQv0NTHydkidF20zoOfp/diBqWebyeg7jS/Vo7/tX1zJ5oKgbCm1BJr9mAH4x5nswgCJ4YSrg0SQRt73f1iOYKPdv6e1g0agpo6PaxmstOOFELjGXi7xvL5wqXIl6DnsW8uyjtDwAyESXfiYVLhiEtw7vmEESWLX2VyYvUwQ41SthpwiyACTuQJmrJnXJqGF5mBqD6k3m9CgFb9g8+c/0FZ9nlp3p0tK4LxP7xfXY68/1/J+tN3xYxV+WKUILrwWFSMqQE3bXSVbZldmeG2e7FVL/IfdcSKy8xzadWBcuOHqWSAdV2+tTUJ3iVFVghjScYfXanBX1WtjjzVaMwHyj5LU2eG15W88KYQGPJEjbFqQ4hpO9lGXadYuvPAsXwy3eK6YLwzMHO0toSpz80dFKSfLj1qTM2dQjF+nLLzeVfUSbjbzEuqWo+CuWL0rYtPwDVYN2PLIqNlLkfXODkkIKYWyQcy10YOpOhHBO5Asw7gxAJ+E72IxzD4xA2niXO2y/ROsn+Gvokx28cFnKYP01Zkqi+JtrtcG6+8If/IT+PSP3BHREiCZrO2a83ps9nuhJZzbvNj5loyhZ9TOTto9fNCYnh9tL7spQUpwoxzLjXl92KiZ1iMlO7jl2vfNPz2gmXJscABaT4gWh7cAo8v2KyCW4a9FRhZUbLgzsMEk0iVsr5COGWcn/fqJu9Lp6ogwWk+FkRkll97V8FPbnd9S5jaoqz1InA1g0s2BPBJbjSI2ip803G8thoN8nnMwnyRJeoMUplZvOJ8/oxAldMUI7zJoAY/ChtBtYfNZp+ohbdXjtBWrBrc+GyoBb9wKDxaYt/SKtEe5DZ3V7144ZbxqPhyUG9CPOgyteXJDVnoyM1syURbfslQ84PEuLnHy5t3rBfvzKBnrY1qQAF+VR8KNcvI3aIh/a+XH3xe0CF4hGAj7tfVXojzXYenmm166OuUWCQY6Yi0nC1tYdjAwFQDiMUpkPaFvldSYJQah4SYK8=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Print+Months+Once+Again
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:26:08 UTC"
+record: -1

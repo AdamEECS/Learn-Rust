@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DMOhKfvJQhSvdT+FHwxfwLtbXB9NH3jL0coxrhaZfw4x
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfO84gDHPjsXTZLknq/V6rPKZwAu+1GU7nYpouDJZ09OjrVGDqRBiTuZUV/ZlvmcT9krcheGAy+CGtTCw68bsxxjzGWtAJ6vAYfVagMQQU8wd
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Unrecoverable+Errors+with+panic
+status: Unchecked
+record: -1
+post_submission_on_open: true

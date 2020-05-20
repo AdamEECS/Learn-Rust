@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DPAomzWk6xLzDH2bSQqSZ9EZZ4HqtjoKfo7M+AuhxeHE5EanT/ze/EsMxqppbbMFejCaZ/I4GRjO9rYDDc4uOkrpK306mi6yEIn09yUtsMoid0f0pZhFcdk6xn75uLERjcWs2eyg4k4HzRMMLUYS7V6cPuJVIcweu+WCEbrz8Ryx+657wpVbUwGZP53SFdvU18yLGSUo0kcYFjOAGnWdW0NFlkHr3m4DiY+sZYwj1gaw
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPGW3QrO/0n5J3BXaSaYvEn3Sbs9aWfYn4VLj7et/Hk4w2NfkJsSW1pi9G7TMEShspRhI/kiDnCMXuz0n/pDJAlagsZvSg4P4FYXVsXvivqX
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Iterating+over+the+Values+in+a+Vector
+status: Unchecked
+record: -1
+post_submission_on_open: true

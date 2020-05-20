@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJHjsKczAnWr8iJpdBzV7Yu4TJrhlMWiEo7gBr2bjpFyXi9aT1b5it8SxT/4v7mKsCnkJrsIQe8g2TvIlSfTotWo3bzYTqpLb6xfo7XJY9MSMd0BCL3VikoasX2VQh5xjqVh8sKf0/HxljLPpanqZyt4DvmUhU0czZA/D5cG3M+I
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKErSOdPisyycOW6dt9vmnxe7AM4xjXmJqXfRhNjSFAwkaHMFlYuEGt4xFZqU3OUlqF7TPYrPukniON/6VMuuyoAMaNk5eo225K9Nhhj9dry
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Looping+Through+an+Array+with+for
+status: Solved
+record: -1
+post_submission_on_open: true
