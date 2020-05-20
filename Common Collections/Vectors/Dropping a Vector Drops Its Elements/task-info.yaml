@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLRzMS7iuBt/HjdLypXi698KXOggxKgxPRm94DrH0q7/tZby7ofrbzjGEpT7khheQcqCU4XFn8lFwmOlqWk1tHuoxMZUaHyN7+RCJlxJgIXqBc7/tx3OQzgZJTMw/dL8wtQnVCHU8kV4l3By9DDJkCsMUk9yx21iUvwbm2XSUZmF
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGCl/JdauQi58fbx7foTH1OITJ+erjMGDmjlWdrjOfg2EBrfak3NiRQpf4gd/ITEl15xf2M+yTervmthOVTQnYPEHnyYwAP+fGjrtPpMHMlE
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Dropping+a+Vector+Drops+Its+Elements
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAxq7GRAhLXEp5PjC3JNOelGqcOyZTPSDRgW1kqYuNrW1WUlcQKPmc9xVzJqg26DaA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIqwSPw9haORNPMtu+94xJx2lz3aIvgVYDo4XUmEZk39VYMe3h71V3DaPEWeAKHn5iAtWX+vwcjbvarJ6w+ZNcIM+ztGAK30J9JyKrnx9XxPXDpv9iBNah4FkZfOuHNCQGoHbLQ66GOq3UBioq2IQCk=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Closures+/+Moving+Captured+Values+Out+of+the+Closure+and+the+Fn+Traits
+status: Unchecked
+record: -1
+post_submission_on_open: true

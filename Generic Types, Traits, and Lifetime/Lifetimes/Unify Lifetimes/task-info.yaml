@@ -1,0 +1,39 @@
+type: output
+custom_name: "Task: Unify Lifetimes"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 208
+    length: 26
+    placeholder_text: /* Something could here */
+    initial_state:
+      length: 26
+      offset: 208
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: pEKExvH7khitfBaujtH8UA==
+  - offset: 249
+    length: 4
+    placeholder_text: 'let '
+    initial_state:
+      length: 4
+      offset: 249
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ft3/KDXagmI+TWDbl9vbuw==
+  encrypted_text: HbtsAeeNMN3XBZoEP65e6q3P/I6ncFqaCaQKFNLrmP9/Qyt83Dl4gbEvNB0Wyhfqt0aJcH/mv+T4PRsmslt1YYFGMC80WHrgJVsimZnr54ddkazPKB39Bkh0U3DN/G7kBVG915NOhzJ3BMzLGYjn83+f8mwfBjB7B+cH8A7g7//q+nZi9ZvrDpJyBSc08TAV77cmOautFi/hURcev2DSSESNIuj7yIuRShTn+0lh9kw3+mnfD7Wvkvq/gxHvKXceIBQyOKaOE7XGBN/Q/3oQwAEq7jP88qzHw1FwAzw57V41i4UQuzyoZ6bU4Jp1qt1zqmpIKC0Kp2MdUE4BKcXLz9NCC5qc7Au+gAEnIvi3jceMxYKKrkO7q4teOau4i+4Um0uS3quXI0/YWJ8sjJfoWqywQzgu/I6k2WupeGtEvm6mVU9gYBLdaUzka8ogn4JKLjVww8Mx25DIx4+gkkdaFECH4bHB/5phpxtpuzR4zCkDiUtT2unBPDfGZEeHyYJpfqUcyW9pAbawlH15IF0+514g7Kh8teCEC/9kPJ6SYbo=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH3zAww45SS1FuG3Cm9aMaLq8uj9/VSs4kTYy6tw9isvkfJZBNsQ218HenW5U/2JMX6Symk9AKzv+peqSzm3QE8=
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 9cCk70LY3Wxz/JYu8yCIRSj3OfX6zmVLcZw85ZQduWFskc2kgAz6jBfngTxPbfDj
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Unify+Lifetimes
+status: Unchecked
+record: -1

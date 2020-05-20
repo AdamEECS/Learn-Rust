@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBP002tP8sjAR4VkCpEZ3H7XffY+3PRjpyXS5Rx0CooxA5++dfoo9G7MSjFX7nVZnELDcegnYCdqXRPF3RXAaaIH/yF1clH+D1V2MDhD/CLuy0GC/evcof4M6aBahPzL2HXWKAi80oz0FF4O9QdMkUi+zGWuSR5EQw1JwHab4lb94F/NYwM9cRArHOzofSC3Mw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLuX/3uSIjHc18iPZBp2v+qw5zz2gcXkis+mXeIpRkdu1E14qYkgkc2aNeR6L1xGN1RdA/sXaIWWlvWuf2tOIRI=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Mutable+References
+status: Solved
+record: -1
+post_submission_on_open: true

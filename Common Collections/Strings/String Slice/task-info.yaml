@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: String Slice"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJqpVfULl1BeRnF3ntJIn60BDWFu5N5ku7/6hkWLRw9WMn4cJrEmH/NDW7ewWnY+YywdctpdjaoIEmvzQOjUAys=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 106
+    length: 46
+    placeholder_text: /*coerce the String into a string slice here*/
+    initial_state:
+      length: 46
+      offset: 106
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 16uy5iyxwWHSjcn3SkeLYw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DFZzmXWyee8QmnxaRleJAavLZNUwejbz24XhNBMhjJUZa1WTj6WDPbD+D3f2J04tI4RsQ2crQ+NV9V0fm366FduisbxgL0jp/JSPul4EZLkczIyqqg5VrafOfdDnf6TSaLRnkd4yk91MJkzbwX8KHIHqrpbquhxmr8/3KEg8Yq+nPMCClYorG2w9VKNgUoznWdR7oMvwrm9+bzGsg82Yqzn14Eg/xltHdsAL3wTamZYTKu2k0SeriL4IXLfguIVPUYFGoIUxZ9Wudf4+8s2MsCmvmAQ/7LEe63HDf4ENSDUxpQqAY8IBbKVTuM3BaXb9ptxGG1HWwNRl5GUS3/FAwIdGekp3zGN2lF/0d3ln5fIlzTN/5qXieRlTLuyK4pidhzshtLegjaiI56TMFefzwIl5VcomR/4sc8EGqUBngT2TqPKe9ShYVqvpDd2dKfAgxHH3vklefk1Uh94lxEabpan9H1ECWb15hE1mFc9vGG3o6gfH/+Gn6gZmsafyq23QPw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+String+Slice
+status: Unchecked
+record: -1

@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DNhO2iZFXZfDdiIxf5olOjrkaRe6zO7z811eNc4klIEjnPw3T3HGnNfAnchozuuIA2Tg6Ww6eoyaO3PUoKxuSXfrS+unWQhSMm16vkhgJPri8KT9zrOiG8DqWx9IrCRZ5g==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLxofIt3ppx5aSl7QjvZi945lfhw5iJcpSKiaxgvuuvFFh/Q+IFczCesqPU47B2AIF1pWs9l7fNw83OzdXGY9IY=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Intro
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:53:46 UTC"
+record: -1
+post_submission_on_open: true

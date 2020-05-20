@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHv0tbuWPiB92o77TVKZDX+foRJXUOTCF+g6GcdJbshkZmTYDrjl8fkj55tVclqOKom1k0RULZHBgKh2k/DmY5iKMOW1HgYQHdeV4wp/hPQ/fdylESNiqhf3gucivFt49FVffixXrSPl3EJ0ovG432g=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNWwUIc1TVyk63xSFfTsOU+JF+1wSUhQs7ECpWMAzyqKIH0jJ8Kya3EIrlhDQGEd9Ny19XITVGDCSUuv9pkBQ7c=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Function+Parameters
+status: Solved
+record: -1
+post_submission_on_open: true

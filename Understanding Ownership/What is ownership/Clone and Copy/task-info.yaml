@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHyzl1+LXBlM+Scm/7bYaVbS/1A0WqxIgAFfcmeqjzDETLvEj2iMcaR64t+nEwmlc3Ea/JqwyDWRI/4jZuVEBQp3swrcZ7sw5LAlMeJuXR5RbPBRtJ/mefHyT+0orPx2FV8YTHs8rOmk5wmzuU012gTFfU7Tofk+iR1QufDD+auvDqSkwdLf0PaLxh2x5DJnZE646yUKojLtkAnMvKpnzQMyecIFoKAu1WAwdHQVod2UKDCms5F42xtsYCNdE3TlHHziipzepqiuAYM6xA8eCnE=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJ2jVxkjdITSh/Rgzmc1ITdGDrkGc3nBf4tlrqVoX4/9nv/YwIi/yz8xxDEJg/SJLVWs0T5dswah5YUPFMeK7mE=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Clone+and+Copy
+status: Solved
+record: -1
+post_submission_on_open: true

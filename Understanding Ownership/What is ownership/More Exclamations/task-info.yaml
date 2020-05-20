@@ -1,0 +1,52 @@
+type: edu
+custom_name: "Task: More Exclamations"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 60
+    length: 3
+    placeholder_text: /*insert the necessary keyword here*/
+    initial_state:
+      length: 37
+      offset: 60
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
+  - offset: 89
+    length: 5
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 123
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: djUR82DQtb0QykmZtPBuMw==
+  - offset: 311
+    length: 3
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 348
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJ1BHWcx/yM3oAWezSOg8GxV53eA90AekRUzvSGauJCwvWva74MBPGP6jkurJ9EluwGsF+3SjGEPlnSWL34+0mkRx+S6lAwagXvV9wVAob3ep7hqY0f92Hz1PRO+dvMvRZ5lZiGKuOkkeQGwNgnvIJZ7NCTVBoqOcDOrVyZ4C2Ty5W84obxtAQPezVKNJ936s6niFH9GorjWvWVdgnTNam+83nVXs1UWhDHcvN9GOdCXY2aXE7JCgPoisfyMq2m/ooB3AhnJXW3kCWhmOm61DJLOnLcaKYjWHVUXyisBHvLp7lDA4WSArYryAOe8LBG9imAlKOKPclIJfYwwhbVmMXYA+Ox7cFcMLOc3RsEOUAbkW87QcrJHBd16S5khC0eKsAyD0bsw84TaOdIgpOtMX4x3PCRrhKyYeWXR/uXM61Zro=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH5c3iJFBtuMTMJDrfgCr/JEgdYTM31Szih/YnQQ9AuUaBYqaDaahMDUTCCgNwxXz920kFjT/i01uEOWusna45epcnRCxO03Q2nGHqKyZjKwRo+nnjyNAlacRcMSxYJu/A==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswnauQa1MZxJjYtZP0CxStdcV0nDJP7W2YFcrO+Y+qRLvK2UA3XGWKb2rM78ewdh86O9rmv9StaGBKOD7It0ZHDceoMpbBL3wTVaVNYzPU+Pz+TQVPNl9LEZieJ5htdaO82aYeGtYvf90lvCCAm6CM8PX+NUyJ8d9YVIrMVy8LeUp8UfsEBzQGs13HS9OmaTWnZs0npYytkwhrX59zFhexZGOym6nBnVlkdemHe1mhb/K4E8BFyGG1o607oggbKoW0QfqDmZwh2N7fNvmyfoZjShIHBe3OmG2eQuDIgE11OhMmQUfGbYD4w4q2QV6w/UqUfkHlTm7KkVItQIQf+zdtrzoNrXJ72xF5xW0K+1ADQUeCC3kQQunahLeOQKHcaM8a6aTIbpbjiWZFCCLP1plza6j61gjC1qg2WQE4xFZqYFJHoF9k+fTM4JCRvjA8FgfuRKoJ8tJ1eMYHpR8Yl02RRDfFRKjUFOCovyXY1ilwjBQ4ADYRKGXKr2RvVNCoTFFmczkakEsb60SJEnMtQ3Hm9V8gXfXuglh+4YCWX+5ZQxFC4hH6VTyLmnd8YzD7KnjCJs+KM0Y67W2KCZboGnuLf9kqSdKStfBABVAhX84QsT4tXat4YJJkgha474kuPUBYNb9IAQ9i7EGdKsBrz/fdt6jTbq4On2dlVapJ7NTGAh9uZbMArF190nwFXu7Kaig4WUjwg+CQEzsxznoMo9heErmsB43rYjk9tXIgSbCfJySW5/qKwGGVZdQqYXT/4NO4EYaZx/nG1XiArnz5Urh4KDoSa54BKUnm12xGJn9ZMxFHVZyzuL7KiC5Cq26E16RHaDioGeTZoAth/fjDcWmttH6JgsQmyfDFUL3aSszr8SOK2h+O76o5Ahq8Z1vejJe9OO6E+1ioXEuhomg07h6T9HU1/tyVkQEeDBRrZxG+1Q9lQfRsBxhAacjvvEyInmJYLEevDCVOWcn3c4xJUkkQEN9gzRoE55TZqhSCSj+LzTuyBxlO0RZF6cFyebU1rULLrdVlwBesz84/U5J02+LApQ=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 07:52:34 UTC"
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: Pp0Ne+LkPkUs/Cr0L5nyi93nM4jy7udUvkQgo9asjUHm/2e9q9BRTy753nOwFQft4np7ExQiuT4fMxmbBl9zrZDyb7QP4UjOzbzvgVZTll8n0o+PIifS4CCcK40AP1Cp7BVwvk0QvhCjdobBiLBy7y3bcRaW2/FrSDEt3RaM+Xkvues5AOem6qV1pzlr7AasNAT0o2Kg6kYKU27AuR2LKsIeHgVL56kGSPQTvxweMJk/LY/OUU6TiSFukt82ssEU59yf0Zb0rY6YJpCrdPKikgna2NiSgrZyGHu3hgxLWDkO4T5PeeR7v5qiX6MudIzT7or2MrlQZyhFCLFmJFep9Rj0oiSMH1VYi3UewIZHM2t0nqC9w4WCd8rjpXS+Qrlal8YNBHwvS0M95inYrhnjh+Mb2QECdWpV+Qjpd/vJB4yiY8urN/0b4x/te29m+4YuFP0IN2Qq99x/neeWXroCVQLdmY021ok0solXMb/FyhKykhh37GQvRo1qz6IEutwuziNcbJ2yg6vh1LWRVfxAbHaOacojtzy3U6T8jAEiDWFVE04wYCkOnc9g1Jor1gwiaHM4gU4ZJbm0eaCocoXCXdWQEdKz1X5dzFpb+f6c/M0NwvxCrpgj9M2+B46zRcQwTF7kSllhhBy+hanrpOz8NvWoMMAElXfAoAh6oG1smhQ=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPW5TEAxztChL2GF3gVwsOcMV0vgTseSeW6Ru8suFddfo1wAXUw4TAoxbYWxtIpbC21j+rNjAJuvBb6mVFqozFjBwsrH15dNp/WfSjVAxDscLpfnHIROQi5A/OpCQ7g8gQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Traits+/+Using+Trait+Bounds+to+Conditionally+Implement+Methods
+status: Unchecked
+record: -1
+post_submission_on_open: true

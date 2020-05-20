@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Macro Arms"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBLOEccMta+rkcKQOGNaN3SVOjfsN5xJBOB0EuDczX7XqwTaZ9njhoF4vtAuwthR/dX/01X4zLEemBdIQoSIyj0=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 82
+    length: 34
+    placeholder_text: /*separate the "macro arms" here*/
+    initial_state:
+      length: 34
+      offset: 82
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Ucrn/+bWxPWbkyv9LUu4gQ==
+  encrypted_text: 0macLUKtALcCFDLXukN/S+nq7kjpxOeapayjXF22MZG29eEWnaWoZpP9saQqy86PAUbcKXfrVTYr2f4XuVTCrn505uQ8Tzfzu6qEZa8Yd+l2qZj5Tl3GXFeHwTnbESFD6wfVT4DgDHtFLhl0zXv+4QZMqQTs10ccFTeb2XuQW8vY0DwcjwaXg7LKB4mulKCP2DLDlmCrfC9P7LZPWq3WfhtmQEKYWkwMePx9TDDdxZ96RwrPaXoBwMI2hEnuEb3BtCX2JO5NJurwsWTXaiwV3yBIPtJ7uRHYJ/LMQUDA9gpUYtGmCjpSBf7ZjVfpkl0GPsGqUt3LJvifIj0mDGCNwA==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Declarative+Macros+/+Macro+Arms
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV7x4CDbwyaJQzKlEkTXKV+OaA+R6qHrtt1Yjji7OmKvkPNfZvw2oTaC8R6OeK1SKvXRoWe0+Z3t+cgkIBGXh6x0KEX1bxIx7INyM962RhtJ8GPa4oVTI4BYCBRkYxmUs/RUV3NpzfTR7SVWffdAWdMN88Bjvc9JN8KdOTIudTApNEF1e+Q3gTb7rap/IZz7Tc/uNLKJhJ2MjocuEkf97I1DTtKhTmB8XoYG71x5uQlPctfHpQmGzkJok/gil2cGiaXVsIZ8F6Fmr/T7kBdHKm7N5FpV9rzTmXdF1LPUkuryBEpbNID1Ujuj5GtXRi90dESxx7QpokYh7NqIvtEum1ljBLhpUdSltv98NaTEsJuF9FbKiqvCqU4cw0AO7twxNus/ht94uIYJlcSn2DEsyK1WB/AxkPtI2HjaEKsNM1Gq559GChsBHaEZy/yrLxvZ5itcoKy8uAmg4CicYYGdvgaPLEN3AME2b3G73/tYu2ZHIg11Cp80X7dRUeO/llccFNUr9CRgPyoZq2UOI+Nh9Wp38kvIVhxejxAsLGZT7pz4uW
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKlDEh+/50iBsTjzwhZJIuGhUF/rxk5vOGsNyqj+lQGErpzQOgclPDLMKeiTvVFwhs6ZDRqhlu4gcM4UV2iHmgew+iDlz8ETwTtIqGLfsjdWWN3iHQBPV5lDVZ4YUFzvow==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Threads+to+Run+Code+Simultaneously+/+Waiting+for+All+Threads+to+Finish+Using+join+Handles
+status: Unchecked
+record: -1
+post_submission_on_open: true

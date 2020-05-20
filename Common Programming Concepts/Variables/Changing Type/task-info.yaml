@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Changing Type"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 117
+    length: 29
+    placeholder_text: /* Something missing here! */
+    initial_state:
+      length: 29
+      offset: 117
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 0iV8NCCPfPrcuz8qxwUXSg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DCk20GWNa91lqQEgvapYnkUmTfAtaVXrFJqXEwHbaXp9NQ7PaQ/AMP9N6nglgR0DsqcV8w3BwPvFLxrYb4S35wdLf3xwqxPdyCdkA0bd3n48cfFfAd1zcBA/2O6l5YEUKQ0OewoUwRl5j/Qm3h1jtIc3/crYgFRpy6sYsi0BFy4EJYyvbNrutWXi1O+lSFKYVvNyElMCrUpdnbL/yQpEyAJwnlTzTiRI8ow54jLNpB+mHqWNH0oaHmevAIRoAJyLcsQynxmAkjlGVs8rg+9AV3c=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfN/dvcvg2jLzY8T+do842X6vYhMvUV0yF/LKpL90N4PytbJF/8ShFKjDKT9mNKVn9QbtnfAPZICwiHo9dQ6apUM=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Changing+Type
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 02:40:07 UTC"
+record: -1

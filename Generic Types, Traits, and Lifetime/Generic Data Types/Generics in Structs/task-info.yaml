@@ -1,0 +1,73 @@
+type: edu
+custom_name: "Task: Generics in Structs"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 18
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 18
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: TtHqopb3p2QJdVXzih7eSQ==
+  - offset: 61
+    length: 3
+    placeholder_text: u32
+    initial_state:
+      length: 3
+      offset: 61
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: v3ZkPzTVOIMmYksW8RSPlA==
+  - offset: 73
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 73
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: TtHqopb3p2QJdVXzih7eSQ==
+  - offset: 106
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 106
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: TtHqopb3p2QJdVXzih7eSQ==
+  - offset: 156
+    length: 3
+    placeholder_text: u32
+    initial_state:
+      length: 3
+      offset: 156
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: v3ZkPzTVOIMmYksW8RSPlA==
+  encrypted_text: sRvUssFEeFYfofVn1GQS8ZULcSogXTdhHn/pOkxqbFUVBTDV5usgjS2TRGhxeu7M2OuZTZ6Zz9FqZt4RlHbFVLsdw6spN0WRV69KMDiSHXm1USyqs9FvpemDVhE9oGv8MrBssF24b9I+XJRgldYLfp9eIl3mKXAFDpqGf7Pc3nYpDQOBUwSWRK+NMrgxmBjpIpJO1rP7Pn/beGESpbTfJTmLUD1JyG+5y7OkfHKn0bRRVJkk3wo8SbeU0E1Yks4zoOfA0oR2laPFso9c9H2GNQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFalgCRqmUuD7cPOpOXbiKoE4A2fCYckjWTzC4EF5p9nFLw0laagAGbs0jg5M/LJQyOA0wpGuuiyUHOT0Dlic2g=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: /RY1js+GvfxN5SrDW77919u/lt380DFmquB6XVli+mLPGHwARcKd6BEAIr8x9ADrMAQvCsjb7VBMs9Jva7idOucNjSHZJADgTkpBBGKEH2R/8a56NQIVj5ttwXjl+eNZPq7uNgCfzaaHTRkovoG5iguruIMAvE0l5SNGK4ZiRZmvW/fTjM6kW3Is5ucmV9A6VgbDHufavzTHapyTqUS2Zio6WQdQ3/IQ97g/G6OOi+A9rZGM2ymVxrRO2fzUq/GpyKQGvNW8ac6qmz3nyet87w==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: /RY1js+GvfxN5SrDW77916bNZva1dOKUOnHRUpL99APyEndRZ+nECahjbBDuXwJMw7dXyXokq7LiuvI1Zu+Q9fKQyL5efccvAdQSMhwgLLl7x3XwRO5anTGYRRsup5brplJB+pCrPxgGNyImdhBpQnH/r+hkqJWFagpWeZahZyifSUr0rpmhMqheVEj3h4uykd59yn/AFYvYl7J/923n4C/a6U7cqxBpPATiiwo/5ZogJqnftAyLrMJrm6v87NvVCArOjQ8f4xqmGZiWIli1qblCMK8UQHTmj8LGBSEwcFVl8qtKfhs/r/h5qEtG8459B1tseqcQU2Ej63+vbNdutR72gcdspcVXmYzJJtYfA4FcqNGM1CUosjfgtJxyGfENnf1fISIUmZF7KQ9BiIxsWP9p8wbHgXldIdKqkE17AFpcGLvHJQ1kB+IArB3r+EpgcQjm1+4K0xtlt3RVvi/EUZMot5xT/1mDDbVcZB/WkX4=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Generic+Data+Types+/+Generics+in+Structs
+status: Unchecked
+record: -1

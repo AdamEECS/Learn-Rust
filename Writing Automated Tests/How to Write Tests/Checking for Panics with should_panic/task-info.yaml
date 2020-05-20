@@ -1,0 +1,15 @@
+type: theory
+custom_name: 'Checking for Panics with should_panic '
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: IcC4mmvqzTazmtApmKPsuFzXZedGxO2OBbPpihtdTTIql056VlsV9NkcoioB4ndjka5VrDSHyK1uEEnkNA8BQy7LKL7y+7QeGO0UvUBPmD3xrOxPsaxp/RWkRn9vh//I8cGwlbow/+0omJdTaUi7XK1ta6BLoFpH+mX7pA6rlahqOVvYPxgpX26V4V5x4Oc1HFW2+4+G+neGqHL/HMJxsd2OxwePeIMWt/pJ7DL9L/nSWUHQRhLdDFBp7pg19Qq4Q2y7uNzR6O2vOrK+TSdP2cis7t9Yraz4G2ZM0/FwrAD/4hmYsUIkJnlTgaWzduk0wDqA1xQGDXHo+gzsPjZZE6tie6wt14IAiE2nLuNe1VKMBVU1OSLJVfzk0eFhaM1m9D1e2+l6Fim3uX6gELDsF5ukyqnYh7hoZj7cII2aZyLkiIbb9OaxuQMoHHkGgra9oS0ulmdJtHJOdcmOOsmUjVRznxxdonwwwdrQhnZ3enC3MKdq2/W1D6/pJxHOhNubbCCEKRpiPjmVHbjo0KIdFYjsHpEbpRmPW9bp+ZvdTio=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJKJBm03ZfswkQuSp0vhpK2d0pAgu+B0T+ITvvAJQpcQJMipT/3vf2BmSvydfQ56P4pJ9M2I8FSqKSISUcYd8jl8d60ltd2LZRVUVmrTeyWm
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Checking+for+Panics+with+should_panic
+status: Unchecked
+record: -1
+post_submission_on_open: true

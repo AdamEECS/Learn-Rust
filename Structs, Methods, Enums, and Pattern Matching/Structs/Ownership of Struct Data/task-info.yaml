@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: S6ViHmcQMEq7awBd4IPzzNl6WBEWVtpoCMhdnJwz8+92lCBE7MCs6H4hZIoSJk1krKL64fktciRCIH/UstqbQmhV5WN/jXGfkOg1lw114h6L4UvJmO75ZnrD46cqunLhq+vOB9Ng47SJvvLJfabGaDlPrFNiTyp1xXslGF3YKQo/oXYZT4WFR7rWuLJhK+ETsaHPN3+Icpq+EjHMnyksPDnPkPdnG3l3pTehMhEaPpekUA9lo7ZZDAnx0xqCQYV9A8noaiLYivFemAQnOaOyEDhLZu6s/EjWCPevSimvpdNnxQ5dHImLjRDzMmYkL2Q7TmrIuTFjs05jaWOLnCTDRBxQ8b79PGIvxnkw5ZcUcHKCrLaIbWX7ZIVQzIIxlt9dUmG4iwi5Cp3yNet7Zi295w==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfI4Ej+DdudCA5Avfqk/rynrzsWNLhZSwOSLqC4qxmqOgBZA+ZYT6dopI6+9R5YHXppaKw9Ih59lN6ZqHFDnQdKc=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Ownership+of+Struct+Data
+status: Unchecked
+record: -1
+post_submission_on_open: true

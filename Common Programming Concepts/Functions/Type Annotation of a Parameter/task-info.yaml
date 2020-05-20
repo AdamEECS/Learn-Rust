@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Type Annotation of a Parameter"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDH1eRL4fTaMfvBn/okU3iCW+UIDsBofLGYHyy9aM3qqUHwYWO8U4XvdlNn0Bo3UN+TA+nvIxgxZcJA69M+jcfZOI2uhILwch7NC6OTjL8TH
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 4
+    placeholder_text: /*insert the type annotation here*/
+    initial_state:
+      length: 35
+      offset: 46
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: sCw8UVTDFHPQPxeqCo5bVg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAWqq+SLqxqKaGk4ib0M9i/rTgcQ2G/gdsavP/gHWpUUabAShvr/qrqATenBEpnmlkr1GUJ53n6ygSbZvzsMI3UvikLyjTqZa/ASF4UhWXag5PHiIxVc+57Fjo9mj4vEadrUGTKUr6W9JBqokCl8dz01ll3VQg3PPMH/UwQ6tkS6fbdf4CEewQTIXxNGMwEUqkg+At73NQGEPqSfWIJGa0U=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Type+Annotation+of+a+Parameter
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:24:46 UTC"
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ZuAiNI7qrJ/GRS2jLNN/fucDGAdHKnxARnLNP/a66xZBBp/6PkqEMjXGRrc3nb4lkwnWrflQ5X1TEKzTPmgj4kPCognm+1pveOomWqqFfAia2jH3iCi4jA6LOhMXay0w5eBGLmHEsgjcc8B9KTadRMLqJC0W4H4u9OmU5jiuhjgCRY5uAj+X1yTPhGUQQz+10hLEzcOdOhQej25/CEv7nudWsNFOucWUw6zlXilA/G3GY/EVYjDwP1BLnOeS0UO8u6rtIE+LaAY5k0wL2HxKh86LCEE7N3mO4E9km8ujS6wFf8MmMQQPSzyJXZwMWoN16ryiSQCb3cPLmwexeXtcjE4/0gq0RFE4ZCqZnhl2rgYC31QdEqwiOsu4gox0aNQVYHGuQcrILnfqca9LHZ6vsdo0/W/warAHzYtgA3hJsgWVzNYcc3ZKC0fmdoF1v4OmDs29NVcmGUgLxoUrcPPkuqVS5cMEAiOL/D0eNHBlZaWkBvf2e91/YZ3Oh3T0F6njjYGvN0zQnlJtFuI3paVv3GPyntpu+RkSk+yVAoGF+0i4o4chN6dLacngnPi2EllYaT4t2jJ1pqFYVgizsJ5sPrMoUwOYZPLxAkg6495nqPUqQUAehCKlbCDuww0l3k/hGEK7ddm7yxPRZfqbAyvYDLD58kLKDP6d7p9E98Q2I/2qBYxOk32ZOYxJNe8bB0RGisJo4vOLZW18ebBRmNmmfXiAv2F8NYBVnnaUCjXh7WU=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIsZbmYk2+PJ7935ddr7Xvp8xUdCz1L4Q+ZKRY+DsmIIZRMbB3R3FaVGTwjf63q3/emVocSnnsnN8mSVkzA3ZvftC+3UGFiLzxaDcFwD7TKl
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Shared-State+Concurrency+/+Multiple+Ownership+with+Multiple+Threads
+status: Unchecked
+record: -1
+post_submission_on_open: true

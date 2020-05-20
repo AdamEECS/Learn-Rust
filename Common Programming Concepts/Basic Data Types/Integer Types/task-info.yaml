@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DI5Qr+M3SKsN1RY22dW7Z6cgcbY48UcTwOXx3hOznE24LqbESM5/3U9GIOsI4z1Pda39gCrO5WSbBlVKqHTrKJc6ir8vt0HDjfJjkF6jB3GLyu0oePhqqNI5DxYwe2oYmTthklV4PfFAu4i+VoabA9h9x7FEWtzldAG4CHZP3bzaXuywlhhRzHUwuisYHoDWh1/xHAi/8Ra8iZiK8LqNHOFa7ZSqkq1miOJnZtOXxkMozmCpbSX//P269dFSWOhuGs3nCYu9TrHPy5LkcYSkx+cnONPltQ+XJVfjJK37fVZaDDGTU5cA5IjnOLUhH59YCg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF1fAkKunwIGCu9rfcVFzzbxZR0mp3ZLhGvVdwCLsADWakOgnLzyciyMnmEQFoMrZAITkCR45TirjqHxQR65mGU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Integer+Types
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:55:17 UTC"
+record: -1
+post_submission_on_open: true

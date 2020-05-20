@@ -1,0 +1,22 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfAGwdD1GeBrTc3FPUsGbeyDzwWAMr5aFx2Ret90j1teLoywAcgX5c9F9a2CRkNrZ2wXQ0dRr98+WvsS9q8p6V58=
+  learner_created: false
+- name: tests/integration_test.rs
+  visible: true
+  encrypted_text: JlWpkUUFwyssRH4T+g255t2ZUbbDpY/J0zLs+IxUkUwBZZTnq9S+Lk2tGSQOvkc3qnAhYcC1ejYeAMJIdQe30K3+c+9/MPaB1cXnyFxuB3sh93URttTMQguMCaTiG9ZEZCDZ9TpBdZXgwhMeDA17+w==
+  learner_created: false
+- name: tests/common/mod.rs
+  visible: true
+  encrypted_text: BfWZk20CWaE2/1TM6dGV7DlpxfbYG0N8tQFnIXij+Y6CXjofxs5NUP9rKZY5/hX82nwteFisxkN0mT3Z5nVQhLWSWdVVGuiFi42oEtVkjVGSuSs7HzYEQq2Kc75ImnOu
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: y3G+S8lnH7Ttwjrvx8ok3f7l+2loqKHos0NV8cMPvL0M0ElzhqgGKKneVFsyaV5XsIT4a5eBkRSGvf15cVrYwGtl6THMrqDFcdclBEfPDjZ3Q0fUjHK0u7L47sv+bFnQ4Nmo2jjQnxUiBF7hsj1vzQjdZ54gtj8Pu6WG8O6rFRddkz2uXxbhUzQxSQ0tQuKcnHQj4c1nd8avYYKrrTco5QNaAFM6bKsfX0Smm6nmugHftXowI8V91UcMZx5ZIqA/jPThed6eAWfUPWFPidJbWLqKy1xsdulkb2xXkMiWTWEW6zvsRYBdWDOHVR2xJEenejUwU7nJxKCD44e8kd//KQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+Running+and+Organizing+Tests+/+Submodules+in+Integration+Tests
+status: Unchecked
+record: -1
+post_submission_on_open: true

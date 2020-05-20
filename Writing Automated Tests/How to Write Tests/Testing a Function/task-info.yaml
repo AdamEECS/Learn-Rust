@@ -1,0 +1,40 @@
+type: edu
+custom_name: "Task: Test a Function"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLoaKFS0EdqCuIdxXQxNpj/i77oa6+/4lK6wU18BMMPjHN3grhP+W940ZAIOGAkSbWjGTnBDrxGqV54JKePo8Ab+8FtQ7wupMCUXEQTmEwUMfHrL9Q/AE/F4oJ0eCF9ykpXJ6r/9yCTvXyirboJXPee1bVbj0/C15I9r2c2N90gD
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 170
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 170
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+  - offset: 191
+    length: 85
+    placeholder_text: /* Write a test function called `is_false_when_odd` here and
+      test for `is_even(5)` */
+    initial_state:
+      length: 85
+      offset: 191
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: KwsGSHEX/nRMgMSG/Qk5gb6vEnQgVMtygeqbizS/w6Dmy8bh1vL63quGLUrrrTCFAttpHIcozMyOIF+FaTzmlGLKOISUYRWOW1Wj1XDWu/Y=
+  encrypted_text: ImUgZMinHEEr945PvzfP2AkLkiI4Uw6axBsEeFRTtQ3ofAjpK5GMudflRhsIpFGsZSZrsVYaSdY1Zn7ENeuc64opVaSsE8Hork+vWLuienddn9o9pjpUg+qOD4OMlud9o5IrZ8++9gAQSwjAG8iJE9SIY6mvX5HbNRrACosSRNYAEQxbNLtVQenFo+IZ9SZBzjlnhwaiyeinFGPUhFJGT6BscsMTKhi84zHtXnfrQwGCC9HQBKr94jveo9osMgv7uTDZEkXN9PrSrR+CLuwxxERTuY05oiqMElmnBrdvgiUFvyJ3ptNce9t36Gh4gqElJtSNhgoi/2ZRY3AHDVdDHQRaq3HG1F2XzBqBmWRBJZ75VW098DAdRL5vuB01Rd6c
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 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
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Testing+a+Function
+status: Unchecked
+record: -1

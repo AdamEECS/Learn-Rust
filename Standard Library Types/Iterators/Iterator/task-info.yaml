@@ -1,0 +1,89 @@
+type: edu
+custom_name: "Task: Deal with Division"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLhPrLU8bYvfJ5NKGEDxUX+T5yPv81vTdjrik0z0GYqdF85xdftmP98dyOEHZoMraFgVna+NLpQ7GahML4chLPA=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 418
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 418
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wSlEipsm94VRnv8WOjVqQn0NnDJswTFXn8K0tXETmO5P85G96mvTT4G829SkUUPN
+  - offset: 468
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 468
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: lWApdfxGUXeXQ8iiXKdMXg==
+  - offset: 504
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 504
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wSlEipsm94VRnv8WOjVqQmLjiynGzvx+5TQuaQxmeHm98JtL0j0sfMwkRvZXpCWsIDfL4Gmk1zKBNtnPDY+k6eJHCYUWYOuCpJU5E4mp+UM=
+  - offset: 677
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 677
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: zLAzfxUa1WWDBCxh5EegHhB0kGtVLpvMq2QSIQYNgXQ=
+  - offset: 824
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 824
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: hDbCr1EkzsRuE9Seu+e9AmjUpjaZjFqF5AY0DskrllEMiE5ydhZCmkPsEwXKu+adxQqwewwRJHs8k32zzTx9mK0A/xNMsEnUZz0fk/6uF0k=
+  - offset: 1017
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 1017
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ksrBbZvSDjPVBu7lNkMoa4iR6X1uOp1zNxYAveaGPc8=
+  - offset: 1164
+    length: 25
+    placeholder_text: /* Something goes here */
+    initial_state:
+      length: 25
+      offset: 1164
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: aVVlkek7BLMJRKqediEb9LKjlSf60F2CKcWGN/tmVooSwwLEHFbluMCen0lEIuV/yT/4EjwYklvsF06UV/WF7N2MslvvZkomssBHMbRo+mg=
+  encrypted_text: rI2CgUVE9RtmedI5+2w1dkiVudjK6hD4JPmxI/OyoXi0K0+0m79YHxQGGnLg5S6PC+Ob7WYwor3kKiKvqZklrP2SOFmZQrKd5KmCtXUJdSnQbsMtsohYiOKCcnWI/QcvBfAB9pGWu6xqzXeqEK4lLInLn78eID0ZjSBhXVSMpWahxKUVTTEZVqW76E/ZrTMO7/k0C6Pi/lfeJZ90h0AwF6eteyiho/2N4EbayMmn9cV8DnxwKTOusBqTP5160zXYUm3GFk5G99ysay1Oeb/FEVQBR4EHHcQYs8jHwl1H7zopWweBptr23yUcfYv/5Cp3hWaVl5myscjkMHB38pP3eltas5cqpVDt427N6sDdoA1Ql0ixw6TuOYlukHTOvV4rJcURC5n6VAgUeYplXyR3uNCnUe1bEGLy6Zyj/CznK16BSz1H9JixUwWikRHkTssvrURjTPBJIOBPlvR4wkR0T8Mj6AnooPLhr+lmSq6AICO20uA5lOl3dmok6FH7C+pe1Pj14Ii4/R0rPmpkYchwdoJGcra7Vj5FsZlrHvtbnIG1vPNv7P01NtiHkXJMxLhLYbqeIWCHxybyMHPonrhe5s6ox/+sGPrxQJWeEYBJ+g0peKTbMciv5iiKiLuJqQY1NPUUS7/RtlMXPY2LYmijABACI+AreGOamzUQ9JhYJmQDS8oR8cD7O42el/vunoBV2F8u+bm3QQ83kVqeDJKMvqLOoQTwFN8hOQjZ5v6noQvWUaN1aLGxCLrTZdIK1qgXctpvrYXVh8nbzd7WwJ7K8OpZqnOUDd+W6ds8hTO84L3sahGo9QaTisk6iho8jKw8omd3pnUb38e1WUi4892uP1cw04+8Iz1xWVe2hOYmUSGLDrFZIu2zUOpmvkQNLOwDgEOU5uLgK2l+JyPTDksqSN48m8ejVJS5eE+2KWmGHNc3ploJc+4UEwy58Mpuf9k9Gzl56iqk89+RxL+FuAl5TXFRmyllQVpGYF4rqrTbeBV9Vl00tWUyljKDdIYB59gYp9My+MwNKUhPvaGyuVsGbiUXCkQmDO/aUM3bTKn6/8x9WzvPSPf4QcNYWbxdPHRVGZtu890jjofjltnxwNUDjkNGHuhWsnJzNFv9l/TcITSi8NLrtg/9VAKKhoBpOw9/tzphGWJQ+tKQoKO0+U6i49ogHKDK46kRjaxmehy8TLPcvt4B2X9890dOFA0HBLqQy3a+FLnbLOTBVXOAqWDBrNR1GhLKW5FftYgM5gm6L1o5yKPN/c8XxHssj8USgKyBJEcFlTrDRkiFOCQKMWf8dQFr39ncNpYRn3gqhSu0cYBWDOLNPa7+TDYKQ96vsz+tC3tDhnN0xODckhGmIFaEuDKY8BmrG2obbSqjsBH8RLW48n15RWLNWm3evT7BQcoSzZhs/S6GQsTb+6fV5EM0GzhtXyiXZTxMpGmxPI08/9vmMnayWPX/k1LCbDQFHIAv+QjyLP/AEmirMGdj2G7YQD9lwbsi4Fa+5jiFkE6bBG11LbKU2s8hbBrW+ynd713L4N3Smmpv7H8hHAlQzrGUzy2CCeCLm0O1Zq45CLKM7MfXB5ha3alxv+DH2V6qoZWu
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: rZc9A64YzbP2MhFwWqXrN/ESjJ32ote9kL/RbZhk1dva4axMGVtndf6hagTAbBEfPY9PSOL+jwCYKH1WdDarFjnAp17f0Z4CHHrTURVd8Pt+obBo0cF7RUGECXKjixyxRCqSrqgK3MeHcPhPByPnb9IA+6rz5lljaYxjfz00GuDUxyDLg+HPl1cpClziaYqGjRyG9M+DQY7P3cHV/HOYPAQm4MKmI76bZVSGsqwZaU44gAIYbYN2GYDKidyRVSg1svngupjYQHHO+yqoplTVvO13AbgFafGl4CyH3MSt2WJG6PojzZb+TOdAQwT4JRPhzU2ZlrDFAefhNWkPNNLSyv3mnKNh6pGwKZJrecBFxEbzzexiEDMs8E6jlO2PbSsGfkJCFqfZ6zylTngeI3hC2JN9ORuxffutxrzoonEQGedPiz4GVArxG91wQ6KImJVdyzw0Uo72UWmpcW2O2pPMa1V8ALa4a4eOVpNUIr0pha37e1J0QnYi8/pNHFrFmxBIvxtoMBhcgIo8l1PJIcT+PQFQ9UnirhDsxhdHBKsKZLxc32GOtmt2Uf1PKCF50b/63dzT33/F6wa9kF9lJJj0wXqwQ2v/ItWGid2slZE8xognGxNU1uUu8n/9TX3iI64gjZV6AW1YlDqKnApf4siKmDQE3fPLHvHcS0dCCanCd6+6A5arzMcej4OY0g0I52eOWDMwT9kr3xEaY0EfKvuRfM0s0jpCC/6p/JMoZIVMz9ZearzE+3nRkXnAlH1MwmYeEYKDHI8/RckjpU7IwZjvUSdzykpcKLwZSsVnbp8j9se3DvmoB6KYBpULUE7co1maO79ai6GwbhT2EibpXZ4/A/i1UPHqxloFmN68p/po9MIvuXBrtC36y6rMPM8YjiOdxE7a13V/SuAamFgGOWAMuIuEImhJTOg/leHWgHlDv+9B7Trke0c5t8Pvn+u5vvzAeihOVEZ2CZ1wkIfVaXXkP94uqWxuDrcqdveRZzT1UKOxdl/lbRUCrQK1WJCJCgyd4n09hwTbHT2uzbLvcHzd0MrE7TYX9xhtPUAh0Vl3hSx9uBPM68pKYJ0vxBTBRRrH
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Iterator
+status: Unchecked
+record: -1

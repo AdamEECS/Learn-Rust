@@ -1,0 +1,99 @@
+type: edu
+custom_name: "Task: Use Cow"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 427
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 427
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MLuR3BY8qm8XtwiFgA/hyg==
+  - offset: 545
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 545
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MLuR3BY8qm8XtwiFgA/hyg==
+  - offset: 744
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 744
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MLuR3BY8qm8XtwiFgA/hyg==
+  - offset: 862
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 862
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yncgIhXa8OUYjdkPePBE1w==
+  - offset: 1055
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 1055
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yncgIhXa8OUYjdkPePBE1w==
+  - offset: 1173
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 1173
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yncgIhXa8OUYjdkPePBE1w==
+  - offset: 1367
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 1367
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yncgIhXa8OUYjdkPePBE1w==
+  - offset: 1485
+    length: 24
+    placeholder_text: /* Borrowed or Owned? */
+    initial_state:
+      length: 24
+      offset: 1485
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: yncgIhXa8OUYjdkPePBE1w==
+  encrypted_text: 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
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: zyer9Ls7KN1LJ6FG2Fdccx7luDmFCLvRN476VepJ8FLzgYQnPJxeQSdT6oilmf3PnMJcl/SSKvTm01IOBpp4+oln96YVlBMGJNEhirZJ6el53qYowp4lNFuu6sleV/ul6fzhSkOnJK0s/NW/vRy50ZTC+DpE76WWTxFXrtLQcvlUjLM6zlnzSSKqLW1d11u9V3fhY1bfK+MH8CF3XsmP7UPvYc5+VqjHY+K1lC3/RjvvxG3TQqoThLjaDGkK8HMi0pRf4F3vWe8GQF6rz89U4Q==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGfGuBxrB+yhziXimMyi2Ha7uozHP7UKpCHcXWZdGyCcvqT/nfMIFqvh3qKtetxlHA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Smart+Pointers+/+Use+Cow
+status: Unchecked
+record: -1

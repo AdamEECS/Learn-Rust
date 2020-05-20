@@ -1,0 +1,41 @@
+type: output
+custom_name: "Task: Implement Match"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEK+r4JCkh6d9Ur/htgYswW/M45gVsfsH7XZgkQT6PnH0VubODUWB4JiGD0acMrHGa4/WsdTAkxhNgaxn/YUO7s=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 71
+    placeholder_text: "// TODO: implement the message variant types based on their\
+      \ usage below"
+    initial_state:
+      length: 71
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: u9R3m+/o4gTSz61Q/g6v4qnCKOmhoaIGJi0imzzNFO03XFibSz/tbdoetT5Jtcrm+8McqpqyYD0Zw9i9b+x7ZJ4MHxKvSmlBlvhgoIUGPKg=
+  - offset: 606
+    length: 76
+    placeholder_text: "// TODO: create a match expression to process the different\
+      \ message variants"
+    initial_state:
+      length: 76
+      offset: 606
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ue/SaclVyL5foPnwVyNkQxBONPVV1UjnT7i4LTNMElhqgC4kQKeezk1KCyCU5cPEjwAM54eF9w2D2dMKJhRum92OENdBRXmntS65TVp1r9QT/E31eP4rdIz2V6/R+kdzbiTKe/M/efUZamxMHcD9zNEj2HjVFCBnYj07X9FZymznqcoO+muo42n+ZWyM5hPd1sFVc6SgulE+gdZzSguVsxYzJP69c30EyGPXvsm7JKaHiEnVQ9ggED30Md68d8UWCdk7g4TPIf+fC5/36ap67qz1miczMmy4zZQjf2Ox9opfP7MWKUPVqzRVmw1MGQswEkfRYdTrLl5kIx9wu/sq6Q1emZCTR8wyTZdqdU/ltdAWY/SyUw+NMBFPP3DfS/Hr
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xE8EnCBM98ffIBTDQQlWNfKqXNTywtR8Tp4DDRay4utfF3RmTgdU/gZEAwc+LWqp4yi89I5Yu2mjcrHEqMgaY55OmusOuf1LvIISwO/l1hDul5W+KJHaf7bks3HicGLISNxY10ya7Ld0MqZRL5VjelgOj89c4/2sirJoxz1FUqccRMGUgXUmMCND60XWMJp0vun93awaw6R+UI4VtPrhs/RMgm8aaiS4kYJVeKSTDREK7YiYD5SGt3UXDnjPV2kXf5DYlsNd9dbEXiHw32owSPprQGqknUtryQjnaTy6h7S6dMIcGp69SdxXbbptzyFyu9kfT0kAp055aCUy2jCJFfitM3VigHgdQFf37pLNfSfo80Inwm1sVZxD6isdObKYFKJQ1QgFMB1QiGD7z0AjUmb+x2DfjeRyAz60IstWPF5h4rR7gO+dEweo3P30exXP6Bp165e9XdTNn4Ptr5IehQtURSLe6YQ4r1NoGxUmKsQLi08OJRfxJLEIybREXTinoZww4nl/py0xaTdtvo07NbbAh8hOfcpNYpNOyqgA90a6OVFTOsiJii9P4JOTRujtzRRCdbivxWO4dpzXlNpOxHKqlO/gRH8upwXbM8SWNb2Q+BGBy00SmcytS61DH/LkMtJsOFQC0d8jt5/ss2VXNMQkk84iAZT9HESxhHvX7XsffuYcptREs+YM3OkleHiT9dgtBXzsxuWtYZwanfhhOmyvMzImNVJbUViQE/yQxX86DYswxAoNGZUgKPf2xuhrr0U8m3VYmHAMwW0q9JMoSPTUYvkbbu4vHk5loIfniryaSQnYY25k0/X+p/QIqoHHsHOxUzitEWh6UMctAgKKhK970rdXkahAhUxfXuLmt+07G0CfK839qSXtZZCHS13Xc/SGqpmQL3253+VRyI2nMyr9vdrpQH82gkyp38eeOXDfAm08JdJcxTYydzsxEpp8bOFWhv02ZslxofiS1CBLIQ9AK7j+2pQBeNS7eRWaDz1b/e2bFUVCiVn2qCQ6Q3qCUxXTuCzASWs687CbU4gRrO7LTryhzm5PSphxJc/96ihyMph1Xkw+nAJojp1n2+xn4/lua1isT0DSpZoRG9r11ojr/eMEYctUF1P62EACBUg108nlccWCplLQsnfceB+FlEIcorLGoYgqcp20yN60xLluua28aOwy1OSrad35O2IO/8QS8LBfCffe4JLyUNAEoenG7wWfVryvdpKtVx1tSKe1qTIRopHtpYXK2hYOdACwdEXX4HivUSjD7t69HIrjT1wPOl28iqHrjhiqHGzHUmsRgOp2hcMilS1QI+sj9hnCAZsKQkiaH1t8mJZfzU8qNQFkb5WMZIroBJQyuuW20wwqh+vLddrco0Fg8eTWeP8iQKbLYgQkPBWY8rwuHTKHFfPtq8m6M5Pf/PSzeItMbynmyIU74BQVhh9SpU2L6yEmwNayswtikz3jIyPjx0MmHXmINO6HsgsCEU8hDVeRtq49Uh6DEP/rruVP1COWfh+otXMc3S8pqaBY+CyfMpsA/kV7qmOPG0yytWFPOiT8+3mS3vXCPTwkmg+PFHfESfYgBx5JUFfzF13X9LITGOH8RxH/01ye7NoWivuRmzGRNJmSBrdE93pXsUcIBMwGI/ZN3oyWa9HMSXnS6pHX5GhShGCVBV0hHbJz06GsYda9MKk=
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: OJNvjPZHgz6BM45jRM0QiBJjwKV0Ve8zoEI6eYxpuQsKZ3GysNRRDz1ldpVI+4QrIE8we1x1XOs8ZLc3t/6DmgHlnchUyHWtk1dAVeeOC88=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+Implement+Match
+status: Unchecked
+record: -1

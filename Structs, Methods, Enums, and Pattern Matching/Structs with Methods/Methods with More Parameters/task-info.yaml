@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xC+5q+IdsSNQCZ3FewJZtJoWVB+jc8f6pSSdX9OyBZ1TduMKxXGlsiX3HP3IHo+Cgqm13JCdPasFwAgtqbB4hldfqIbuJObP9m50qw2KdjGXHiZzZV9IWFfx7AC6Hi9iYc+lg3onJYIcOdoHHtPzh5qoWaFlRKdj3CgcEhuNa887PI3Uknbj3Su/6J4ufAInMkYsrJ7PAZHXfWoYTz0r1EBfh+87Ugttm+p/nv2CNwbimPpNjIUdWRzAs0Fv5SBUyNqOr7wdYLL/+gAy8vstG4yF3kWsL5hr49+4v6OV8m9kNYDQA+ImAuxWqRWKUpWc/9KS6aGxEgVZR1HwmQTAFlnyfddVnrSYPdeVbmMruN7HRgzvfJoWx0IYPvSQpjigp0fMbyQNQx3Y87+toLpzmrNJscgM6H4VYkMYD36otpl7wkIPhAMTuIzfsr9K5OYz9bpY35PkZiwF8E5L9L356dFptWy+YO3uYQDZIrOiyTzvCulFBOf8E4dpR4gW4zPbDb30fHpwl8VvONe5+PfoOZTa/wxipn+6u77U+oBmrOauDDXRPiFkGTc3b+mYeuBJ6Qegc05H7+1lteCBh6BiuB3lXcENQS4nSKCsDh9UtT6QNkongN4giN/aToq/xdWJy3cMUHz6lowk/h4SO2bjebhMebTRqwYAHD/khYDKeVKX4gGXeCak8toB/9TiJrACUfcqGrCbRCBmhWLV3cGMQc4WWX1sqnvuuj+qjlC7Rzb+z4Hw2Qm/LOPUk9+hQ4khcmXJr06WYd3f9FE1o0vlziDW5ZMgzLxLLUtAEz4kdlpujv1Ff4rQffQFqAcZSJtrzKmG+J7wjLrY4mHJVjFp48o=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDUjTu5uuA6znvrnOVIJfqhQmJ9ZNXIt4i+lzCIBBANNYWhpE1tfbuFlyKIT7ZXwj+sMn8F4OyZwHnYpA4jEPfQ7HKczmkqPiDbuo4ChHw+g
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+with+Methods+/+Methods+with+More+Parameters
+status: Unchecked
+record: -1
+post_submission_on_open: true

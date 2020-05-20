@@ -1,0 +1,47 @@
+type: edu
+custom_name: "Task: AsRef and AsMut"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 21
+    length: 121
+    placeholder_text: |-
+      /*Obtain the number of bytes (not characters) in the given argument
+       Add the AsRef trait appropriately as a trait bound*/
+    initial_state:
+      length: 121
+      offset: 21
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: mF2JvLUdn0ACb1Yn5VF3tQ==
+  - offset: 222
+    length: 122
+    placeholder_text: |-
+      /* Obtain the number of characters (not bytes) in the given argument
+       Add the AsRef trait appropriately as a trait bound*/
+    initial_state:
+      length: 122
+      offset: 222
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: mF2JvLUdn0ACb1Yn5VF3tQ==
+  encrypted_text: Ynme2j7dNbg/ggm7kGKn0CiEejCrAYjNEYcvFIMiApqOoC6t0aFkeE2ks2dRp76yaV8euf1VS0NwcPzjn0XN+0hMnnAqRiAgd4B4wUHJr/fUtz8vPXb32RVenzlmrZ7m8XV6ejc1VFWjXgJZwfM/bXJwD72vTyH33Vx6565RpbZMj8+GM+hE3FQ0PDoVKBM2r1oId+eO5TZEFHEnqOr0UXmuOXWAjDhlAbLOr48BDDP4pBKcaKYIcPx8YPf+4nxIydctH/9SEZ9D2ISyZVY2AmxoCJ0PkeAcYfUP4Bz3aTlTQ2CwO1byWoDqKUVimQ8S0wDzMCwiJtHjlTuTrF3AdiNHkTM9CSW483pOJx77vxYZMPqQGy4LMjxPW7j6b4jZ6Q51XifrK9CJgzkmPffmjbvk5o+2sETW2rQY3UDQxY3qag/9GYWS95KaGhLLuVK3QnUBmnfanSnPU3WTP2B/UNCfSBwtPVJWidhkS8eVK/RqsOWyna1P9HOlgjNHe4g/9BqVnVOHTy61vRig/B1FpcmL/ipoMykMRsIqibBA8Io=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: wzqMe2NmmD7NqI4hyz3lRxhCTfTB62GBho0jus+I2X0xOm9sHJyvnSglQQc2Mo4m1u7lsZnEDXV2l26fVb/UeYLRoXI2nXEVm6PmUXI/jzjsD1dHxekPykF10tlvPcUUldF8ZD3rHDdlNrmUcAO0aNJC6LO4LjIl9Tdf6eJtkLDK51fmiEeE+Awaez8RFTjc
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDrSivGcxVydqDkMiDIaufYH6T2aG5rxFSoxYNaz4rKpKJEmWJ+fJn5eI3vpmfVk9+q7PLFhMIREXFSNknPvVx8=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: wzqMe2NmmD7NqI4hyz3lR70dVTa6mPkyGfV/MRmw6c220y2sarmuSREwv/ZxZe63bzt81exhRkqoBTAJlX7WeOQmI7Cx6Lf5f+ckWPZJoXQ43VCzkTocK3XhirK931af1yBMAnkHr/0G4zAxgRtmkdGp24dUxjXO2LdHfO7x3w9lCy2FbSxMY7lyWmyMf+CABdDw2vXcK0tlEyqMRcxrCqkZHxiuIMm5w9f3opNvKFKbIfttapUbV1eG0V+ju25FIWVEBwAHHb18/R69T4b9ifBdx0S/xlgG5bzqtLgPFDOu1QeHZKdL+MASj02emWrkbfjHSLLqsJiwzg6L48K9ipD6fbrXuFTl/xknWHTYUyyvHvSbcR4uvVSQdwrS/2+n4YfOqiGaeR5PEmr+DAtl1aMSyfgxkExYe04U3XTV1ckOB/Ldslw6okvdX4kovhEuQyexyBSHC1DJydH0AZy2vyur2DmXHIMxxMXR87K6yFDNGHzSWBSfpmA/O7ofbWqvKTct+bVXJDC/FoiHUVzNwGhUzSmqc4pjp7lS9EiGBf1q1qC3rTIFVa47k7xWm4Ls4nU83m/IP14pbFRg6qz8Wac97N1xdlDATk/5a7n3XbHaPj2MX6RksuRdW6bR6td1BH/MlIRPxqx3RINFGVs1X1vEjXVzXYwJgrv3E9FKfDYf1tkaE0GkpEYxc1wm56t6SkMzLcwj5VHpZvVGTYN6IA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Type+Conversions+/+AsRef+and+AsMut
+status: Unchecked
+record: -1

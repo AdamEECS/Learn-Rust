@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Constant Type"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 12
+    length: 6
+    placeholder_text: /* Something wrong with this constant! */
+    initial_state:
+      length: 41
+      offset: 12
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: LG35Bvni2Yh7mxyjbIMzKg==
+  encrypted_text: iQiO5La4kDYIuVVV7Oq9kiqEXcCRQLJ9Hn5mJ/cm9Qy08IQgQa6XxMOVDx6L7zLeNRWaY1xlII50VIUB+MxcgWx1rhV78StXFWuYXeNulL7Jn6H27PU7jH4zdPdTcX5gcoR8e9j2ouPsVDZ5UBft8w==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfB3V9m7vWq1ULEcYpEDqjlx8fsfu+SLck6JJuKCI85t/UKV9g/6wE7evkjeCNOTFs8MqJwDiXjbWDRcws/i8+HI=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8V0M4U9eryQrQnEclBpfkK+A==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Constant+Type
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 02:40:56 UTC"
+record: -1

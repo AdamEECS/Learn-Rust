@@ -1,0 +1,30 @@
+type: output
+custom_name: "Task: Struct Update"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 528
+    length: 74
+    placeholder_text: "// TODO: Create your own order using the update syntax and\
+      \ template above!"
+    initial_state:
+      length: 74
+      offset: 528
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: JaPro5z/BIH12FzdDhvIoM38GmTM9UIXeIJfw5jjsIX/eahJXpeyoOSCLPC6YiT8Z+5KA/nvChzDeR9VDuoYBg8/Q0t7vVOdaQNxhSXSSJKTu15rgEg4y/XR9BpjVnG7rsjWKBVAE0J6af3vanLQmg==
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xGdoqItjIPTmSArMzSHX+w0FRqK2gQfmlJRvATPrLgJXZ2ZxvYNwxU33tDp3L9tO9IFVkQ6ffCH/3YTmkOrBmfJp6ltbcUVFc5PvhykglGl8BM2YO8V4DajwxtI74qogGiTBGMZLPOzqlIYPl8rng7aeVpiSiRulYTELfYWsBesDvuo3Z140CxByyD7C8nZh/i3+RBRPf7tbu5Ldiv5n+Ccosv947WmY7I5l5IAfHQJZK1OIv+R1f/sRTyEe0U3OFQtcZpGWnDVBzhspnnrL9fHVQeheSQCZqKsqjokVDIaWcqoSlippwAi79TffE8fvLxE1RoZ4JWYwqRVZJA3Puf9IWFGz32a8QV+P3yBTnD3YfCMybYJjXXLc/yLrtWMn993/omRKfWzhx8d6RQFwGB5FiBhLCxEclOAncl+sRmgCOdCbg3MVhd8dUkRKmAITIyW2fwCYE7KID621ei0y1yjJAJ+Ahd/qcdmP82EL3VrkwK3eRdwDFVsU1NJf6bbs9TFccCLeSBkGNhV5ZpQSDYYlMVtWSvzY92RylFZCb6J+WZ6uVXOig1xv9kYnvMOmbQmtEkJz8JkJtu6JuaUK3Gwy+DMFGQ2+PzDrO+uU94M7t9X0mE/wS1fCOxuLJ67lAg1h3IQ22wffsCFdNm7yU35+/pvM8AounHgMFIoh0FfEM2hAvfsmorfOEhZNLuOvXC3b8x5LYqiQn6x0Vr9kxxNS7TXIIfHBJ5bA0A3/X/uKqkx10G3EGl3g3NNCfdlAvfSVTXhQXgdyT0Wc1m2NCeP6bCHlVMfGKa0VaOQx6A8+1xW+EkrnDChWRFcttP5Zjt/yT4B6JcpOzp53rHPHkQw1KMmUzlgzarJogjv608Bm7ueCK+d5dxOW2IA+l8qCeYhylO+teIMPy9u6FrbwB90=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOYSdLXQVGJ74EkyJXGmdwErC9Fe8UKb2g7C0wnue4ICwTAPg7CsC/pOrBZ5BrnCs4p670/wKpG6r0CLm1kqdvw=
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: zgswXnSD/JyWUmOaKbKDaQ1yNAQgcXL3LHweGhwJT4dRqlDWFiQ8J9GxpInsDXycyrDQrj1a3z/4yxGtncb9FsZADsW6+ZDH2JQpSIqsIfKl7iEmRN2HN1KuXmBW62QVIsIGKwVuzDTGPSMJ8Z7LuEeKCcnWTiu5P04/xcaFxUul7N8syX88hitTI8HjJTAH
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Struct+Update
+status: Unchecked
+record: -1

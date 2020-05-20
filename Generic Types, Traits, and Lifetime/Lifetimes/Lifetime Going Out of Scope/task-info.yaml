@@ -1,0 +1,15 @@
+type: theory
+custom_name: "Lifetime: Going Out of Scope"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: HbtsAeeNMN3XBZoEP65e6q3P/I6ncFqaCaQKFNLrmP9/Qyt83Dl4gbEvNB0Wyhfqt0aJcH/mv+T4PRsmslt1YYFGMC80WHrgJVsimZnr54ddkazPKB39Bkh0U3DN/G7kBVG915NOhzJ3BMzLGYjn83+f8mwfBjB7B+cH8A7g7//q+nZi9ZvrDpJyBSc08TAV77cmOautFi/hURcev2DSSESNIuj7yIuRShTn+0lh9kw3+mnfD7Wvkvq/gxHvKXceIBQyOKaOE7XGBN/Q/3oQwMmYMomgWQhhiCUR2BThvzms+ANU51tT82sDuxtY1mwomp9vQmqDTHb4GH4dRjym/a0HxULU+3314ZKYnSdhZa2OqUocX2Lj04jehd53uNt9dKDBm8Blxm83uGkGah5L4tqCeprdCMJvHM3ZYz59L607oS3lqee7ZWcDhn2IRyHNyPcHIg0F2zNa7Dvw3ZPrTkTEntrYLZgH/UrewTHUjb4tThDjy1LVyu36e3scrmULKRpTAyAiWkgfTe1MmlXBlnvFU2G/IqH2MkABXOHAaDtndqHxdE7sJHRHKvTaaBV3
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF+yYugC/7WbKrhF8DjinHOh3DmxAD8jVMFotjRsYFrIWULXyACTSsPbRz18Lz1kXTASXeHGQyFiAWaO5YaAgOTORbnyuM6d+N/A1HjUUkLj
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Going+Out+of+Scope
+status: Unchecked
+record: -1
+post_submission_on_open: true

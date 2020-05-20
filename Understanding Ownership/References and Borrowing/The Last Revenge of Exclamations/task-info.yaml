@@ -1,0 +1,52 @@
+type: edu
+custom_name: "Task: The Last Revenge of Exclamations"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 76
+    length: 4
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 76
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: w5K+Pp9Ux+ipRhUCT+Yq/A==
+  - offset: 155
+    length: 4
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 159
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: w5K+Pp9Ux+ipRhUCT+Yq/A==
+  - offset: 238
+    length: 4
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 246
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: w5K+Pp9Ux+ipRhUCT+Yq/A==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAO6jiTnPbcYFAwvnt2KhrH/JfgyS8ssryDp0mF/KcI7Xrjj86LrwIn9lHPLtmew0Zs0GO0Vshgr1tQZx3JWNKyW574PlDTPHmS0kNAbRsnaoLa3V8m4NsPYt3yn3catec60Xe5tfsatpvaWbsCNvTU4JAoIJCOQpHwtOooJRdfZw0T0It4W4FApx9j/h53BeZhWOep0K4i/wtTTqWgu1QAFo6+AUgjY5FqgwogzdxcrvHTGeusSWHl2ehNu63Qc1yI9nckSNrE78Dk4gr0ZAeBIKCdqtYZ1pn9/ZVuCHo9g4uJ9xW7jfGf34Sh6IjoEFPQDglRncvF4UTiYal9lBdFEi9YclYZBWVY+d1JQ6L8hHmvvymEljs6Ypdp4k2lAog==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH5c3iJFBtuMTMJDrfgCr/JYciz8yYf2HvUbYa8E60N1d9RW6SxbjZdEOtE/+Kqzdg/9ctiszzeiVFguLh5cSFB8ESuLAITs8651zUimzh+Gc2uEtXt2quEAzzDX7O82kQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswokSTIxEtgg3UzU09hr0HplWIuxmDGG5ThhPhmwedhkEH0vaoBigIfzknTGDSFazNA7zEdepIGdjF0+KHP6HXRRJPe5bDUSuklcnKePFT+zeyARSice6LAUEMyTYf7Lv4miEC0H8w2BaMm1NTDuryU8OzkUGcbL4Wp47voR7j7zzSO2ldbCqYkhDVqVJKXrCQHttbIABG3be8xLg8OzU56ZEBWPyzLLsy2jSkbK6KygqW90d5mpVFPzm1LtvvzhYDLeDjk8B79d6u/HeYy0/zniORbjFBFR63mIZYEy5HBn6ChPkRGags8IQFVmthMtLdH+ik8LbtactGzonkDnXsLYUkhupZJ885EaWTbaGGOapamo9MRP5I1ryDhV+gX3wr2D5I6oHpFUlP9B/Wkn2vSaZPylcS+IjremzuSGIKOMTpZwk66ohIlZFhyELnEWJS6Ohw4fX7VrmVE/JtMiDsOYHmtQuDFOhkEzI/nrnrQBLKA8NnyP6HZjw1d4EDlgFF6pd7qw6yBIf0VwIN1NmS4v56FpFVt3/P0ys1RXwknmJcCss7DVpXg3qaTQbYb8vmNm/Ei4Pnl3YM4sfGI2vbdlX1o3kle8nV5Z1JGl/YehdU1yTM5ck3vlj5U4b3+/KHgl0iwHF9yJuACYYjnFma022JKEPd2+CXnUanR0qJ+ay9MF0E5JRD/+4norW/+glwhHE7LMoLdxc4Tk2vsXesEB4gFJk0jP1MxZR8RQmYGUGt8HTQUQeCQAg0nb+1GySdtq1oZBZJIfF85L2DgK+E1fFMvVdGbvYWO/KgQR19sw1QM27vwdovWbX/+sMKp7a8ivkv8fW+qwm438jIC/MQzRgYDGjFwZckvQxdvikfEiB16tLBEmTpgGted+5cJzodNyuyvvg+Qi7LwrHOPtd0uFYNWUAmy0t1atkHQTrQpaa0m8hJxZ2PeMFYKRt9lRheUcCPc5C3a5PWEGTg0swzqVHRSRz2+Tm1nPAJm4pEqIracDcpHS/Xds2gFMAJV5Tsw==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+The+Last+Revenge+of+Exclamations
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:08:44 UTC"
+record: -1

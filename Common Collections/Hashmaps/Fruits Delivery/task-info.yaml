@@ -1,0 +1,43 @@
+type: edu
+custom_name: "Task: Fruits Delivery"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 101
+    length: 29
+    placeholder_text: // Declare your hash map here
+    initial_state:
+      length: 29
+      offset: 101
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DSd5Y+Jz/Qr8fw/mfaiGpA==
+  - offset: 229
+    length: 39
+    placeholder_text: // Put more fruits in your basket here!
+    initial_state:
+      length: 39
+      offset: 229
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: MYy/3Tuw15jZoILD2yqWEH12p+Mz6P3se1gVlzRgbmHHY14bGQzaV4GrR09vXLpP5Tcz6gW9cWUV8YR0WC/duCFhI6ZkEg+GxskAA9NVPC83NJFWvFP7aoyu2/EaSyuA
+  encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63lseTgcxEakKsoDOUUwrlhPoURmbje8qOikNSzOKRi2GyIGVG1Jp1+vTKC0l9Ry6EIGas44U2XERIZFIrfw1FZe2YoJU1mdZSHfBSA0wRbKwXh1xSKBJ48+wFY9CoCTMS4EqqUFFrSeyYK/kF6jyoZXHuC08FwSfx8RyKxXbdAzpfIMl7v/7RZ84j2bzM7+F2JJSBop2nofgmVbWQm60EqLZbxj2WWCNK75dmNvDVGjbgMPUxdNaKKVjW9S3Vrv+shwQmMmKQcb/iu8v/XOsg0rFTxNSpUAT5txjo/3yEgvDFQL0xviZz8u2Qsa3BOVeudHkIUimsHmUTpoOYD/nYzlC
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGim191tJhiQWdzoQbkXvPZKtr8w0l2jU3OzondoXWZb1SOyH69d3D4Ekpkl4P57G5f4CZvCXVMHZTAw93sRDYvgDHjB2qg9ZZ+fwwTAgS0ohlmJ5mgBwUzqtgBFVGp7i/bX2wxqfrM5FKiUfThJH/LVw=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCy5AE8I1SUaBdmKJxjvtlAMVJUF1UU/1oGFpG4vWNrziaL2C3NvbePv0vo2161qWikwOEo9aUu6xztWVGPH98o=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 9/mDzLEpoyv8aZEzHMzGim191tJhiQWdzoQbkXvPZKtmtk7po3Ck79J/mQJfmAJpTIgtGDdyHRdY7Hb9HVzpocY/OgWrnUqRx7XemlefS5G3liWUzvPu1fqELA47oOnJxJbdS870dxLY76simSM1KaJTl+B7UzIdpdxVFWTBUL7WeX3i+VH4iI01H8rQqyBeWZzUHRGP3zzu7ABBreu/dROxoCO/F2ojyTMqSO5EnqeqCC8xijxbvsZdE1mL59CzJRq3Cvz+FpdrT0rK0KXXbOr4Pzn5dApfh+fNlkG4kWcUCDO6QUTMVEFp7pHMjxRilbpVK4rMzv8R5G1N633Yqj0lQafgRWAZm+ugkqX6aiPZblpSxL8v+/mgGJDluKmSGER9d7N4c4fXCfAXN6Bqwg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Hashmaps+/+Fruits+Delivery
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DKrk0OKU7JWGlvtQmSKPSCfOkiZX6Diti/Cy7/Effn5G8pKZrKFCJomO/H7SSCpovbZ24jcjjdSYB7eWJ7/PuvUPin0hwwf3jwflYtIXvMw77jodH5Kd2d4Kdre1mQjXgPsbtNJg4J1AAPoLva0mY7mH00a03orcASSHkl9S01Durlsv5HdPWun4BHoVW9bqeldXIZG9jncT6LEUWuviQmgrv8YaVTGUpMURlJtx/MN38jMVrR188P6Jv/MEdlSYRYLrZjtQVaCXtqh+0P0d0KkCbMHb4NaBhAW4TWO0WPy7Ofv15sMUBKZJZ1c7l/2/NYT+k5jwOWsgc/63E3kd4KY=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIgiMRwbPnqa1VypRjAOeMr4Vcj3IPe1C0kM/u1wM5k/USyQDseH1gPW/e3ObS1gVMG+URIiDV3T9VCTxxVPM4IzBX+77aAP++KdazQvC2oe
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Intro+/+Computing+the+Largest+Number
+status: Unchecked
+record: -1
+post_submission_on_open: true

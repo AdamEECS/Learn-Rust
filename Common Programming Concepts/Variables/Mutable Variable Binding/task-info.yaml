@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: Mutable Variable Binding"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfK+OYIrqteEe2gpDZ38sIH2udi+Q6uWZkwZnOdAGWuv7ztsPE1bdRqh48VwXygy198ogTysKV7iZU3FufHMFKUs=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 20
+    length: 3
+    placeholder_text: TODO
+    initial_state:
+      length: 4
+      offset: 20
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DKMcxM3wmN76FMytn+aJ+SIlMRxdxmqb/d1URlRcMNWcXSZGcRlAs4WEn3Ej8/NCeb2sv7VV5LYLF3zUiqqiZdHFiUOAs1oORlNQtKqSfIE8zLq8pp9QZ/2rjQHiL2zSpsEcaj/ZjoZLUMQvy4bd+vW9RBbwkaMvZtcJQmS3jU2v
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Mutable+Variable+Binding
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 02:38:44 UTC"
+record: -1

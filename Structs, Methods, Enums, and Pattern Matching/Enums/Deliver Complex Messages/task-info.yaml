@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Deliver Complex Messages"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 43
+    placeholder_text: // Define the different variants used below
+    initial_state:
+      length: 43
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: zbTynzjw1TbUDdnWfTMie+1CcWUpKAr5RBqqHvkqcHWHG6O72jC1AoBQSuwgC/2mGLSaGNVzjQ9gjs6tGjQX+ppdfCo9AHvIybGLUPXxaPBe2H+43/U2s/JQupOVsGy+
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xE8EnCBM98ffIBTDQQlWNfIurJ2OEAGlrbfN/QQDBDFvJ6ARUbfNjSf9emANKL4pqR/wQtkx/X1oRGnQwH6E2ioqFNwZgxsaplIGxnMMcLJG4Xw7XfRLKe7K3Y1TfnRU6lnW8gtaNmFpdlQ6Ex6+WxwkKWvvnFFVqGJuOc1lnF1Ei3TjqdnF9Sfp2qn6actfxyyygDNBQq5O0iHBYGQTCJClYcVb0GUDDwMm0oSv4OigNHHcVBFcW+VoHVho+savPnIgG0BUk1dzfjCGjPLycKXfHxmJtDSUWbKvPbiKWEk4LsWTU5Gaa0JJhYFq/gCJYnymMfa5x01KsJUZv/RhFVclfAqyjB+Ru3m0xxUoyGWL78MvJVOPahKNEb+gaozMMrclYMHl7n4v5VeXSREsRv85YtRuuAkcG6sJ/PkePYxKWGAWrmXBUig1AX/xgHmbd9nzSv8Yrwc6jvzgsl/bm32EY1yV5TpHzv8jq9hUkw/T7p55INrDifNMkwq8MHEqTcyF1GPmG6YJR4i7Q/B5Cxmow85G0FtoanwfMlfIQbvx
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKGriDfR8BDVSKn39+yeZXXAFFYi+ALs9vpG1Y1Ca/lCB2l3ld2a8D7D3qDWtz2fh9b+3t1b4uBTBKReiEsD0WA=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8VvN4YSEHl8l7W11FY26lfxg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Deliver+Complex+Messages
+status: Unchecked
+record: -1

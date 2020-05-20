@@ -1,0 +1,62 @@
+type: edu
+custom_name: "Task: Move, Borrow, Mutate, or What"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 89
+    length: 8
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: E0dke4ZnqfcQekd2Lh291w==
+  - offset: 163
+    length: 7
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 163
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: M1k6QLajE5dBwz9fgFmmtg==
+  - offset: 193
+    length: 12
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 194
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: dsqgndfAJPQS0hUl1AKyUA==
+  - offset: 275
+    length: 16
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 272
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: AVSVBEJR4RQt8C/yRTJbDA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DPxpLOXJuG3TL6ZB08HoHn15D24M6FeK25w0+FbyJZhX8gDJU3wHWUL/5Y5CmCh3hQbJ9y+fDc5Od6jBXcKKikzomWMoNRdYM7k8ToKtZvbnlpR5ePl+Gn3a6tjUSEWGv4vkov9Jv6nUmkBq/9Oa7UaXtddD3SYqHmV7bbkDUBl6pt5H5cLA3Y7L8BBvc2M2xKLlo0h9ROU34DVEagocQV0dQStVxCGr/s7lYEQDlcwmB5nsUQrLGCnb3ZsmKWY7uENg2BMHcysICYsF/XFJ3l739moDCkSwsRfjdq9fZSgglSyElSToewLOnFt8uIFebQvpx3FPUtVTCBOSE4IUnrwiMZRTlM6kMPeuDbZ0TkNsw3giIs4gznxzLq5RAdfxf/XWkvKlS9qSAnD6kDmLy4paXBDsWG2qBHWT4FpesPeJE7r1NOttw9EExsTSbBpHsTSjY0Lyf8Ish8c6GeRh++M=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFvN8U+lvVVb4dj89qBqYEmjdUrAY8dWKpyVVUu48wbVKfW0K1UC32aikS4qo1ulyXE1dBUGQWSZj2Yy3QETuqNaIP3Y3jZqCBrIniiTuxaA5Glz+21omo+tvWWGFlQ0Xg==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswokSTIxEtgg3UzU09hr0HplWIuxmDGG5ThhPhmwedhkEH0vaoBigIfzknTGDSFazNA7zEdepIGdjF0+KHP6HXRRJPe5bDUSuklcnKePFT+zeyARSice6LAUEMyTYf7Lv4miEC0H8w2BaMm1NTDuryU8OzkUGcbL4Wp47voR7j7zzSO2ldbCqYkhDVqVJKXrCQI2Eok3QnpToM6n85Lz5D+ZHj0JKV7VTCz+Ekah27FmpODmUDKX4RfzKuplv1zXQZRFRtkn8y094zlaKUgOWlnBkmqHJqNHKfjd5L54hxSw6FIKxrF7/QsJZjv6UW7l+UNjDmSeb0Qz88CoGX8C9H9+kyDft2X/1xP3ZjpUoZQwX02WawvkN0FoEgroi03epkGaeMsTLuO+KfoLvdxI8EMquTv9Cf7bg8Y/PU0Bi5blwmMCz02ryBLZJHaHH2CyqwZxAviD89BrHV+N4WbTgYOEIGUymcFMNDr7iNXc+c7v1XpYLZpHm57GHH2ioVR0qbZ/6Rgp+5R5bk/4RO1IIdv1Z1ZVILAaX1qxcL5jfnqaGNdJACJ4CFkXcH+eu3t8fG6YFALaiuqZPxT7Ia8uegbEqwKUaiPYhbRd8iGvXHBpELc5puQ7YLAVm+qgWAeU5RfODek21Zs4N3B2Ot23VU/ZVv5+eD9puy9v0/pgNLaae5hP2RLjCEyMsQAvIIjB9kmEcywKFm7d93C71kNPj28fWXz42biZ7QtSNNWp3ldV9VZhqENzfwYbnqGrvHGgwAuqV5NvEBM3xbuo4Qr1fU1QwlT1h0KSgOzE9zJEifDDSwaoGRLwDAVf1IWbxwrpffwc273zITjQDBYZnkiSRi0Zb5mQSd4WQazHWARMdk14K5BsPOqwogcNN4+Ix60KJYiim4YEJL5xukWPwfhGnhVUFdleyOSD0EJhI7hEUeycfGyPo/pEpewmv2lVYQ9fwYSzqeiEsI5j35plBFCtmm9Y=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Move+Borrow+Mutate+or+What
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:16:00 UTC"
+record: -1

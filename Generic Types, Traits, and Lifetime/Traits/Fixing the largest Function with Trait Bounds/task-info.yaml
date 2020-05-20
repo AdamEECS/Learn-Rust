@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 8omzxqfcTQ3kvfgT4KJNoxsHKGVNMuD/gNs9GOQHazZ3wuUP2KDNcxYc3okmefd8FZnQNsAs5lFmrM2P5kN+67eyBaN/8aQTo+0zmYxZDB7PFMaTeMq1OsVZZqtdOhkdYA0TQpNJ38T1VCIpE+K3le+Wqe34yhbpfr+6kLmS3Xm9rB6FVN5OkFv917Vttfx4c6oZzWEoAdJjNh0kMCO2pFcm9aUMDG9Oi62M/AgZQTAx5nAaveyvdaVGb6FeuiWSdCRlaT1VcoLqE7AcjkPrKEPdeob4ltqz8uebmhclXFZviNVh8mGjR1v+OXhEt9T03+smF28oQGCv9ZbVc5vqZQNfVhI4/ySC0taIUqIY/jVv6TUw9aJjG6WAPfnJh6/Oqd5eOmxUjBHi14kcThLjC1wcJ723VHk6zCYsJkaw/rYgm9waDmDOoMFEGrCOUGINkcmJPRjCs95+q1x+EEWY7TsnJAkcC0TT56RSucW6RRSvKhJHXhc1ehqcm6c9Y1uNtcojmk0bCwQVLM4v6mufms1cH+A5x+RJeR5ZDycLGUmcZBjZ3xxMbgZoBaz4o33DtHVQ1aSCrBDHSGyBY8r6kZuzcsCiJwogfiTaYSh7V3QHCeGbflqUusKAmxT+P7o9o1kbUH0VdLO4alnLYlhPKQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGwy1G0ToQQVomemQc9CD+GL3QUIvwCy967oCovMmQGjPKzNHjAmBaIQGiHwBFHpqiuotwlZzFgrJHmvHfil5cMtS6eB7lWYdJHT6DYdsUpGNcT5O+lgVT5pkZe/hFOqsA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Traits+/+Fixing+the+largest+Function+with+Trait+Bounds
+status: Unchecked
+record: -1
+post_submission_on_open: true

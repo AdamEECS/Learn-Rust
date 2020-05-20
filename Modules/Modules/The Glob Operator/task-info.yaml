@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ZrXfX0hq3grwbdLxz14AtaIaIPa6mVVtdVxHMkTw/VFfnwFZxeorN+Xd/Eb/SWW7i9pq2nbTO29rDZ/51/GWFbDspeJsph1I3RmvU46nuno=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGttan8XHcwplNJd4pnLe4MUtKXkftqaDcLo+js/OvDygJdMrVZstcT/xoRPvDysMZ4jgsRkEf3ieoLTJ8LTtqY=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+The+Glob+Operator
+status: Unchecked
+record: -1
+post_submission_on_open: true

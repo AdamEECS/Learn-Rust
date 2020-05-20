@@ -1,0 +1,47 @@
+type: ide
+custom_name: "Task: Introduce Variable Refactoring"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 57
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 36
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  - offset: 93
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 72
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  - offset: 126
+    length: 4
+    placeholder_text: 1993
+    initial_state:
+      length: 4
+      offset: 105
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: CGqIo8/awqfbGFrsN/HfJw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAlQqNVidYMOx+OJ1J7iJPCaDG2jc0jaZNTluesQdCX4CdhZ8DNJy259uZ0WUyg45a7KSZjSkFEfrFTCU73vgAybDwdM9vVE8JbLvxiEE8a2BHUDiAsfHeaNGmUba777Iem0Tb9L5Jflz4nIQ7xnrniBR/UVKUUUiUdUvy5iSUL+dL5hx7cCOJeOXPPwA6IhvZKntaSNIJ6FpN07r3x8KnaxRSU90m4unxjWlVzptL147FM82qc1R1RAGEYpslz3uoK7Cc8UcqqTD83qAkvhN0erlRwRvwzdqDcCziBHgd9zLZEQxAWlfKhbFsveV1jcJ25cpTJcQhy91cfj2HVQXaU=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCguyvFQBYm8prefsYRVFh6/cTEV96TRkkWo1C4zqj5NtItyC9mLP1C1eMuZg9plNnIUoMnAp3yOwfYCykpG3nk=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Introduce+Variable+Refactoring
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:37:42 UTC"
+record: -1

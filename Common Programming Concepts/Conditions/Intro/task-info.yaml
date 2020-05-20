@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJpTVIKv9R0sRJc6gA7vSJwUo9fsclUtAGd3087wMBI82AlwINlOVIJ2Rd31zpA85Q==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLisEB4qno8h76XGF4Npjkz/SiL9Vpko8MSH8S3UXkX3DsbIyXDRtGK6kvU8wDZytStW/x+LRDtKg2F1EYNBh211BK1RXa0QcBh8o2/PTnQFTHOJba4XMTNEKae/IAu/ZKJbSmyH2zIDvxxcvu2GzGI/8YGbg+Yy1SwPiZXzmaSogrBf8HYiFSLAF8tvdztQNg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Intro
+status: Solved
+record: -1
+post_submission_on_open: true

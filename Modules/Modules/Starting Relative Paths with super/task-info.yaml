@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJcKJHJIcpBS1QFXY26j5Mc2PRkDemnjHqUrH7hLvEMduDQuFuUU5wOYLLBPYLjinA==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: PdKUu6rtTsGeJ38RBT4GHMH5HEHePHXcRQIpybc/dFbbwSN+Hcr0TLrCf+xZy1mSkyBiGaFaDJ5b2QA5G367LtFOEf+kI93EBTEjLoT83TYT5zwf3wO/ZJi8qTL1faYM8RHjv5JwNcr/FVP+yL3KJcAculY0O/sAWbdmjIoHLxyNiqgyUjWlpQqX1LcpMNQ3hpK36qPfTuEaK8/WvqOJ3w==
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Starting+Relative+Paths+with+super
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

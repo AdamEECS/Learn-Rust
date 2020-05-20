@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: gXMUu+UDPh/QwnaLe0lu86bqV/Tf4qnpef2E1KqkoTqskICDQjhAXdDdOXKZ7kQVq4BkU7zpAXiQsr9jXlyJ+Q3lCb8J0p9mBefdQVL7SgBZaLtdVWaBq6Jg8bnhMPPTgvV40RlPtCUaV7iG4srTZ5e2rV5odK1zq8rZ6lA4o2psXlPLyisfJkYhC+5rYuamJpRAu7yAlEEbsd4C31VB4fCi07bJX0AFSO0dfpMPNr0NWqz4KM10Y5U+r3p7OnzwWJURJCG5c8QmI/gXeh5a2o5JixJPH1xnPaY/nOiIpek=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLNriU2cH3K9HRVXNJnQmw9tSLxNO2Xes+Mf2phPyNb7dvCJAzAhWIf5TFwRZYKUjeAdrGwA5qRnP9AO4SyywPqAZ49sPPPDMKBb4iYcGG/s
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Functions+with+Return+Values
+status: Solved
+record: -1
+post_submission_on_open: true

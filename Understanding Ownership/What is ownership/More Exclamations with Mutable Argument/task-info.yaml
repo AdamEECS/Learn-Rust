@@ -1,0 +1,32 @@
+type: edu
+custom_name: "Task: More Exclamations with Mutable Argument"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 240
+    length: 4
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 240
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJpXru2uM7P7cW6qzOEkb5rgHK4zd2bAc5qSkCFQSkHXrXowYhSbzLXSGSN3Czwe88H8yFKoTkVvwwOj+o8+5aXqoQS3T6+sG2I8fsyVjMHtE5zQuCiKXHOlefA3/20nRtjBVCnmuSc+Dfj9MLqu4ljNdmH8EcDxxR47vKGBp1mollFqlqFQ6tQ+HgaubLgPV1Pzro502l1w2VlJ6RJsjqMZmAHhfESpdSS+fmVWsAViexTql4CfQOnB6sveJh5d/DriIiGzVORwvPkP61CnMx7WpyDraUKxR5Hfydy6uXmAgqfFdzALz04a1ZdM8YMadnltrpOK6rpefULgSTijNW1A==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH5c3iJFBtuMTMJDrfgCr/JrbiVrW+qGoMF8dymOOY74gXC5IMTPfwDhSBQk/ZXeIax+J+dziSibYMqx+q8o/RLLeQWVCGrFtYiRLWnrkwVROnA55nFseMCtLSQMYprujQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswnauQa1MZxJjYtZP0CxStdcV0nDJP7W2YFcrO+Y+qRLvK2UA3XGWKb2rM78ewdh86O9rmv9StaGBKOD7It0ZHDceoMpbBL3wTVaVNYzPU+Pz+TQVPNl9LEZieJ5htdaO82aYeGtYvf90lvCCAm6CM8PX+NUyJ8d9YVIrMVy8LeUp8UfsEBzQGs13HS9OmaTWnZs0npYytkwhrX59zFhexZGPWG4XCmvUxz9FSO/N2eB0n1/rQ4ZcbO1x2AUJlmwCt07xdBM+Q2A9kVDS5Vs/ajh7EW+TlQUmzFgEClRBM36vjHcCPiaSrPd9jicVkqTtJEpi1sWIzuQIebhKF69WpG1SRQmx83yiQZu6Mq4tbDt35PE/2WHgK2A8L0OFu8Res3qnUTy5fTscxotpKrtFLe0vJMk+05BXpG5hrdL433JbVdgqf6EFcoR587UCJNiE0QpJ6ytcYzxcWW1haxQ4ti9BZJUAhUYDNDBulO5wo03rvmiM/rC6ARlcBk/mrdoCEwbYSUDzQah2lqhT4bz+GWxOAI/xdlx3md8kEzdBU7F5YO0dpPNTE1ldkR6NH7xnJgRYlOWIuFtgdWGbSRLNytj7R8zwdknt4+aunnTAiLpmVPVzn6M8+uFdTrtPq2RGvdSjVOtquEHZS8KkfrTgDrMHmC8saszwhAn834BSEaOQq9Ks1VcGDhWcIX9qSPOghjX1MRpI8MNa7jAWyBD8Rj3ACObESWBQ1VECJIF8SGMbeHdpbh3GvaiG8hM/M6ppU/wE4pT9i34C1eEDPVFZyEWt+oOMyMq8J5dk/A90USQbv9YqYM3SDYlwSz9py8E7T5OikE+l9LzUylkL88FdArl8iEXwnggUh8riMjxMJv59BLm1u2j0D/iW1zZfY859aGAo1kAAk/vk4/2vtPxyV7KXSZOa+HStPPeZJe+hf+JK913StJqAw8IHXBypAy4h1ppWElXN85UVo8r9p1tBzGr/9dAmrxtOipxI/y9S09rCMcDDsU2e91olEdZbsSdu0DkF2Da3R8yqfA6kKMmdl64=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+with+Mutable+Argument
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 08:59:50 UTC"
+record: -1

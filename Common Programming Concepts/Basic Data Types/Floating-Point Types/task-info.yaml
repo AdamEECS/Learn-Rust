@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DEqxfT5plToz2Z5F8ziuMnGp32KNFpxRtioU7S0m9PDwrEeWsvznez7x0ccO1pWsac7SpTKjCcPMBAfvNliol68XwRdOKTAVLZUP+t7NrOhEtRKry1hgF7TsuFfNvo6X9Q==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfByIGZHAkkHqayDejyZjc7w/QetEfxZDF72hYbTOdXLAA0D7tRJXV/cZwojjL0iias3R67cc2Yfjuzzs4Cvr+Wo=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Floating-Point+Types
+status: Solved
+record: -1
+post_submission_on_open: true

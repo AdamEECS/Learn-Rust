@@ -1,0 +1,29 @@
+type: output
+custom_name: "Task: Specify Lifetimes"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 3
+    length: 33
+    placeholder_text: "longest(x: &str, y: &str) -> &str"
+    initial_state:
+      length: 33
+      offset: 3
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: JT89TeHrMObO0XaRJDdSA6axvR7+286+LRVFlM4T8IJ2fUKqO+dUb4zeX6Yk7Amb
+  encrypted_text: j4iuG8gox4b6S28MJzxnI/HdsVdAtGQyzr/Cbch0R065ut2+Zudq++aRhDqTsVvgvVvzXhdmDdv9wRfgThqRK7tQiuaRmkYOHCkUREwXp21YCC0EXM+Zkv5TFby8LjACO3vk94IS8q2FwzVsZrpNmlerslgM6AdstfVxJ3kmZyDVk6SbDlJR166Z1I4xcbE/MlC1HWYcVoZbMq3idbmYWnZqpXbolSj6lhzZbsDWnBbbIH84eTgzKVR6z02yKXVjS71dARWel3mmLD5D2iYjMoa9g9k0krlx+yFQ8cYyeUFj2q6pFxFk2mt8zQT9+BJ80hUDGDHjdFnB9MhpKYt8AF56WZ+BmJwTEeDF6lM+QKcdk0x10ZNXGla4BfFg6ITkkrCuyXRKZ+NuipRGqtDtxg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHQwKccrKtXx1o28cwmiVoba6GviTCE5fv8o9MBncwuQ8JRuJV45yYfUZ+4p3UT84RXDFRqrdIsdbiR8t9j0+PE=
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 9cCk70LY3Wxz/JYu8yCIRVotffJWKiNLCS49jrAKhJg=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Specify+Lifetimes
+status: Unchecked
+record: -1

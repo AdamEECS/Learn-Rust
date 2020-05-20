@@ -1,0 +1,79 @@
+type: output
+custom_name: "Task: Use Rc"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 1240
+    length: 36
+    placeholder_text: "/* TODO: Fix this */ Rc::new(Sun {})"
+    initial_state:
+      length: 36
+      offset: 1240
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1MfOzx4Aj06hZhR9F/rGgg==
+  - offset: 1424
+    length: 36
+    placeholder_text: "/* TODO: Fix this */ Rc::new(Sun {})"
+    initial_state:
+      length: 36
+      offset: 1424
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1MfOzx4Aj06hZhR9F/rGgg==
+  - offset: 1610
+    length: 36
+    placeholder_text: "/* TODO: Fix this */ Rc::new(Sun {})"
+    initial_state:
+      length: 36
+      offset: 1610
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 1MfOzx4Aj06hZhR9F/rGgg==
+  - offset: 2284
+    length: 40
+    placeholder_text: "/* TODO: What else should be dropped? */"
+    initial_state:
+      length: 40
+      offset: 2284
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tzeLXV+CNK3xPBHGN9mRUQ==
+  - offset: 2408
+    length: 40
+    placeholder_text: "/* TODO: What else should be dropped? */"
+    initial_state:
+      length: 40
+      offset: 2408
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 79ICM3vGHUF6roVDkIKDdg==
+  - offset: 2532
+    length: 40
+    placeholder_text: "/* TODO: What else should be dropped? */"
+    initial_state:
+      length: 40
+      offset: 2532
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: L3Z8XQSJqKeJERDxQ8+0HQ==
+  encrypted_text: ZuAiNI7qrJ/GRS2jLNN/fpH0Ix+wy0frA91kc4cdtuRsCEM64aLeNC1A7BTPTd0IUfXbfApO7RshSGRAykRFtIntCmR+6ypn4J1STCBldj8xNmmjQnFNse6pPSAyo1IuRvDdTxln7IzDai4xAoMFbv4KOuYxx9xYf6wmkF8GbQtqfMyXA1NUQwZg3b2hxLRUEbS8fCT+pP5GVQ4mpa18ub6mJvGO0Sye1ntPOE2Y7sRqn7hwrnqywA5LqflITL84tq1fRmfit9lR/oJIXSuqWPrZ5vLUClG+cxs8J8YQpPeQeXrEp98z9zPIur+lEzN24/HKklAzM6m1FO4msV3YHKmmd0UZ/umoOMJWMcLCQM9Y/8eTMQwj4Yqoz3wIfqsFan1k3pc43y2HiwA4MWTK4ubkVP4n8oLcYtWuPGRh1pzoeuYxOJJIrBXhewNpnYGBfDqjtyYPxnPEKmqa/+AIdGWFiKze0bXsmjPoIm/N//PlLdISv0KzXeO7iRwNzO6xsD3dnYsCR12JXDrBBupSh7R8+QDLVF6qKyEd3VhsmTUy9JHbhIrFHF1HuynoXHGW1Pj6e1iCx/JSpSs4Mq5pih0sJI1u1X96K28jSkkTGGZgeAPa0ycgfn9ESjrD+QhtPWI+VqG8TA96g0ZRrHMmNiZr2DZHrto18bGpTEQ5oJe4QVF2G+Evr0j0+Bu8A9M+D6g4xEiq/b66tcDqqn8dG/JoNk+8JrI+pheL6UaSYe5oAu+MeoIV8EW6yuhsZQye6yV3Cr1HWMVOHt+AHBra9/bA5d0G8dgEI3qG6gwxz4P5L5KrWze1iHL2WlIJttzajnQZQjr2Fxg0YyYyc4zKBXpAQpKWGPR092rZNZH5oLou2oNshSkeiaiSG5JcSspmSNo/w9Z3d9rD9/OBIXeZOTZqWkpGMenhxhyi4sXZpFRYy4LbKuWwYz7mh8LqoWXl4KRKKPfKRfJI1VP/q7/GQcI11yY/mEyMRvsAVoeU3+rLeaqFaSdiH1NJpTinpnGYj8AuDuNPLb0/9YCvHhR75qiTYgYgIZp+Ro3YK59/fg6SDQfHAzEL9Hv8W/0Emommy+zv08CxaYYRZXcW2T1VwRFC858PlhIAKLxLvrtM39R/Mb6X8EkH1F4gVYqqKK3TGZ04NAM5NH7XqicokISigSk0NMV4qq/H8QgfWJQbHrqEyOTEbWNu9eFiFZhQXUvM+UGpPdYAOU49cyRg8IKxRf1qKYvHWJ8i9IXwktZ25PR8/Sul/YzMM1zci6jzdRrE0INTVXtMLRfe41LEK395Vr6sSihZGPzb2VT1YWL0iFm9ytvpqCeIW6fxog1IqAhZ6eiCDS8b6465kLVL3RJkZMkwKqnVQGxdHRfpnjwSquXzvDZyxzfsNAM/Z3KeMl/GzGQozvzCy+oEecWMrIq0+rToyMJetzcJxVhgDp+M+wpFPdpapyF327Lm1f+bSy6JVReBSdBiE5hidOSrMl0l/ilILWHXCPPe6mlC6cIyst1YMw2i50I0rhp82GmTaFij25z0evGbHazmRhKX+ra+HhhntIOG6gU39YdgC2pmipyCI5AnGzXL3YtZJRycMA8RRC1GVdGbnV1nEGHtHlZxO/a7LjVRVfC1tk7EpsHxJ5Efx0c9eyp6h0NsihyZC7n8/lE5CgijtVzu1m7O5Myw/B4JPbUOlrz2uNVTtfVjM9ELPsuf/kZvYIzsJGSx5/R6Nfeg1VzmL0EG6eTd1WWIOXK2C/c9jLQZpNF5/tVEhmA0IhEjOV2TERoGfg9UAAoJODQ48tLBmmTiVCRHcRVaLIK3Ja4CaAdsNvuBmEIhTsCwVa3cIVzMUsAhOxt0mztAPrk0ek5bmVxRPAVX/Cr41Dms6p0s8MRduIcgHRh5+frT7N0Ox9K3/34GEJNoOZFRX/J3vHZ/fHnIv/d4ref6RAPg4rVUef/SvxynX/J2tZk1Pp+LJoD1nbm0NfMqFkmvQb6mSYn+0yT3bV9IwEdmfVSf9QkYfNj5w8QCbM+rEP/RYPIB4hFOzMAMmZieUhQ+joafRetWZbaNEXml76lT+Lrq46uyhYOcfYIVkXcLP4NIEzAB7PO8BMT7lgrL+zeGqCOGElOL8F+ZbNCNnkeVKN9Lony1EDPyVpQV7Wrsi+omseiVpDN9fWhi6wrZkZ5rMTX+x4GTw8FVaIhyayOKFwAgBllo9PCLM2V369jkZEYrTD2c2sOPK4Sai1L1zAPpW6kdbfrXrPZjmJjINg9hNmD1ZvlHclSX0uIosazxZxggrxbKAU5uNJQaGRi6g/1rTlYZVXq3E82SPh57vEJGeJKU0eVvZPt2+X4A3F1W8hI+u6qrWQuL69GnvnrIkk+UUz4UTDmAqqnbmPfJWTJ2N0pLLrGs0lv1pLJtr49uLBgpOri8gdWLtUmvP1RUvUOdFdhZmqVRsVWEYWYlMDQKxLU2TQoF2pBTwyZ+hpAsmxwVV8YU0XcHSwl9N06ZsuNfSrmulZFvNtBHNLojNMSJHBEi0gse5boCKWpVzDRbwTwaL8+YSvcgMPiJQN80SLE/JSoadcH4CK8qthQGZoWtkXi1w7xFD5qk1U6yaeeSwSZpSJ7DxH3UucLm2nDJoT30koFWZd2wkAegNe1gVeWIzCbRDS9zJXAbf32cMD59+243kz00heXnGU3b7jwuqmq/5UXXoWZnBz8Lyx4HTB2gMMT40sFo8oyatiBsvllasdPHsedWO075PJkRUqYp9pPhBwN1gnh1WjVJcgTikwlGJjk/mI6TEwb8I2g8Ua3few2x1HTOIWqUyoYUSyHnrM9hiTaVabpFz83vU2g4BkGMNwshZqseliSl9oqB38+jf6ZNqAhdi7X1WN2NRVMsp1nV3MsAe41lnRHDlRLd2muhm2x8FeUYZonnvTUKGA/Xcv0cGA3QkpiKxoim0DaLeVmS+8c6DkKTJ0WGo2a8Kged1ioAyU4PFrNiODre4jHKgLfpXYYPUCmZJARXawDlqTvQcEpToHs0Pfx7gVeFe/PfpzrD1him/GjkG1U8GSbFxgEKIoTcYLoWVaMZ5MkdyHFrdNfZ6lS/Dx+eLlvcb5OIlILrzLyJ04VQmQ5L5QJf/CtTZ/X5dyz/773EcPaaYeExq1QIQQwNIyY6I6HCFKyEWSAGVCSGT4+EEtMQ7tndbJwKgcWTl6ktnCZtUaq0v/FfNPvumBWH/QFPtxE8L3C04qf80iFZpP9G+kQmIy7TbthhgK6jLfeU/QTbccWZpDBnOI5tC957bYsv1HwYD+9H5g0nZNdZYIyG7kpztSEaMNM2cqz8Ta5fOcrdMoEtxbytXbI3YxmkedlXXzY9IQsS9h+Z0dYnppPHBY3gECkXpTckn4ppZGgBi83PWoH6pFxEWWwbGEERIR1HEPqxhJCszujKiYPO9lvobCGAByg30mNFqoyuSKLS2GIUX6Dyu++Rg+0ju9OM5JPe3EABe/UBp1PfknEA3rDMtsLy5CKpvRCk5AvnG/kvfVCT9gKEgFlj0dxE4V+nrXys/2u6yeXPX9vw46oaI+diroOXaP11yddLiHFbYtGXS+7Xxfa1aKSSLN5cNI1lqkLxo5T7cKaq+g==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPtHOjFulSxdER8biWzr91vd9mehrXiVNerH23YJk3T8bQYdVTVhIGgt6nnKwU9k2Q==
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  encrypted_text: KaEVSqOmVPrftgjfj12G6v5DH5vU55vE/AnrL4rZrMMBI5HF1XMHtGNF4F3Xk7gfkSOAb07nJ9kIxXGT7Bbp2v+JfIxjRULM2ld/mB5yGJKureo0FKMtE/xmqRyIs1XWJ2WQqeiDim6aEHiAoHE+ljtl6nIadpEeWBI74ccfOE2q13Fs7wIJWE9cJUP8oKuEV5HGssLqw708XBgjLkMTcNL9GCJViJD+njleTdrv0YCA7A23jXpxFpFZ1ylX2mfM2zQvtsIOgPm7N9MwV5Vsdy+N/evxrnMYJE29vJ2JjTolCo2Gfo72qUhpe0AP6yQyZXwgzBWxmn8m6y9Mqakn8dhQdwGN00UY78SicncI6pB2GV+OImgfQFGNxTU89jZYnuUAyiL/eMf+n8/9ahnsX0qQGmDjLvLjPhRSFHIIHWi1ISsLVQM1OIlwztnX6qUHoL84QJDVvRG4ounIq2COfJ6dLAAR7gVbyBho7h4HUvV0sTPzBR4hbtADZtb13txQYk+dnOTbWOzzPXQRXcIy0cNGjxmep3E1kwX9XKlegqeghrKCJoJdnUR1eHqq6UfsRmx3QJkd5gaygXiylI4iikAlMXOw/vIIFaddh7L5KxpimlS8OOyMKWlwwhHnPKeLX3K+dpdCOCSS/1TrCSRtATv7Z7iGosm7hCW0dzbhRyU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Smart+Pointers+/+Use+Rc
+status: Unchecked
+record: -1

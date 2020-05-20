@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: HbtsAeeNMN3XBZoEP65e6n93/1mQ5L/WVEbhnwzPBR+T/XAcl9N5V24KvLopsYG2TngRWnX1JK3E5ydTj8EinbT4IvB2AfLrsxX2gYaY1Y3oV/1ouiAcREHzegE1TwUbQzM0L/zSp4DqWxxp6/6Ku6urjLTUWgo8G8POMq7Y2hBY6y8u44HsclWGinTfQbk9kDbUEZgxp3hnRe3YyCnpsnDuleKCpRNwbtpqwzikOLZt5HUBQf5O8WpNMxcipmysjemtJVfQVub/MJEbrcVfi1nxf1t116sv2PWgN2vo2LMTG+LwKNX7noBpARnenTMFIleioGPFgCKgjABFDD/P2MzLfKyzuyNAVJchmH2jKhXMx1xLezD1LVs5Gm3WjnPBHO2i+1KwGWuN3DpJ3cjkyhQRrsWCEETd7DaK86TrzLM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEObdWJ9pWO8U9OgSIyp6mDrPBz/hrJIO0rB3vV/eHRiaY4M7dtRNdOSf/RnCHqn4fp0JAXSKU10pv6j75JFoGK/RJs9TvOO4KbhYKNsZmuQ
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Thinking+in+Terms+of+Lifetimes
+status: Unchecked
+record: -1
+post_submission_on_open: true

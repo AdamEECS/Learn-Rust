@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV79Ji2oG1qHyYJ+62WsmVSVlY1W71A/evBS5zzZZeggljYTADVuguYGCxtNPahdj/y7KzhOGyEb0niAukB9cXImfJ8iAcBG+9p14D81LW7tzHkicqSf6MU+2TzGQ6ILuRFGTqKnrgaPJbvMzkVl5yofzhlbevfTDqeTcyEZKDg520vxJCF+Qi52nCVE0h6iyXp++ZXbC1oKnBUqmxIwKrXvGZA6qYedYTaI1a4t/uk5uJeku++Uc13VrLMsl3aUZgDXp13tbFy4iDExRoObqJq17400qS1QJxbBalX/80a43zHU3Lm9TZZ1S1xIvF1WwVly4FlyzmGm9VIGESiyKG0Y88gjw4tAc/thcRbiALhyaAN9KwZJS5kNSgxtSZO+nLbbBmE7WTMBV94qYPM/4ZvpYUNq1DSN9zzsFybRfPZbjv1cwhGqFdo3Ns+7vQOM8/LB30ckpnCVImyXCFRYJRvfM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOJ9P8PH3hR2TdgEbWbWp+gUcepZKnsLpYjn+ZDX9qW8SBZq9MVxK5yv+NbQASUdCZUnRP5WMxn4nlSO4+J68gqQgpDFPUgdB6MYpUv6yEjp
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Message+Passing+to+Transfer+Data+Between+Threads+/+Channels+and+Ownership+Transference
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAmTPEGySrN1e1GnJp9niNXx/VphfJmbOMsYkyOvZY1izSRiEunayzvfEodhhD/ekHtxwMoPkQHJvrgd/UVCmGR9/hfWLGuwGPaSIH949EPB5TYP0/4ySKTlSGHq1xh9E3SAfQUGsSbhlRIhLuSUk30NlXRjGIHkOw+KayzWU7QJVF/clWAPpSfNo25DEdxWE2Q5bPPbM0QF+Jt2cZGhXu+4GjLwKtHhMxvFyd8ov1Wx
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCsxd9WH5Oc2mGOt5yvUpG/vvKPo8VuWudUjyaO1IklQ4abyppCXuWtop6NV+GQ+75kUQcYFxIIlzpEB5iln+Ms=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Dangling+References
+status: Solved
+record: -1
+post_submission_on_open: true

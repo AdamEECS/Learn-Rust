@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYE+PFHIBkHelcXvJkc7q5+sPfO1hjexqbI6G0U+Q1uviD8bWEdd562/Iin84SxurjpTZPr3CPw8JnK2PFKTrA0y7jdtSAgcS2sZbrx2qBTbb5j5Awmzfw+XcHra+GeWpi0RgFhJZxr/qgOJEmAz0ReS6rw6u4Qo20T9PtMkfqXfKkwq3XHr9S7JyL1PQHVz+TMxOzramhySRuokBtIx06lTapt0V+SslSGMPfB0WC4l+rbArlFAZUrJjdGNY5EZGq8Zc05c4DbrwBg7+uCXYJCQ=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF3JP1zUfE3b1VQhxGIGZoEm4mFIncCF4sWwnni+SVKkMT8a8c+NaUc3VOnZuczGDWXKOR5FZQSc9yf37mUlx/A=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Using+Result+in+Tests
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,32 @@
+type: output
+custom_name: "Task: Tuples: Clone or Copy"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: Swe4DvB4Pi4jtRapUSacZh0ipI42adRQoTz4S0FzxhI+urkTkjEwOFzTy660Nf/u2z5RfBJMlaSjwWCPdf+MnQ==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 240
+    length: 8
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 240
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: uoLTe+vSu05RTb/rRTqVyQ==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DOinstgajgNCXq+dgQLyL8Umo65O5erL7pK+vJpcCHTAmxLgUSiCY16M3Ghmoqq3+f6neqD1cpsdHlkvu4B1pqhbIIps/hko5ZqekmgbFOoB+r9dU7o50B4exXTsZL0wRYDudIacMzfU3wuXZaa6u/ZeGq6NG9TlqeDyOhDnkAZ3um6W/oKWUW2Yn2JmMAST1dFI6Bxcpm2h8Xov0IZKIKBELRLyJzz97Wpftt6yV9E5Zcbtr+rJ+8EuNPv6LNuoC3rDo1dFnYnqzotiMk+kvV3BeEe0uSjK2yk598egz7RBIVmtASA+9YwQdGcQwGUA4H/72LPU9VZA+QKAIV3lNDECqwRtrKlaYODPbdfzQzMG1KXV21LsT50BoQDNgqEBYM95y5wkubrfLIDT0jhJTsbA5t7JbkN6f2j+cTAMZ6WL
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOKwS3vhRsG8aVPXzpl2LNTPnRrItmFppLxziA/OCQkC/nJ0Cy3O43oweaYmQjogxRrDrUkOtT7+EttdLrPKlwA=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Tuples+Clone+or+Copy
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 07:47:36 UTC"
+record: -1

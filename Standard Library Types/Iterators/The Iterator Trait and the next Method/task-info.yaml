@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DFieuQBf1bqKk3bBIwuQCoaUkiv7YdCnUqsg5BnkHendan8C5n7937qEG4IUFI2G3pfoGNBdeGyZuDmQS6/uJu9N3epyYvWITN2Ai1FbZiO9QhcS2GjC1ZddVA5455sOd5h4VJSYmmrkl53QPcfjYCiWxhNlrIAr9CPJZrsIaKt5TPUuHIx0Ln66CiM8zHIWUynSLlw8bQUoKiv/M+QyHPRBm6ycV5aNs3QrP6TzYkRWz30eT34wnOEQciTFq9Mp2OTxZNlKXvmCK414ZQHsQ2wHWYLM3exAtwmt7XYieSvcsOhgdA4PJZvDT+ADlBqf7A==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfC46Sy4+swVLYt1t3/momgw/vF5soqDjUquhy1cSsGpaTZoO1nGeAsH/72dzeTfzC1XKqJ46gMUtYMIMO4jD5hf6whqnrDi5aJjVygNzSURk
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+The+Iterator+Trait+and+the+next+Method
+status: Unchecked
+record: -1
+post_submission_on_open: true

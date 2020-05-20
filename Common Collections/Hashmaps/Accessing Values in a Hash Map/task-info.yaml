@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63ltM+bx6pFS9xLr5aL/RRkKfz6LnOe7Lw9o5CvAftc7HwMafaEmF/mYEyr1Rx1bqBn79QLlutCTeF47kWvwQbVkCP1QbSZZHP7Nm/4iLaaB2KQharryJe5JQmJQvi+S38VXq+7UL5Zssm6Ivl3VlvYwoovWSVr1vJ08npuzY25B4caWnBhHxFw9FwL6Y5kWZ06I/96Bl/+30zzvyRb7ZHAccH779uX0J1mvK5ljucu5l4t8PN8ZJ92Nf6I/EWqObmNpYgf/DPw//QXYnJV1Ct/LDc0IurHCkKWEMYEY7bHH2crkGwzsUy/82lcbQUCifcZYYPi0XCcJwM1cPkv6AlGqUNAof9IrZ6VOU19HlxUpHWWbv+3Y4Lts1e5mQ2mjGnnpmPPsXZGD5jCo95XHx51hJCFV1PXW3h8KDfy1hHiZJfZu302Ek0odT3KUJmAgg14PU8r65Q0YFzdKVYdJwCGDAwm1OLI/sbEeHhVh5OwdjcKjkouLSBMIX9S1iy7K34is=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfM4A1oVDiUhKnfaTqLKRBFG8s42qaCRVoPp8pWLD2ZzwXb1ZbXehYT7B1kK0KCz3GSrunbSa09bLtxxM1+c9iVpkD0bJ5OpKkLKCmScLGFq4
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Hashmaps+/+Accessing+Values+in+a+Hash+Map
+status: Unchecked
+record: -1
+post_submission_on_open: true

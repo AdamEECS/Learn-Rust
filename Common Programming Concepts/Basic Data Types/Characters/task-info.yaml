@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJYgYsw6FexefSKbHuVLRBpVj00nI87E4O7IM/vl34ZeJyGRpxi33f4UogRIsePETumbco5LvHndqnoBxC4uPLE=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfI5YF1dkjLXfwuzMcTQqaKGc8j1ECPK7CNue2321cg5ct1AYsjEeYSC8m/Y4oaYu05vC3wiHIKt01I1MrgifOJc=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Characters
+status: Solved
+record: -1
+post_submission_on_open: true

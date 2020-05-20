@@ -1,0 +1,41 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DD+0EgQzJURpAtp3AV+Um89rcWd5gdKO7LlRr24qR/gwiWi9yZxjRxgJiNUw/0J0Mg==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCUUPMPAW3IrROP6gOHqKP98kCa6XPLqi0EpR6cSkXxytit+6Oi8gjSVYLsHBZq8KJSggQwKcHPCp0sq5GEO1ZQ=
+  learner_created: false
+- name: images/back.svg
+  visible: false
+  learner_created: false
+- name: images/commentTask.svg
+  visible: false
+  learner_created: false
+- name: images/edu_next_button.png
+  visible: false
+  learner_created: false
+- name: images/edu_peek_solution.png
+  visible: false
+  learner_created: false
+- name: images/edu_task_description_window_settings.png
+  visible: false
+  learner_created: false
+- name: images/forward.svg
+  visible: false
+  learner_created: false
+- name: images/gear.svg
+  visible: false
+  learner_created: false
+- name: images/hideToolWindow.svg
+  visible: false
+  learner_created: false
+- name: images/reset.svg
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Introduction+/+Getting+started+/+Task+Description
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,35 @@
+type: edu
+custom_name: "Task: Character Kinds"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLiEW3YBERMxwML3Ou1W1vaBykiJBKDNv7JjixeNRewa7F0c/odO2zCsbFwo9ao0SbtxuLtar23c0Mot+DNiLdI=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 280
+    length: 21
+    placeholder_text: |-
+      // Finish this line like the example! What's your favorite character?
+          // Try a letter, try a number, try a special character, try a character
+          // from a different language than your own, try an emoji!
+    initial_state:
+      length: 207
+      offset: 280
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: d67Y/jzSuBQVISRmjxCG63Ot3SPyR6fx4BWaJ8mV4iQ=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DB3rJOaPSCBb5Z9WpX+cbZgpV0/rynkm19+U9jjIXyh+S7rlUi65ZDrGa+hhz7McT6TV2yP3bLuZEElvfcN3ie9vEigbBu8v1HPKW64ldodvvVg6yxDgnj4RrXPpL3Wv6Sx5QD5wUe4LO73vva1TvwGlZWC+sHEzzz4D/Jg62eXi4J1insrcpAtNOvxouwpW9PBEeb6lsBTzYJqbibT+Up5tkBL5IodPAsRyCTa6Ey14x64KjioXXjcJNp0+Nqg0LVnRJRtmbN5+JoVwUGULDJXgVLgOWsXE09KA3wXnBaOajdxyJU4ckdgzMAyQoR0Da4d2em9hV1K4/8j3I5ZjujgWwW/a0WrCdvF5W2CEHMFwVHvWgcz7dEiz6qu7yWsvmmMgo31Txhip26C0Fb4+lKCo4NGlgEfpjbj2E9Na81JvB1oRTfIzQmYMbtB9k0S6JovZi0btw+0ebxWMyZ7EHEOM3GMbFibHUEnDyp4r7MJKuL589YZyWvEtGeAJdL6QAWirGI+B99sHR5VZMA39K0EZcUf5yIrXOrnu7w0E3lNDBcmolgHgXlR8JtZWzjdpGM6M6R0lQ8odZ88xvY2pPnQAXXwHpwStBDSJKmmQO4yprwD7TQ0FuRNFfXn+tjCgbIDL0ZZxP2JQ8CN4rRHV01mVcsJWHxc7Geexf7Bd2+MhEKAhK9FGRupDD0q5x59HMqeeqsDDRYx58wqVKz3xK78W4iafBETCy8V5/kw4wQqdiU4/KnyrG/pkBW6G/EJMt5cPBw+j08ye96QzQWEqRCmCLJK9h/Clk8zYaF31YhE30wSb5CwBadz4nHQve3yUuBrfUTUu4iBlOa+99jwmK8CtiLRfy3BSoO58AivraqFsBPyLD7W6x4KqF0KbSZ719V5oeb71aY8Rvvcuj4TKVT4Havjb4Ly1b+q7AbeBh0Ic
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Characters+Test
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:02:18 UTC"
+record: -1

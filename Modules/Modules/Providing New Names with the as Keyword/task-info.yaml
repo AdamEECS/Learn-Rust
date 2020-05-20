@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: Uh4dbI8bj0rqbM5BhF4R3jkxV1rrpSjZmh7xHg80cGuxsrqjAWPsnT9YGfUUrQCkJql7nvKnTKf7WoVulFyIt32QGN8TJZDKy7SKYd8io79YUe7qnaWWW4xWwaH2G5+ZbKUkW9Nbm1pmLxHV7oMU6t3RRSKA+viYDOKD5inJ0QRka8F1aLCYLgmgH5IuKhNS
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBvdNYXaZ1BRwfXfwbUpJ+iKcdJ92XSXdtZCfq5rnI15n+dF0HHP5+HnAW/3W8/2xIN3MbjrE6uoJLTaYvnbiAfgq2FiGbOcPZaiRzWBE3+I
+  learner_created: false
+- name: runConfigurations/Build.run.xml
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Providing+New+Names+with+the+as+Keyword
+status: Unchecked
+record: -1
+post_submission_on_open: true

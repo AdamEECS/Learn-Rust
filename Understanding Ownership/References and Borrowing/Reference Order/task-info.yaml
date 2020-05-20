@@ -1,0 +1,37 @@
+type: edu
+custom_name: "Task: Reference order"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 87
+    placeholder_text: |-
+      let mut x = 100;
+          let y = &mut x;
+          let z = &mut x;
+          *y += 100;
+          *z += 1000;
+    initial_state:
+      length: 87
+      offset: 16
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 6HB0O8zr92TRrUVbY8nvuz7SamirrNU42OH1zpDIrcfWvBM4tJsS9KM3wG7DXrxn0v8RSyudQ6mx9sC/raYxvPLZ+CQrG8FbZC0gKGIlA8ZtXiBB62yy6b4IKuNYSa1K
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DOKfc0sLSKgP74SFArdera+UHhmqqGBQ2Wz0E1zZZDHzXOAtQgVw1HeurH7bvfp3L0bqhSDR9W+rd+CngT5WX6Y3GSnf8azUUb0XEWUt8rLCEhF71WHyw099dXcUZDUQqZUDdAQqwyFzKhb9ibNI79JAU2OuChyNM4UEefWAmihF
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGWqXTx1YNwjhMGlGW5dkwfdlkhcURmEaglbP9opP0q3osIuKR9/B0EElIc6LFXmqg==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8V0M4U9eryQrQnEclBpfkK+A==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Reference+Order
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:17:18 UTC"
+record: -1

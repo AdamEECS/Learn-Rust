@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Extended Matching Result"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPsqM0GCJJCCtXoo07wBl1AzeUPLfJgdn9RJIZXgjA+tHfkhM6p2p2/6aRO3UUKHQdFvK80pKhPDWuS3PJ2eE7Y=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 154
+    length: 1
+    placeholder_text: '?'
+    initial_state:
+      length: 1
+      offset: 154
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: jyHhCwrm0ZzBuk5+4D/Bykce/z0+QEsNiPH2BwXwU5XlRQ2anHXzSSyelLBc0wjnjSXRqUsYtXns1lcifK5Oddwuzy7Fw1ZNjjRadgpvvLFDYneLJhuic4uE5Ov779g+
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IEUq+5DDUL2p9Cq/sQZTPbLNWxYhhIlF0VZHQKRrd1alZHoUcmIAWVgZS8ibsZsZ8WtAODojW1uwGjmgDUymVGB1VKb6kMA9UqFsOgOvX5FTk9oVwy2+zeRjC7SngFsyKoEczE4Gpeo8bcFQWhFuaSl2TB2tlh5iPjByUTgcc71kvvYT7uRgF2QfPCG+OVkxBfkh52PfrNdy078uhJFK6apqe+UFWFu4nhRMAcNdjOD7T6vajxPYZILr++8V1/sJSw2VoiwnICz73f3o4dA+VQ/zEfxGi6lMYF8jmsxegI7y8hNEIHN7NoNY4pMpyraXHUDXsBCHFBLdMxeJpjHsCYnHMxk44UU0j4nirm0wIRgTf58e/WN4qA66BnWoUmirCSi8K8WAamJAxoyycw+LwpRQp/KLZYVp9u8nCTETzficm+S7j4Tbm2K7a8DvbtoU4tJJrBIyTddtgvGlV8H4tLYJ65d1WNF80thZ0VVpC6aqo+jndow+r8+sy1IoperDrpOdduHSAOoxFFHxbV2GqSKyYUkVEgCEQsHwKKbxeD8YXjnLztplE3Hy7yX0Tu98/n7/X+bXXTeFcQhytiElkwaWPh7s05mGtwGm17hL0fCs+ozr1c7fzuWL+opE+nRoTbKpajvU4bbl5OQoGiSq81+YifhaNazQ6wwo8NnJ+o/14TEQFvoh3R26lM3DKBtjfjgXojDrG+jJtMffSZH5UhI=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Matching+Result+2
+status: Unchecked
+record: -1

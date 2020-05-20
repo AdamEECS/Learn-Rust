@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DI3px6044h+tN6XhI/vCdTAjww23cipohiso4v266rxbNCQgnXOnWd4bjOF/UJWlsDGnYT7w8tnGRHd4/OO4HDbdrp3XwACZk7Tv/lCtIKyW
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLaqDpDRgbHGWWaupURFBFDdLuH7IVaeEpQuBgkzDHrSH7isJo9eMp50orb3GqwsQGAw9HRvtWBDqnpvtZSj+tQ=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Creating+a+New+Vector
+status: Unchecked
+record: -1
+post_submission_on_open: true

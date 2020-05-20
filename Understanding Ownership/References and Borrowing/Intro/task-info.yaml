@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHyzl1+LXBlM+Scm/7bYaVbS/1A0WqxIgAFfcmeqjzDEu2+1sJatjpYmCcTj+3FZx+61YuPHbkjmxROk5Har3oCTHnTMs5GZHZ2GJY/D7YwYgmFCW2BtvqyQciQ7mMyWQOq5mzC6ZMR+QgM0JdbW6VYh5Ve19l/DyDCOJyvWR0ysTAlclsLdl3A5aa30Vyu1UdBM0i3Y5piSvjUtF9TBoX/3jZaXcqbIjbIccLR31hTrVGo2pjEBrygnyfXvUMoqRShCc0YKKKWgVtuPLroPY5kO6JSMqhH7wt1nAximApXS8xuJ+v2adWZ21YsyEqZPcRQMPNd3GjA4Pcdx/dAxpqXPYqu3HaukAsluFprvwkX+
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOPJ76kD/lGBO0NWhbdBNI44C4GLlKI/kv4Yg4bdh/+uaCcJAn5IIXDGjAncgfVu3Bq+tZ8m5INVpcdb1C9BN1PDnOSb9UjIFVLf+QQTnYHJ
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Intro
+status: Solved
+record: -1
+post_submission_on_open: true

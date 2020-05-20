@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ekkwYCSZxni1o9orYFYw2NWABKtE4wVlQbU4qUA7tbXCdsI2tiWsSD97syRz3IyZ47agyXdFkwqt2s02WyhSgNkKJi64A/fmPevEALgkTfcZx4dRQ6/uImrEddw2CWp7MR4nl1+DgLmTmVzfv4Ihub8SB7W3QK8YwfZGIPlY8rDMsyPt2tHogZ7fO8FIIPrHJwie3tKZZ9se7WkhL6vvxGslWGPeVsaU66LvoDzmvX7S242EWb/WhuDmIuC5qlglBBJY3WfpaOcirXx+X898og==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEjx1v+Ju14r0J8wBVHVzfNqEChY7HVanrVkTyQyWZ6z5nWm0o5MQ930n+aor2//SquJ0NeW92XAT9laagH+F74=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Pattern+Matching+/+Matches+Are+Exhaustive
+status: Unchecked
+record: -1
+post_submission_on_open: true

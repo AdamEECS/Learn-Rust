@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 4ZjQdj7AHDtkQjP45W96RJ28ent9EEC10Lv94VSCSetC6BIhXyRARU4ZMMPXqoHnrAa9CCzPliRj7NKoYGFBowwN+t3QcE8nrV3isS0beAvmWjfpdxMNdDDXSBxY1wvPdKCBS5U+8yPoeGTWS4HVVBnz24DYyf/IPDQ8DPeTYQw+JoDfx4WD6eszLx0cdyZL7AqSpROXhl1wuN2XBF2mJzzcpISH563Ojmt+0okwFVM36Mc2IxdSa9Eb1h70Bx3IViUe9w1zgcarblG+/jUcBiTSuJXSW+2yhqM04C+qJEKIAo2MrPs4ndgc8VRVZU1owlxO6GYnyPFfEz/Z0wunbnHaYFLzptElFLeo8MvflCiFDD1U3rA/jt6ETyK1Ngx/
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNWVXJCe2bApVvQT28h21WH/6WVRABY7L1ol3LbL91hFFIMQ5kTB1f2v8wzm95JAe8/vBbCcVgczrhJK27DrRIb7aCyMqBcqX1zBWHBGLQXRAOevfdZ5kPtr92m0fPQJdA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Annotations+in+Struct+Definitions
+status: Unchecked
+record: -1
+post_submission_on_open: true

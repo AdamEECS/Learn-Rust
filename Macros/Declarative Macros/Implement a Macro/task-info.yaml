@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Implement a Macro"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCkxYHnl94Vgxp89ulWUSgmiaOz6qBUvOIPX+aM8Y9+bjQBlGVTE1oVWeObFR4bE5BSKja3Fu0FZE7qLRXB3g5E=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 27
+    placeholder_text: /*declare your macro here*/
+    initial_state:
+      length: 27
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 0macLUKtALcCFDLXukN/SxnTfM9e1ataPzhoL1JCJZoAep8wFyJxHj7VEIVaRBglNe336DlZO3SqTX4HyTW/RmKoPENiZOC9LI5dR/yM4eg=
+  encrypted_text: f8hWMczXMU/5e2CaTa9DHu5VEFarV9x7icJPeKuuHHPbAC3zMFp/mVLTZZSyujPeRFvHzHGmOP2JVghezq07Vus+9Xqmf/pkIVfV0JOukZ0cfLSYfNicKAbsoV3hBHJatEBzSQMGthgp6rr81mb0HVYgdDiHD4CgzSBjX1LaLEMskFYIEPG/kDXQ5Xj/PRIb
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Declarative+Macros+/+Implement+a+Macro
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGfYwLKvxB3v0Ux0LTnEL+quJ+TmbSI8VsHIyJQbaIMR6F7JBwyqPzeEOsXemwMYfuvjbHpzEYs295f/0b8q5+4=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DD+0EgQzJURpAtp3AV+Um89rcWd5gdKO7LlRr24qR/gwRTa5xCU2AMiP7GwFb3UcUw==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+Running+and+Organizing+Tests+/+Test+Organization
+status: Unchecked
+record: -1
+post_submission_on_open: true

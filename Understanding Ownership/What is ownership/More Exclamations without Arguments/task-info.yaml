@@ -1,0 +1,62 @@
+type: edu
+custom_name: "Task: More Exclamations without Arguments"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 13
+    length: 0
+    placeholder_text: let hello = String::from("Hello");
+    initial_state:
+      length: 34
+      offset: 17
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: SQy+vsKOmbkN+CoOBweHBbc3hK2q91dYSSKfiq3ptIQ=
+  - offset: 53
+    length: 0
+    placeholder_text: hello
+    initial_state:
+      length: 5
+      offset: 91
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 200
+    length: 0
+    placeholder_text: "s: String"
+    initial_state:
+      length: 9
+      offset: 243
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 218
+    length: 36
+    placeholder_text: /* Create the "Hello" string here */
+    initial_state:
+      length: 36
+      offset: 270
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 3KlpHielozCzXYz7Mc5Y1XNx0Nl2Um2fwvqgN1Ye19SggiBCdlz3qw+7R4bhvYe6
+  encrypted_text: 3l1qXm1V/JSV39wy1IBXqXGxM2nKj20jTO9B1EUC11ItpnI5ROXiI8wnr+MOCsp+Fcd0W4PoKnHSWtScroyEXvx4jkZBr9tQ0cpregQ++2Pf8dwpO/olCYKfzUEI5tEWr4bh+enFr0pW/DnKibPfONSJAQP8abZxkUuJwS7SvZL9UM4Aa/rGc1CU3m6biG50c7h0h5RQUJ5fMV7vZ/oWr+4Ifil1DmexnVkIMZLlQMvWRUuXSeyRcSDeO2gcn0w0rEZJv4/9gZSnflHMuQKSgCtzfuAu+1qK/z8Br+oYmNMPBr78/CexAIitAL3ovA3VRNakcLRoP/jwscCX4Kja8UzfL5zuJ4Frhfb5+yLxadtBDyxkGiuByz8v1R76qkpxRs3iurbo05TuEyOBkGCfjjUNOtseRelPla2arNE2zO0S8LGZRzYWCp/dNps48k3w78JUMQZFtS6j+V9V0whMrw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH5c3iJFBtuMTMJDrfgCr/LVwtmE27nRAsgkpv+A6doW9NUqYYKqimf4IyY0fjfeEizabyqpp7vOjxsv67JGozFtl67ut9L+3ecnib4w2bu/GJDDhgclgmVMDQPkrR2fVw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswnauQa1MZxJjYtZP0CxStdcV0nDJP7W2YFcrO+Y+qRLvK2UA3XGWKb2rM78ewdh86O9rmv9StaGBKOD7It0ZHDceoMpbBL3wTVaVNYzPU+Pz+TQVPNl9LEZieJ5htdaO82aYeGtYvf90lvCCAm6CM8PX+NUyJ8d9YVIrMVy8LeUp8UfsEBzQGs13HS9OmaTWnZs0npYytkwhrX59zFhexZHucM2Nm2HOcxzJl6RfGETKku8aJI2LclY84wN0j50UHNQlB6lyEwOB4iTgrNeCpmigCbESAgnFpbFAJJZGMz224OmxtISBPvoNDV16WI8EC3/CikJYQ0H4lro+S93gMxLiVn//5QW9dkuGlouUfsMbIHH1bxNobV6eOKF261gsv9y3AlvHTFBqrANJo0wdBwNJtAJzRKp6Op8MtDhDZmYwamAWrbk4B61DS4mEi78E+HvkgfCAAbxKy247ll+oXijn2XAzEfZYew4fDlONQ4XJIpt5K+o8WxW5JmVFcT8eVUj5ZUR3MXU8ZgFXrrCYs2AYCux1g+/BBj2FIzsTX0Y3xlIr8TvMrXq9fjJhTvlqT4Qd1JLl641TWB8w3g05SM1pfAtqGjkBAb0hB4rEiMC1y8FaFYYDd+JfMh0d+Xjh1fNLQC1nKKt8JzgN9VKfNgIJL/xXqyr6GL7FxtLNR+UISH/Ggwqw1/H28DvNPBQjebNEbtgQ9Eb5zipAaz5wVLDsFwMHPyR7+W6gE+xTtVfpRyxO2+83sS6QC55edX0WLkADRC5Cs0pCEsLDhfiPFW+2fF/er3nuYA5JoN9FoerTRzG8d7RXtnT6c7XNoli2R+1za8WUVB1Rt5AKfYFXN1SpS1XucUg8IHDK5pBN7s/mucPScH+7PlubzH5PFmB/Kw/ZLsMpd+jmneEvTCdSDQGiytn/uFiHtFfNoGb2UBV9
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+without+Arguments
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:04:33 UTC"
+record: -1

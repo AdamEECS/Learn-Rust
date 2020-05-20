@@ -1,0 +1,39 @@
+type: edu
+custom_name: "Task: Times Two"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDoK6R6LHzpmdwVoNKF4pu+dylKeluk8bEpqZ/w7e8CLbimYG+h91pSCtIKJsAtbsGfSkBDJ82nr89TNEoyF/1E=
+  learner_created: false
+- name: tests/tests.rs
+  visible: true
+  placeholders:
+  - offset: 151
+    length: 65
+    placeholder_text: /*insert the value we assume to get from the times_two function*/
+    initial_state:
+      length: 65
+      offset: 151
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 5O5Mveu3vza2kqJwIItxvg==
+  - offset: 291
+    length: 39
+    placeholder_text: /*write an assert for `times_two(-2)`*/
+    initial_state:
+      length: 39
+      offset: 291
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: BOYGgEBGGmX4N+9w6B9Fk2lB8nljvDiW2NpCr+F/vFo=
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYF1nbbyC19LtUlVdecGJxl3dbxlrur1LcUJG27pRt6UUDp7esXm5CbCx8lyAmqMtjwOdrLKY/pW2zc6hIcuPwV6qWRIFKVZkn5ov2bGEvZIHORdzpUKy2BwtWYDKS8nRdgUro7kjOm5q9ZfSDdq9lU5ebaXGWV6Qnj+LkKnAKVpzzdyZjU3iQTDaKnNtG7TfzwvoLFRG5K22BAouENocD9WRwybG0pinp8eZrBY94Bok7Ahm9d0c+BpU2ZTLkxnFfklB1b1uezJl4eXii1RNjSZOgGiLpSk7IHjK4sF5zcH2Mxad0AYSKtEk2MbvGCtxGpJNDV7uxeHnRgfwPyjE7y1Btkm6Ce9w0HROXBV0gSlChXuvF2g29UjBoqI0wSZPHZw5TBUlyJIZWpM12LINWGxLrom5wLkOIVE4I+0yo+VBTGvVLyohxc6upwL0Zgd2ZQ==
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: mKzfG8eH4cxCs8Wd/FG+JZQABQe65CYaFKHKf537wWx1mj4oI0Heoeb3M2ATqr5ncGaR9qjHm8a4pUMUROEjdg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+Running+and+Organizing+Tests+/+Times+Two+Tests
+status: Unchecked
+record: -1

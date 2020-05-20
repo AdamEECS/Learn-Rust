@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Play with assert!"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLPtdAXwkWvwJD3F5NoKnz1N7fxev1vL50XcGCUIoMHbr16coyhknPOzfp0UxK6VNgJkpV49Pma20oYCOPB0TpWTdmPCBYB9JdpEfZ4DTzLoA1mqsgGjs+/p3hjjSL1V/5LL1hsbW5qQ7/0j8lBEeALKyn3eoTZEbDFQradCyS+L
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 79
+    length: 4
+    placeholder_text: /**/
+    initial_state:
+      length: 4
+      offset: 79
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+  encrypted_text: ziaKVSCklZFI9A2Vz8XIYE+PFHIBkHelcXvJkc7q5+uPi7b2ZidEXNXKVNNcTCF8HsgjWPKbSEcoLz2YEbIufh0Vj893GUQnTGsBUlIX58CuretMWF4pHurx9m4nP/TV
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 46zQdc7odwehfbcrX7vQ3srYzCNjgknbhUP3l90kAexsJwewoxiB0UH9lDkp0HJXS3BEP0xV2xgHsZwJ6lJTm9dGa8NXfn4t6GByZWtdq/FEpy2ZCjzJtwfSvhOMlfAQvlCC2lSzPnuxgZSiwrNWbgOH73l0i+v9COyLHGQyE13BFN6brvQKR9g3NVzo3zWUEJCFeJu4zZ64MagtjruziBO5Uw2iXOup1oAvjrjy876mmxm9N6bAk5ymuFPkJFbUXOZIu9CXAv0kOcDsrlHUwwHItbe2qJ2n8TW3cIYXXnDzfxgXWYTReq/3mjyFcK0X392rsirPWSezobW3CBT2O4DHTchuScTgNNHmqVM7GvCBbTuuf4o544PSYzxGkhzOpVxRz8mpt+ccwW1uMCpzpGXiKjignhOxQmdei8sl0POtJksxJjDuRf0rc/A8x/72YMABZr4+bPr5EEIozYTYaE3jwMBU/9M3rG+aVsnylNIKGMzVVWJnVgTjEs3wUq+dtYNFUa6v4L6kEV28n1JpVg71wI4Ns95AjVcuu4AuIJ0aVmAr7RKG0QF954yqt99DHeXoMrJuQrOKqyT6O5zdCYC/fNnFypG+qyOSdt5VS4X8tB3sJ+41P8zuUZenhgLB
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Assert
+status: Unchecked
+record: -1

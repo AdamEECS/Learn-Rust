@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 4qDIHWUUrVpzriZ2tj3DvNHp4mcxss0j8CrHN0O3g+iOvIh/yxB+Qh2MvIcno6f7XbpM6g+ohBYLLjoJ68Q8zirX4Mr8TBiu7RvlPtec3cYURUrREQkt4qI9BAudcRkoxmlolLvBszALFIs/a0xR0eUSRWm7CzD1/A2+Q7j6ozv9sg1BaFrjnL1zaWufDxRs3EltKoFCQ511DhD38w0iWVbd6LPm5LbmwW1Oogd0ig/9BqubhJ//J0+M0HSvrBZmVVijleM6Gnrb+ca0wiLxTw3qXu8F3x8s5Im0eSD8VpiPZLZSuTVj34+8wwr0WYvtz3QCqoN/aJCFzwdg9cBL98JN4zYo15SjjC2dHwrPoYQngXcF1SWhs69s+UuCblgEELLGqB5qpXzkGhPMUZQNp2pyu76CAnRMtwqQ/KMRDMm6VCGtW9tbIORoQuZQUhO4vXIm5IrnT2PsCI+Zy90D1/6btZctJalVAoPqbzzXatU=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEj17YiA5r2lkdKzpr7RdabJReYSotNpZkX9Z5nVBT30fUqvILfZK8b6nB2LfohT21tFnWWlTCasqtyNSqZlWq0aSJ9Dd/rgh7/xy6oW2t54
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Writing+Automated+Tests+/+How+to+Write+Tests+/+Adding+Custom+Failure+Messages
+status: Unchecked
+record: -1
+post_submission_on_open: true

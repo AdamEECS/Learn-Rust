@@ -1,0 +1,43 @@
+type: edu
+custom_name: "Task: Count Typed Cells"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 329
+    length: 10
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 329
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Lh6PsScdVvMeSUxghw/ftA==
+  - offset: 372
+    length: 21
+    placeholder_text: /* Add match cases */
+    initial_state:
+      length: 21
+      offset: 372
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 4kd66SVqtS6esdj5aJ1Oo9SEaRKuikmv12Epc4AxfTi48eV0Vx1zN/vnc5iHiGsjbTNlVa5iKkXscAvNaeoG9OmtsTZzWMpkX5b+cerQUYOJxU4c9vSTN8SrwMxrjZ/MJTAefu82qUceRMxa+y3EHBcpVGEd3epDcSVpBiUD2OQL33rGAtVJZnz9psSHXBEefY+u7/rogGog8y8hf9+uHejyh8Q8CSioYrRaPBGMapU=
+  encrypted_text: gR9y6/Cu26IdjPA7GWTGLTAaw6pNm9z/th/5OT9LlxfaWwQI2OYNTDJi9LP6UDt88f2O55pHE2DVbGu0t38XJip/YgzGFQiOSWSuFZwGn3bv/t2BnCjlKz+toq7MazfaqZk/pNAzu9DPmz+6X/xb40mlQ7OuuDYMQ/AETgDqyWJ78FPQ0WFJ4ARETRKcfJYHSzj6YOLvzRBDSaUTu2d3oHV2TL5diJBzvKTU3IjxVuS/LwB7CM7v3E6pKS/PDZjsG2L7HptmHEKNtN4Mb+/WPYYAGzCWT+HBxIpbsoQgSIyUZgi/k5jwlJboMvk6XSCL7K3LKHFSKSRakWLVokatVuYofMjPyhWMPz1oBCltSGwQuvVVpXg9ADjHov2F+UmH64ul/KC4+aYhsojEOh1g8IKu8kdXxmUwDfcmcEd+/sTY5m99QopK0CiOg4tP0sFt2qMBqSzv9SWerN9Ig/fJwU655y/VYeqHZwxrZE18/TIBUZPA18Kp9ozpbbPOXOxVJVvvRDPHsBEfxhinfK3EBN2mx+z8PEBZR1ROwcj+MmiH8AbUA9rIxPKahdjJD74z
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 1LPRT+34HeolxmnWntq2zUqt+lIbsb4ougowM4of+e+DijxHEhxxE+BauxWJ4jax5jgUpFbBDR7i8msmW5gWOpDtS9OIdEeiT8CK54DmYgV4mdaN+gPi9R+y/YSrubVw5OkgyRddMZA7e3saqyDFf5rHG0BXDH+ye+FHR95FvBuUk1X2EnM6yL3wkpE6IhVVN7/jXx06MeCJX5gexyf2GCN8lTWBfMLccZdIYLDbECpUyowuVC3YQvOVsIl/N7J2v5BHgTKlgiECmS/OFAEtKZUXvkPcMmrVIyClW86rLzVkHrml0rAXWL954dOlGpOrS3zuUVxCYh/BZ60k1vIo+woVnROQ5REgJhtp1A0y/iJ/oDS8uB247hb84nnzWKQaJhKOGZW4J/CouYOqjJeadw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJ/TvDvBJqRBFqViJWIL7GyrB/YbzLpdaOv7unh8wBUBB6j7MC2HgNLSqgQsQzZq0JNqJeNAA+Y6YkN0Oh09aZE=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: 1LPRT+34HeolxmnWntq2zWq0PQVdYJPUqpZF0+KI04Msdh6WnOuR2Usjy7ByX5xYntJqHNVR8Lso5anQ02hqtlaxGa91aXqq6uw468dLBzsqfiN/E4D3EgF/pf9FCdDr+GCB+xnjFtovqwoWCbTNE/bOkEO5GGIEWuPeKgGcNaDdkKbHhOlnc4OCBdEgoty3hgBCSZZBzeRShso1EViCnRNXtsQ3p+HJ52zy2xDjP/nanE1lIsNyLfRyw4zHAjYe5e2iFd/pqSg29UcE8+GDsLJ2m1Hvl725xFeTTN+OisirtioDahj5/+EgKnDG+gTbha2GaC4Jyo/P9VEfCqag24F5iPnWC6nRI0VKHLvhaogP7VpP6ixIBhbC/8N9CkknPI+44lMqNhkCqFf4DrsUYTGQ5mVXSiGAo+CnX7G3sbByuG4q1lhcGihNisUj2ktDLt+5ZU79QYClDGyON67MJrPRQqmn1lUDrERpHx4Bgqipmb5maGltnSdB+s4aTO2rMxGivUUTW8ls0nGnbCZ64QBOIQearHCEAExTkSWCRWyoINyJk4ULrAaY6hrM+7ZAcZl4QeY3UM6EoVjWof4GL5B6Wh2/g9u4Tcvaoc4jKb03ykn6h7Xsn8g6OJYQQ+S2BKE9pFB31+b8HoGGjlunOnlji6XgN9JRCtEye4fIJjU8K/d1lgR/Cc+ZB5qjBgYZER/lljmddUDfzyyhpN0gpM7T4aUos5qQULN1Ed5OmY7AFBn7vYSJ/eeT47z99/HCl4ttaDneOWs547Y9wsDSkw8CW8ZpAcU9EMokZF2+S9SZDcB/ePGDuXXvuANLpOLjlcaZgbmU5gk7nGwEDjQPYX9lw+d4ghC9HXx2Gchxwjin5nPqGVH3cJv1oXQVs2R0SS4yK4miBEAeqxTWT5JDgF0mwnywzy025uyfJUiC34OXbCDSCb2cMcwIjhlrT+VpmjU1rK9Fe11sea7f8wBAkSZ+ulKINhDJ/PCb64Ake7KtwF/J/WDjG5Jj3EgSd/BrJGb6SkD6lIicXlOYG8FX35cqXmIE0X1STX7Z1qf9W+NewpnNskn6y11HBEHANxUAsmf60mlZIdheAd2igIkEomtfdugVRi8LbyNuNITMZ3xY0J4EHtzs1dOZ9uk3QbYDm+bN2ZcNTcXfM4iExUvmRQVshdZp6VyyWsudt+z51wfI+R1cpQt2fi99ji6NGSbYRSI9WHFD96AqJWmMoiJhrjUDqMT8QuNQMzXzQVO4jIrQm/eGtjX1F+BLq4MWXHgA6/Vtv95OlRNCj8GBYr3x5Mu2aDIzpXtC9HDjKn5VK9Lw/6ph+HQJtXdEVZ3lapGupIoiQeX24VF/DtTJsDkaNUh8esaHlj8ggRyJvgkKeqZecnLX9QuEA7lKxsfcotLZGlsMV6MyeaztqFixfdhoNIhb+w6sf9PDTnMGOYwSxADBogPXROyaAElr7+Om8czgq/JR7Px5AdZ0ZDrrYBIQLLWjS/yZdg5gKsqbBWaW77zJYHHE/0oXA1I4LUFai280Z+B6EOIkgDf0kdtvAKRi4BHYrLe/AQZKjd5MUSmR57PVCLp7FzL0iNC/ARgUeEaple2aWKmEa3ul/3BYc8vH2AH0PBoHncpXJWSg7KL7AwPkpNk97rvEYJJgP0y0VBk/ALXKG+qyrcoi5YrRVnIwWvMFdBwkWTObr0MRirvxzh+TkGsSyAIALRrd9F9kpW+J9ZNRP4RkfNxvFmPabumIww==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Count+Typed+Cells
+status: Unchecked
+record: -1

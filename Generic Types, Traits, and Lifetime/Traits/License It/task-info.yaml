@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Task: License It"
+files:
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 59
+    length: 1
+    placeholder_text: ;
+    initial_state:
+      length: 1
+      offset: 59
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: FHttxiiKwPF1qpza1e5lwBtYUGDaHp7MTkbShr4LAfIa7xaP4vWv0g5KhTN/1ylU
+  encrypted_text: WoACCO16t8kJzFueEjg72MuS9mcabGD7/4lPOlGpQA02jpOtX6qYZ/YxMjKrsN6P2IY+16mSmrdXQEtalMcwzjRqbNMazOyDvc9AslbBx2U5iCbvEw2QIlYTb8Gh8AnU2HXb8ePNjZXcCPomVMbv1RQjiuIc92cUAwfKsjWLiDpUOUR7bdQPHiZ8N6cXzKzNQx46gRejePJLx6ky9O32LN6e3vuL0rdY3pLSaN0tAv5ypUMeCjLpZ37+1eLtKGWNoNMKWzNToqwOwWCjYPsLSJXN4QcG9dOFk8ahlJMPQUi3OMzxYeQ+opzmZsh9eCYE8Wmh+a13LrABzSqUEplZhFSQ4plTPz262BTV4nCDGAUFecP+7Hh/IoROU6Hyg16vfuP0Qovi83s2Zxaxu6Dc+Q==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: bLpFaCV7pLnwpf4xpb/MDFhGs1fkjgBH/81PtNO+/A7q4TEvuM+JVXkernSKPvC9J5SqHcTHHlIeekYNgXOJfz3LydXQo//2T+AT+ffuzHpQ9PVZCGVOHUHZRir9Ez0bH5RGqr6Ba+pLpWRcdncHcIoRxQTF/2usCFR0pZceHkPnxAdki/mroXb4/PTLYRbYfrnZjaAKBIH2xB18ngDuUZvyyBxJv2N79Bn5Y4/CjxCQUYvnNlGVGD/5D6XuS/ei6E/pOK57c0/CF6ZKLdcaMseb7qXIcbRyYKh21jokNSjUq4QQLUg+tumaZicvtZTYtvjbw4bcWj3PMR/YYsrev7Z8MMZFNYUchRQQL99cjMZpAlLlYZ0WIbNtw5g/cDRScKL22bAC1Hjj+f1HKhApc/oI2HCsJ+Af4j6c++MSh+0hdfDPje3362Bk7J90HlaIH6/sWDk8GtQc5NpJV83GLdjCHPrdiYqsbUpsRkkTTq4=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNvWaSXfakmjkOTBYrE9b/62VCTgIEs3U9GBiHL3QcRQ9ys9ZzcDjn9/uMse3/exqEijApmSJVBvOBMPx8rLOoY=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: bLpFaCV7pLnwpf4xpb/MDACe/9F37oVNoK9vldqh1J2vzLQ0l0AfO2crR9EnxWBLh+mBjxMpWZEkb062ftEQl/ERHbDIw41MI00BYLl+wkJswww36eJMQ9blwF/4QSoDihYiTThyNkDrp9cLrcDPXZFLmiST/JFySL9E+PE5MZRC3noo2gWT4oT1D6SMhS+1uHKiq6xopCq0dMV2s7ZVCF4odMp6tPPb0WbFkzpgpqm2gFPZCc4+0YG2JLNrCvFAe1d3KHU96GSH2Rxs8Acn64dcdIZJ6Bzn/vHK+hHf0WIUKVNvxzy48nZdFW5lqdDJoPZ81FA4LmobwtDMG2SgEAMvaRsSOlsbf/3de/Jq/M9aorR3hjx6h4bz3aA/loOxVmJyFGuqyANWcYaf5kfCRl09+PhseJrsgd5ZFYC8fJyLPYHV3FqtaOnrMZaiJiwwGFnZz+RRcOW78u6KE4NB/4poMgHkbO7S2Q/pkdcgL6Xt2dWoljI72IyvRObPkIbtE5BvsPaxh5srHLgg6VAoJEwnJ9UjDiuGldmf2ztVbVw=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Traits+/+License+It
+status: Unchecked
+record: -1

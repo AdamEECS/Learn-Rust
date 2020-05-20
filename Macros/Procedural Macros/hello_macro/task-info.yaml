@@ -1,0 +1,19 @@
+type: theory
+custom_name: "  Step 1: Creating a Library Crate"
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: Rwq0/ffscTJqlJGs0D8akacdPvqcmxznrnDUgNtAo8k01vSb5QJwg5JgCx5FgvS7
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  encrypted_text: 5vzbQhsVRcZBROYb8Vz5BbReNbMpnYOjkcZ0FeeIkmBfRoTIJBsTwJVMqiXbalBhfnybJZWsEhVO2f6XKATlpbnFMDe+Na0i+nyskmkSf1uk91XfwFDQkGe4Do23IHmyNYv3fy8vMrCveTVUbqdI7ma452a5HsdGRY2IoywRfqQb9OHzqK6q8nhAHq6E/oBO9AxVCKkXPd99amLZSlHiqBN7gcCce+GdQZK4rrIQVf+XxcMacNjk/VuuDFyoDwtX/b3HNhFxomqaiCH2b/n4nhn8SQgNQASchSHzs1vffAA=
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJ0uy0WjGKOxvQArV0o0szebsscQrxEOgY0NuJkKqOs5DmrSgsBWREGrstQ8M+cBKNpntPgPIWfkZVNhzZt+it4=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Procedural+Macros+/+hello_macro
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 6wMqOHH9nbGac/wHgpylbmvxtR/9WQiEm0vOb95MZg+xrVyatf0lRg6l1HQ6jemUtbE4kB4Rs4YqBNGOAwhsVrlFOOhm+G37UW9wQNSivHT5CMAxw2899GSLxVZJhf1eh7gWKGU7we/fEYYAMjgabGbrHp4+5AbNnWk2hWHji9xBT9NeXpzZz1qpbcSyeFSDCLKOUJLMVFgcXMnZDgvpOmb4jfqyYPJqRofEOvH9UBD3N1xIo4wmicUtf0BuTmrjzHE9u+rFguAHaOMJOMoM2w==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCtna/kMtOyQw5VCuIuJfmSut8FSsuoXuHCOoSZ1EsKyJhWfua+Dg7zTRFCYrfkcBPv44/WVvmcKDk22mGOy2y8=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Generic+Data+Types+/+In+Struct+Definitions
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,59 @@
+type: edu
+custom_name: "Task: Iterable Collection"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfONSYxi05c4kUBEuCm2sRc2JEz31HlCWDpYpJgTByA0ieSum4+gTq1UKOkzFCA7v3TYNCnlcT+XG0GvzL+NEc4c=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PxHG41xVTzplY7ZU+VvhXAHuZEXe8TrS9c7yOZOguczqni3NYPVllVPNj3KrngDevZ12h5iaM7Xhaj2rMD1woG5rG8W03WHQYwbndKLHgYYig==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 141
+    length: 9
+    placeholder_text: /* ??? */
+    initial_state:
+      length: 9
+      offset: 141
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Z+ZoZUqsAeXAgYRi8Tbkj+pqXsLhweQF/45KUBWTZc8=
+  - offset: 275
+    length: 9
+    placeholder_text: /* ??? */
+    initial_state:
+      length: 9
+      offset: 275
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: hsXuNWcids0PQJ2JWNKyXB+czDYd7pdAg8dIIHb0PyA=
+  - offset: 412
+    length: 9
+    placeholder_text: /* ??? */
+    initial_state:
+      length: 9
+      offset: 412
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: E10vNH1BXZ1Bz5ldims95A==
+  - offset: 553
+    length: 9
+    placeholder_text: /* ??? */
+    initial_state:
+      length: 9
+      offset: 553
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Irq9rdT6e89f7cEHZZBBTw==
+  encrypted_text: uOQeUGLOyXJDzUJb5Z9XDWwXKu3S9PP7pQh4vOvQ/Ek4bSfxRY6+0/iCdHgsNB/1F7nJQvVxTSaIA/X55lX9Ft1QAZxeGfMazwJ6DoqtWbPZ/3PIqLh8moj9cEAPGtfN7DZpmOveH9NZY6qlIkWsK/4kdseaRmFSOFI/s4jhPZhViKHXBUzxG60QMR8GLJI1mjdVo4BbAxniEwIkh20ReM0mK3LN2oGQb9/lXf5s2/IzfjWESGwL5BjEO1hpxVV/dz5aSiU7+BaLVP/0tQdT4LW3X6Giwb2HHw5V5Ql8KHghZOF8kFL/v9vhE9njGWCC8npz7YnRySjCUYtjHPI4ppfSf4Pou8TWKVFRUf8YrkVl++pEz5BJuOXSM9ewo7IPNKZSdpLQ7p0VUnvstG1Yzm1+VDrYduHRDuKduJq5WaE36dg/ASD0GrlUxBbvhsZK6dB4Bl9DmLfnc9MruY2CO9GTXqiPN7hXkUYj2i3X4JLOvZlenVeZXRAU9Dk30zuSLTVRCk12rhdrJvHhypU0sNBsqxot7dVLQQbmyrMaFf9davva4oIwx1vgCkdBT+4Ntvv2wAI6D93LvuRBf5x+cbq9nw4qXdU4W7KbdejRXL4XHZbSlN6afCLqyPQY/r3Xuclk3WlZ+S84OPbDkFDuficOvziygOFxgytqNC55pcl2ssHkn+ntqxxndYhflDms8PeuPfmXjUa7z1AttcFhtrPe5LG0+neQNP1YdsK65RLsnhKjiyuC2Ni14Xk2xmLu4U5/B9Gaqm8QmERpiwxIKQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Iterable+Collection
+status: Unchecked
+record: -1

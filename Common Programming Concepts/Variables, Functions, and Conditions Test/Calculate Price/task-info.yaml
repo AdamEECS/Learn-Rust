@@ -1,0 +1,52 @@
+type: edu
+custom_name: "Task: Calculate Price"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDXSIJoZMMd6boLEwT8mausclfzeO4Jr5mHQfx6pnyvYMMtE7ua0rzET7jLufbkgJ9rnbVis48tcxJmraplrRAo=
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: Ac2mi0kzI9fTwVTOW/frkyNa4hqiWscc7g8gg6D0J+3/N62hno7jhdkQktb6SfWTED46gOzFpwar6YBIBze0GgX+PSeu6cpj78S4zsIWNAUKVlVZSkolimWER+q2w/HyuY9undIWXpRtDwd+bOLgmNG9MFfnu4zCv+7MhNfllRtThoCJE3au9LxnK02azjqUJ9H3bJSIXHe6EluNrMEiy3chaC3Yn4kv1XfKT973XT5dW6AcZHfH3xgegdmKwch0+uf1nubxaKuMmVY4/bB6llth3pHn0QgkeiGrRu5J85a+BRMvGm2SYnpYBBxelKMZkiK7l4Vx9ZNLz54s7bIHin6LwSaiK+GlPcxoCbfZiQYctoN2tRrbhodhWE4WImVJGsSZryndKAmB1c0GIKLzaI3emhQH/QbEWd3MEbyj4lozq9OxJMkqrHX9oK29X1SynayHzh6uQ1zvUmQ8WHchgI0eg4sfTCe2TAV2WFtXagKL1rSjLTh2X2nZX7z0HA6umQVZs9bZ+UyxZXtOLezsSsU7EKedlZ1TUzQJZC3K9j4fsqoPF1TKOqWc/QU3cdljxNdzn4K+hyJiA4d3r8SorUL3mAaRnekODD0iqxIgTU4Rz0Eb039tJwoc7O7f9mFh1PeCDvR8xTO65J+VZ6iu4ieuN928cFyT2E70X9LCc0BzeMQzSpi45u9MPC52wlIJ
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 23
+    length: 11
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 23
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: cQgiopiCmiERWAPUNkS7ncSNIFZD4lhnJwLBa+Xnals=
+  - offset: 39
+    length: 3
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 35
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 7HeDh3/EQrxj0zw7D/Yppw==
+  - offset: 138
+    length: 0
+    placeholder_text: /*write your solution here*/
+    initial_state:
+      length: 28
+      offset: 50
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: V+f2qgnmxGVBvC8XJA6QSJnTV3gXqRBoXgT6QLgZds055vCB4dkphExsVYCwXWSy0AUkDJ4asPF6aIQvbDM0SLIoUmsD3846Nn3z3Uf7yf58nrRwrcFtmO6RnQJITknM
+  encrypted_text: UUh7tSxGLjX7cue6X6978QwD6epNI4nhO5zV3BL+4+x1qzAPqHMsir8bw3qcfI/HMZC7CGR9VqO0cKiGxdj5UwETwaGjVXIhBt9I3VqTCy+z1ca1aBdEonRRxBA2thIG
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+Functions+and+Conditions+Test+/+Calculate+Price
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 03:54:34 UTC"
+record: -1

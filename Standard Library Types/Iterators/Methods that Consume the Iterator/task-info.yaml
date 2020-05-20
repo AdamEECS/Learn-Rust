@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/lib.rs
+  visible: true
+  encrypted_text: e1HShx97+G6HTaU3kN2W1M2dZ49k1uQSOGDuVXNt64Vl6ndX70LYnwEA8M98HAA198MgeLBXmYna+cTT9KrGeyJTV7ChdjZZt8SbIbOaO3h+ccvYyMs++SDIYz6R38sIIaDGAIRS5vM24pvckZFhP41RgUf1/aN4vIjZUJjmgHYbcU/0N8+IfjE/jSAfRyXOCRgbYGB9fCz1jNtNz4zHvQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNLfq30p1Eytr5Ij00aef/2tm9AJq8r1Phh9aFmJpU5PmasTGMJtAAdWXEzonc34vyayohMEeJgO+OsnUqoQZbSYeKKk81Y7Brqyiuev8ga8
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Methods+that+Consume+the+Iterator
+status: Unchecked
+record: -1
+post_submission_on_open: true

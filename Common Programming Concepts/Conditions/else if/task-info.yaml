@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DP7nkW7ETzyF/C2/flwEJVQeaNcGZBPEt+7dE45Ajz94Zo3xg8qc+sctdERrSYKiP3hh+Qv79NIP3r4NkUHYpeSgrGOuPqCgQ5lN8P1Roy9XTfFtOYeU80pXD4biF2r+c5iA2eMHtVA3Yl63XkZrY1DuCQhOzclDQmE/txiN2uNTlFWs+p4RHc7AJC493QTGfoFzUuoUWcG9NQZxRE2UtT/cB1EcfvMdrDEc/BOgZbBMyl/9SNmZTTYRhQ291l3m37+zSWESfUPVasAGqOgZi2Tu8aFJw6XSWLNG/kvag20olj3fYUoKJjfdIXF+rPW3JrdZniUI3Ws/2RMIES4mJnylB4KUB1iXCQnfKQjdTf25QOPCxJ4g1v78nnkfDYIZP0NWJyB0uQ722FwhTbBI1TmP4m/auuHGl80QV+WhWamQQzO5rpar3wKq42BHQlxTJA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfELPimjq530yFuTF34lnPlrnsmhM6QektjN7YcWaaDueq59BDcEA8enBddFUdrxt1A==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+else+if
+status: Solved
+record: -1
+post_submission_on_open: true

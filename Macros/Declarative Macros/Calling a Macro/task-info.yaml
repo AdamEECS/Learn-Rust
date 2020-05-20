@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Calling a Macro"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJwLl6bY4E0gQzN7eCTq8SW2GR2aHw5V1pkWASUMDecq8XkLf+L/u5507II170xdfYhd91U0XvIqc45fwJfVtjI=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 111
+    length: 23
+    placeholder_text: /*call the macro here*/
+    initial_state:
+      length: 23
+      offset: 111
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: p7ftXJJazjxieWvZ3tE6DA==
+  encrypted_text: 0macLUKtALcCFDLXukN/S+nq7kjpxOeapayjXF22MZG29eEWnaWoZpP9saQqy86PAUbcKXfrVTYr2f4XuVTCrn505uQ8Tzfzu6qEZa8Yd+kd1g2pAWj9ww8MwHHTZ/zeWkyhFYBO02X2/4H1tyInXiD9KwLU5i1jiRPCVkbeLr/640YgtzJ7+aQcLY/QR+yp
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8Vm+/EC1NguOqk3/BjT3jh8g==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Macros+/+Declarative+Macros+/+Calling+a+Macro
+status: Unchecked
+record: -1

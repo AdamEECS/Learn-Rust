@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 1lk2OKlQJEIA3czcTbaRGr9R61Z5mW68NHn8cOMTL282chGzEXrtMZSXbpr3o69SQDy2+fCAWVEx7+hNBewgChel2LjEg+B8Cd/LrYX+DjkDGDkSTAfWwhOX5Gqg5DbxXeMH56a6Jxt6LMPMVJ4PZHPIZRZelt9VDsYrLKoa645TmHcVZ0B3Mdvmw7BPeTNFmV8e2wEpMV/SYOAyLwJyKXCDngxchheSm3CWghzr9LYE7veGvU2N+s09hbaaRZeMSpgDfSRiume6pwMizPBcbdJWF8zdyJhBckApeQxZQuHAjifs7cMa4cwuuhBufr5Voc4XrnGiK66VoNk1F3cq1I7sSRpZxFo7Ps7WkSI2YAYeB8ptiuL0G30GuH35k3KTFHtQJDje9++gLMqO+2Edpw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPqrMJVLISyIBrNxkCdJTOi/svW/oODYpkgbVwzlrk7jAqEquzZlpRYLe6b8zy2+4CgJVQYXnIl9/MwVAAMM9ACSV5RKciVL50SNdEr5YdCK
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Propagating+Errors+Limitations
+status: Unchecked
+record: -1
+post_submission_on_open: true

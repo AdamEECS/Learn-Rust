@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: JXe8KEfnmunFMQL8KxW4J5F6l4DD70XvkjxeFG3/oUEBlK0tK76Q7CLmJZO2OLShCTcE85Om9iYjNXawikLdN3O0cwii5pjd++P4in186Bt1fOJONirC6EMq9uwmhSPlEGEQkA03PeiupimuO9ItvNf8BBKWPwM/Wbj76OrTVTNtfg98tBzcgfMM1eAcRmzWjJs8UN650lZ3w2kJ+xE9zRYPgThrVffJ+57Mc2wZtPaphJy2mwa2GB8gB6TifrxLdB3hS5qaBuNX5NUp2tgEoGloop7mykPrG/Ndkus6YGOc6VJu5oGyxvZi8C3x1/E7nQpdvr5KTAF8vKt5MXiQjgUp4pL7tb8sNp7NlVizI1maYe58KtwJtDkspqudG6myuoV9UD2h06mvD2JPV2r5zZOqoem2gWvep9PUPiZEq6m+9wCesqtT4cYanbsPcRjozajZ4wCT+4+SienuW5ZvJCeWXjsqwAU7hwm0w6IzZwUAIMt/+gjK3CU9F3a8fnKYQeyCZDCRVetrQxR5NGwC4320k5cBPpalf6UZEahem7IdTMrZ47UVLq8eVvjzEdiNfvaBaS45nkrN04BPAti+6A==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKfEymwez6m3jKzpvYgs0HhOhGlW12rvINbQsrqDu/r9fRpw2b3+ha7Y4N6GhltuZf793ke0wbYjjNs12PLNhPo=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Elision
+status: Unchecked
+record: -1
+post_submission_on_open: true

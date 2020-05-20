@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: S6ViHmcQMEq7awBd4IPzzDiQtIQ2MtIDAV1aG7NLzSX8QEqLpGiTi627D/Ui7ekd2RqaIiOBYi8DQ2SFNjgA+Wd3LqY22KDA9Qfyk+ZREjnTeEmBq6zxUrqpumtwhbnC5u+LGYUcmRYVoPM3aWufHzJ2rDho+FZRWrW8XDf7haLpaQFs88iw86F/vAGsAmIAOB0vkxWnJOgVhpJHc9o7xyxGUIsInfHldGz2o6pF9TFfFk4aE4JAeJfz7s6dboY4u0jdwy/gCYIaO88xL3hFiQCGpsL6GGYcnb6qDw5ctf1lwHKPFIXiLYkuQiSSCJ5z77jIF3k6fEQpIpfNiPO+a/liWYcxx3yk0ZSsI+3td46VnW9azbVYnZOAquQtthkICMGgUykul13i0P5q176rCoos/GRl8xYMMLoQsmIN1vEXjsHCaaM/KyYvyWgJPjM7jw3dqbV0JyCgsluvAFx3Ki7XZMgO+sfysaF9RO2cfWc/1jBcWgGtXD84hrwuHLyZnCS84nAqMiTJVKh/3/UXwpdPrkFIxvi3/KXhMkhgJaVUFVCuSuiASyKF0T2XoDvd
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGjlDFM+FPJFAzNNKJoPUWlLkrtRxbdHAYMnOBh01eexQyPkVURi8lwk3hJb87ZoJ4dGsYSVtTmeXr3RtxWwvblU2YDdJW6QCrFB6j6NvsH5
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Using+the+Field+Init+Shorthand
+status: Unchecked
+record: -1
+post_submission_on_open: true

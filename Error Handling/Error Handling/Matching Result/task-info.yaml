@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Matching Result"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPsqM0GCJJCCtXoo07wBl1DravsdVBth8gw4AS/YZf9fUfZ51emY4+iZ+53ncybXWXXCvfJnV8n5C54cEjmrOtw=
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  placeholders:
+  - offset: 198
+    length: 0
+    placeholder_text: ""
+    initial_state:
+      length: 0
+      offset: 198
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: r0fiGc4Ru7P4nrsHLm+xBQ==
+  encrypted_text: 00w6Hq7zUAG50d7VIKl0IOXDFoFGiP3AWpHEWK9QW+bi/QojYk0GKFKmzSkUDASOcbl7ZxVsmLCt0N8ffkuVDsrlPGg7XEbjYqGX3HaqHvtoNbbKNfcGN92nV+PVdqqQtcP7MUHoTQMgcHgNdXqV3eKvWZZX8erZkwrlg5ZET/KzMG0b/b5gGZNPR92i18xwuFHvHOJcIewN8EG1LJFJ6+Naf6g+C9p9OWgdRefZKwXK08gD6GiQPKHMNfRv6C+RMyrRwf2gzxpUV9vM5bHALfZayLeZ1aFD9uFjQK5ipdOz3EWtsj4gTUms6pQMVcJ3k7m76IlSoHiujVyT+BMXUw==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: B/HnQXX+qmltB1Tpg7Px/9yVETmE+kmgh2JYNviWLJEJEFVTBimzT3GnI5HzbDqI9fvX4RCzBWZYQ53Rn6Yc9UIMBm3YGVPLN4Wdms7u57NtLILC52xeWREsxX7y/MvOsBjFWH4Yi8/KdOYtuH955yi7DVXBZhsGffoOeMA+n5FXXNFKFddI8No+bshiA3v4G/yn3l6wCYPiERMfDU2aCIyl+twcCWmjGqLT7lC8JJFczNZYSDi+l7gLdWgt+HIUBXHkWxz1QQ+R4vNLoxANgkE6o5GPY2E+0GXZPGVDUlSfDGnqEP0Fs+3Q/4/u+V9F1FZ2RKrOVoXk5sz+G/M1oCoU2qicbBD9uoBOK5ilZohapaChhz+fVIqGnl/E/vgklXpMATBD7YIPclUf4ouFIQ==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Error+Handling+/+Matching+Result
+status: Unchecked
+record: -1

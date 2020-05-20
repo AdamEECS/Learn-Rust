@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHyzl1+LXBlM+Scm/7bYaVbS/1A0WqxIgAFfcmeqjzDELPQnQLsThX5ub6LNtgI/8Vaocw1aXY2yihNNmwD45Df3Nh+Lt6Fc8q6F6nXMYfg9N5iXsIpUQ12eT/QSB7MicAB5fD4BRvazuxzv85pzevM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF2kVjD7Ijw6jUAY+ydl6j5KnRhqpL/D5ojZT8AP2Pw8T/kSXkoaB6NvbnbUktDK7YyUIIlQK9r7mR84CsUFk3U=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+Indexing+into+Strings
+status: Unchecked
+record: -1
+post_submission_on_open: true

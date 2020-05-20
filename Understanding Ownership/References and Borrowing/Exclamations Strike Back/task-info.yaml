@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Task: Exclamations Strike Back"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 89
+    length: 4
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 1NKotBbBFUIQwKsGIJUG0w==
+  - offset: 242
+    length: 7
+    placeholder_text: /*TODO*/
+    initial_state:
+      length: 8
+      offset: 244
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 6KEjz3s0ArZNAyZ0jsJtWg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DLRFUBxdMwKEmzBIH9VJ4+Tj3e58Fsw+gPpnWLeg9SRJpXru2uM7P7cW6qzOEkb5rgHK4zd2bAc5qSkCFQSkHXoKdgRpwlCbj481dJjO1LjbL9gZVJRrxs+9anexKHZg6rJe+xjvFj1qsQqbG55E8V6ExvFLToVffc/J7xG3KrVwMGkdb6KNQmC10byOE7XBZEartPdmAq3uhmPdTyxgxxQRSZm5I7atwRVLxUbooq3wopcCRWy0tu74hPwgSoNkcv06uMdliPMEs1VMIYdaKZRG+xQbySgPw6ZxlYKFXX0wdBsvWq3jv4SOa9S8NztIwiOl5OXbBKy9H/0cE/wDItpCVtYgdCq1wg2Ff1Mx1Rx68Y0J9ntQOD39+O3G+VwdbHqYNM3Jb2kNEim7i2hGIPy82zbfTnOiGkF6JnJUsVr5
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfH5c3iJFBtuMTMJDrfgCr/I+U5RjUOKZ30pZnbnZHioq5nHjYM72qZJJh6kVXRuJMqy/Ue6z0B51j5OlJWO32pJeI/sCV6TKkxBy4vCDVyeUbyHbcuinIlAKsk/+jdH3ww==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: JBpqDB0y/rOhs2dxJdUswjh5yvnbhsBkQiwpkX4VaTbZJ4wsnUjoMsufBHWATMbfpV+cZqmyoSBOROTSyKGvvTlWptrDbhBBYM9Hm4wyL4fyIprbT36jzrnvfayqU+uG22QJxFxj5h6l/6TZSI4UCrp3gISih0Glau9ULtORDLo8yPPA+BVTG54P6GEV8x69neE2Ez8nym4BTz1NSzVem4trKFu8mlb/bxYiuUBGpKAgIJt1WpwlUwdTGEoDtC+CSwanOoBB0ijlrp3jydHJ44flSRs7DHlaKH5rh4GLZKwv7sA+2qc6/ahDBfmN/jrIOyOhsIoYS7P+kaW9lODVLbFcErh5eJC3XhnrX3dSg5yTVTuBhGibKLqqKEFGlns9JsalGlc4uaqhlrhe/J6E1gUQlqSJEvG+SNxcLac3naFpRAgz8hmxoI3d1+eagcRdV43rd0rtfRzv6XSG47Wx5iWGaT0EmHClstvjIWu8Ila7n/GMq4/hz6dJkiQiUjgZeOUsTGGT6ohIMGfLgwF/hohjioPjjxNRLqQvtj4l7+HI+9Zb7u0TINqD08EsVSGIScGCsGiyZTD6CNAuKSsDQVmF+mdkrt0GUHY95dZmyO08DNLvuc5/CNLpXOZyVcENy9u0bJC8vV+h3NHCFPmzJuoiNJDA4ACrduz8sHdSDhOFEX4LVB9/u0/wo5/VP6JS0ZRYgepaxQHOqUA0yJhUO93DTpqy+mTUiXqb4o6OhUveoPXcAuzHvZZILOlCKRIYwDZOsV3jS1oRLrXRHNq8iGM9H6s424Mxl/xO/8baWjdFH6L1yj3vLa3zcPpIDWAn8uZc5A9yUuO+rPM71Q4kYXu/cLq+p8jUFshQT0bVsHbnuDKZbKhI4q5b/jmupiqlVJ//ofCHFnwWd/C/vJEeL2Vp9Jtr+ixMSlT4f400RDdWxHiPJpBjqjcHOhZwqlTu8SWGp21ItQr7KG7MrxPikPgm5zJW0MTJvqNSpUCwDBeC0uuR8MCPrlqV5Q0m2fMw
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Exclamations+Strike+Back
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:07:37 UTC"
+record: -1

@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xC+5q+IdsSNQCZ3FewJZtJoWVB+jc8f6pSSdX9OyBZ1TduMKxXGlsiX3HP3IHo+Cgqm13JCdPasFwAgtqbB4hldfqIbuJObP9m50qw2KdjGXHiZzZV9IWFfx7AC6Hi9iYc+lg3onJYIcOdoHHtPzh5qoWaFlRKdj3CgcEhuNa887uvfUAYfUmeZFUJlGeG4T2bepMq70jubP5r+NoYQaROFKsoc5FGuIiEHyU4PLVCXeQ6ZBDl086jHpdzKy+3IxPXs4o1OH1vopkn4ogH7s8jY9LgwcN/SFSRZD68IEaACY4OzI6a0hH35wVydIxJG5ZnCwSkdpAoTrOiYj+bxFDeBRZGY1rVr1XpuzcLatbg+KW2EVA5vRucrUur9a4fsC8OW/yHtoWAsJeitoOk5UoCRBiw5uJQaVufKLhwlUdMCSOEQwaHhMso5uzjt3ggpxCQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNlWor1vWkWkVqUZ1NPqIlPBcOwpcOcYei9gnwJI0CSbPR2diPPNjCW+YzrxLl0iY1XIyR1vGbgK8TD/Y/gjpsU=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+with+Methods+/+Defining+Methods
+status: Unchecked
+record: -1
+post_submission_on_open: true

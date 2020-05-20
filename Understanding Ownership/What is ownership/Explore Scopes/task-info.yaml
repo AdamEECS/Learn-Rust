@@ -1,0 +1,52 @@
+type: output
+custom_name: "Task: Explore Scopes"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: s5TEiC3wlm0hRqcIM/KqHw==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 149
+    length: 3
+    placeholder_text: TODO
+    initial_state:
+      length: 4
+      offset: 149
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: n5wLwwE4pqMpD1sapmwZtQ==
+  - offset: 239
+    length: 2
+    placeholder_text: TODO
+    initial_state:
+      length: 4
+      offset: 240
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: F0RVsgbVVr8gmRiE6NkjZA==
+  - offset: 291
+    length: 5
+    placeholder_text: TODO
+    initial_state:
+      length: 4
+      offset: 294
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 2x6UytPusJ7rvdD/9fBekg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DK9xAXoE2I16Z7JFSBTioMUQ40EXbo6ordg04lEK0cEdndUrQjgRvml6vvQlsc884Dyxk4TyCs6w/sXI1ItwsVrd8BK/HT/M8CRsWYwkfSDlBBuOH0MKTG+grvZFvOghUzLgK544wEUWexGymDWi5iB0gl3RSP6kpziaxSmWQtrUei3jcvhFChYsTAEZlciiO3LizV6dKYHlcFUO2buI2PZOxjwpylOEVJJsw1+NVe1rUVM0TMVRYwdTamxxqvogTBzpHaQuT2YWp2lvyc37QGmnomwXs6MrOVNViNA7GVmi0Zi1XY/iQ3pzkgwDBPCc9QWPAkJ9fGnYaY2JBx6Bl66TgeSSQBrCYvnBaV/X/N43OdMm/6lTeCjam8jwhdSIPBYjwyl/Ld4PuMUh6JptARHzbNVBmwxwmztGunLuqs9VqC4FaLVtiAe2MFU64ZEmCw==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFMER3iJ6eMtnd9VD/7NY8QdKyRXM5EL9b63Z3dFahP14tT8iedwT7C3Lx6nffMH0Q4rb5MdqzR5ZWVsoezk5pw=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Explore+Scopes
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 07:37:26 UTC"
+record: -1

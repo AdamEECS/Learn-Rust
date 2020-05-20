@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHyzl1+LXBlM+Scm/7bYaVbS/1A0WqxIgAFfcmeqjzDE7vr0ldSu8gd8qG00D7vD2NM5H0+bDpyqFa15MGx9AXtjIcnV4594x4CO+CxyrkZMBw5waldQL0w8ftZVDj9DoqCEqoV44oeZ8ZrG0uG0edXeTZIiK2it60gNdxnCHN5lX6THZYQig4KesbXIzjnTjx5XVymiheV2L7N7aklQ6sjnYCBA1cAZUTeSS3xOmJxCESWojf+v2uPdOn1RMMcnAyjFrlDXBARU2hI21QRqX/94El044mAdY0HoerzjUo9WqjBdFygIcsBYN2fnshRVG/X1KrN/X7QZcA+6AP23eJExFXPfchjv4ZuT+2I3j8cwh3r4sRMZbjNq/Oc+UVQ5OatnGq3HHjQ1uitz54c1Eg1z8eHvxJHe5fGfcG+dXkm1BArcy1cG9H+HJITlWttrFA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKxq8s2yGbidqWjmAVpqHn2hhdZKAAhL7QPP15tatcXigdOALsf9g3AXWjEBJlbzRHmC/7cwoBrAtKFF+Rmp3Syf8jbRn+dpk/yGK6lElQ8K
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Borrowing+Values+with+References
+status: Solved
+record: -1
+post_submission_on_open: true

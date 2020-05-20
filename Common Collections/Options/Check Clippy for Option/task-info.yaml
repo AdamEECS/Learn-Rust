@@ -1,0 +1,25 @@
+type: ide
+custom_name: "Task: Check Clippy for Option"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 65
+    length: 15
+    placeholder_text: for x in option
+    initial_state:
+      length: 15
+      offset: 65
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: heMmQTw3jqe2wuwplZx+N1t/I23+gRYz6bywLRfoXvo=
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAYicj89mPQFGXtN0+e0NdKfkxiJAyFoGILEMCoPFdAAc4GbXiPOK51CqkibBNTHsjQxr0u97OqbUTboqI7+lfpkrqHksi2buunwUOhnk1gWLsBE2SpjDOdB18EWYTPvZJe2IBCW0otfwVUBNZEYcQftBYTBcanuTRHRDe1iNXph
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLx/gMXKnlrlrCDmEiIYoR6aHZmpvenTDxYhanJ1rqqqUx+2XCT2G0GgZmWqtCjj78byFiCRElMBu0vIDQRrm3Y=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Options+/+Check+Clippy+for+Option
+status: Unchecked
+record: -1

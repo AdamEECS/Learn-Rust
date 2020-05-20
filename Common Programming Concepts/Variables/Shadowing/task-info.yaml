@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DHYHBzR02LPSqsB84cEyS7Ll/3Iio+BnTU8WSzUnRrkvZKxcnh/P7n++ZJWg/s6dm8YgLpcaPteZ68Nch5rhUh0FTPbzgNJExrxbP6fWQ6kRPOSD97kpP5viLQ4pHalD0O0KFVHqkhmI5Ek3LVyFW3M=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEhYhd8l87wnQWfj47L7zSNNny6h5q/GmrMU4jJ9bnQN9dm5PBBVMxjblKdO4Ppy9vAg75Q0chxyx4OD2q5tMAE=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Shadowing
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 02:37:59 UTC"
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,50 @@
+type: edu
+custom_name: "Task: Count Completed Jobs"
+files:
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfN8A8wkpM+HmJW+xOYnSLGU09VybgiAdpYk3dbfEfHgJMvgZPSIyACY61Hq6RIpi6DR5HUgRBAb714Wr8EgII7zs2cpszLsEp0Wuif/Noq6k
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 157
+    length: 50
+    placeholder_text: "JobStatus { jobs_completed: 0 }/*try using Mutex*/"
+    initial_state:
+      length: 50
+      offset: 157
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: YzylwNL2M3N+tppVxEhBK3aXNVqxNNqVpdfaDY+3v2oRbEPB0VveFk3o9CXj4giq
+  - offset: 384
+    length: 72
+    placeholder_text: /*you probably would like to lock the value modified in another
+      thread*/
+    initial_state:
+      length: 72
+      offset: 384
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ecEGb7n/zdvwYP0z0HxBhF9MSue8Q5z9anyoR5waxlA=
+  - offset: 512
+    length: 41
+    placeholder_text: /*you should lock the status value here*/
+    initial_state:
+      length: 41
+      offset: 512
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ecEGb7n/zdvwYP0z0HxBhF9MSue8Q5z9anyoR5waxlA=
+  encrypted_text: AhDqPuF9qOSZxu9Kybuo0//QaYXwHGz5TkVrnSom69bOLW8a3fg/CLl3ykGz4KGBj1S0RgBQGsB/IKor4q+3a9U0OXCbs6TWoAwpHoJvjtzDth6RIjlFyi8gt26FtAV1bhG4wnX2kPRHCrscFbGHBDWVN2weAM/8F590QeSVPtyCNjKC7YvheGQYGCBzFTkKu5O16L+hqd9N7TPAAho3w5PlNWvPTfgtAvaUpRs27r+BOSaatGxf8Omuhz9t/2O8q25gdWUz5RtZVeIC3wxPJzLnwbRDCPqcHPJRZcnvwlk+L7H3KSQab+N0ihYPmUr39CMIcZvPeL7FDYglm/wOfQqLBUokjhBEy6dfWPYT4M/AtjC7UeGInZeElz2N20tkIc0z65ahCKDa9muZ59zITkRl3wg4M88kKMPpXZfP1hPpXKth8dK3ijsFie1ZOGbdP0VKJnaT0Y3zi8vun+tM+x/fZR/tSWjBzYRfJbo1/ZbdUhSdoyuFQSF8OlJDGBfK1e7k9yfs4zv/kyxczDXil+97Uiz+QE7yYq3t2eDetEVNy2JQcBQw77sMFL6T0rPMAsGbEeT9SGabO7/mHdJ7RixnlvrQUmx9ux6z9rE1RYi7RaFng+cPLgQMcZc56OYkZK4DeMkAFSxZCrV2pdlJJpneUVGE1uoAwfFP06JCZi9kwovou9OF3yI/X+4pjc6/oqKyxXIyCaHg7TPeC3dlFZyPagoFxjZNBDE63XKjzwgO133+JkKMou3911HG+p2veskdbkBXCzDJXu88HHVwBylvmkCQRojMfFuoSnJG323hFkuIjbe43+Eb5viR7C6mzh/Dkblrq7Qdsa+cXHHnP7PDilUXH96ZeNN1lC70vDCAgCgB5rOWVRLNsvQGsJz/
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: c3ibghjL2hDTOffueU0ABIVH+31hmFECPB9JEAbzzUbN4IIleTSl8ZGYul+rWJQM5eCkk1JfUgXfVJHdXPM42H+0seYE9fKuQjeY5BiwzK2DNElPqrPcjEWdf5ccCErYA7eNMfEVcp0wXX0vjuAfNG2JwAqgboKq7N1vhQ+xSfbrTtQGoF90GmCdwr+0GSP1b9vJzFZLv7f5VVwb7+o6sfgtGixT4hY1ndek0/mNbIsVMc/idNcQFRhl2itexX/hgQGDcpKJLdvM05YXYetpNPzOZ4kXszMLvQ97TgnN8TheNpsnSBcVwZ6MkjcwzC9tg7k6/JH5n/jcqC4xRV0jtVUm/K48o2pgDSgRaJfMUK6LKGmtGmRGL0rCld5oXp2cymV6oGL8PkSkV4LcNpnvEU6qo5JhcJSeLrgAVmGOavueCeqg25U3qS9laMnRLpq2lARgAcu6g2nUPp32qdX6HsJ86lOX99DGqDptOBzObSO5CGbwbk4CpEWyqOsdOWDFYZ7kMUYvthA9fbH48qkMUuK4z5KUgrcFJPFuHkv9I9fQTeYLoj35YD4UeYP3gWT6EC5PMuRB3JVJNuXOC0cJ9NEhz7g/4zM7iZyFUzEbgvBhZabLN0SEpa04d8lT9Q2AlMT++f+g4AgtwB8dxIQBrX2vz+D29pPHbhTP+q1xAECv6eRJI4OqPkroCxf+oTWALQyAdXVEAeGA7Xu4cj1I7lzti/UyBKiHjItvJ1I2RFXN7LME7t87gKgwg+oinm9Fy9Yr2pNQRyAcMqmFRG0NSSLdPRT/mjVEOxT0/k0fyCUWPQiqApnEaFXGHb/0GJ40OEPgB3lSQ7tLKUUDispL1DmMBHBYHhytllcozLUgLzP2uSVxSKBfAw7lKT9V66vOQMos2ygmkZsZOOQ+eZiM6fLAEkczhaFc69fngLsy+VOi/+b9jATrhlXMckUOlZVCljJzBbcz9+6T14udMCRmZa2ci1wiGUXRIY69rvas2+FMscnA8+zqM6BIuEXryUTXAoiop4axzwoc35sXAPjxKNpdOQJyEC49Hod+OY53vKxSALXFh3iuibAjkyIxWLRUW+gci0aTwy3fwtk8sT9jcPKII1tcFggP8uEIHeaxnsiQ/1PY6w17jst1ey8csKZIGFq3DaFs95Qrrps1Rf8oVujA7QHJITlJVZ9yTdjVwPR9NSIoYUC12axFj1Rxyf587KMN0z2ssluEuepjlf4PH4mhY1x97iqL8aFddp0Ndhsn3oGaOnOcLRvazqdwG9DORALj0LlUPlAGj93mM4tYi/XBk/KSueXrz/6Ve7/aFjlsqxDqBlhjQ++5u6gLJakc0rM3FYH4IkDpg0QMXEwoq4KHRVSv10UtgL5hnjDmA2MgT7VveqbTN264axEQk9GNBx2FEGGwoKJgYYpYiY9FD6qwM96VBpgff5UW4RbDa1CQmaEnFovl3Pc7IjSXvqc9MnxfBaOPWvx+s/3tCXH1yg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Shared-State+Concurrency+/+Threads+Task
+status: Unchecked
+record: -1

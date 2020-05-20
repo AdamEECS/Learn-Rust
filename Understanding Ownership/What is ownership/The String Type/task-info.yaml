@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DBP002tP8sjAR4VkCpEZ3H7XffY+3PRjpyXS5Rx0CooxkR4Jiw0KWySivtd12P2R4g6maEc7MoHlB8o0QKizk888StJfZwlE1v2iAKz4gu4E/wyLX+7lKHYn9UV2ho+G5CzUxMVXyEffvXcXJI1u/PcwI8BfpLZV0PCOhqD/2ZKW72x1qI93FeV6TPcZR2PPSlBaDYOL4x7gIEZeqL0U01lhJ73gvGdHkhuUHnulOhIT
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfCzVcwxhJnSvb9QVE9kxncEKJkEkRxl0dK15r9BL0jJRpYnR20ZbDr2fnTM9OYDpj7f1Q14hb/e0AMoyHH/VDFA=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+The+String+Type
+status: Solved
+record: -1
+post_submission_on_open: true

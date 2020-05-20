@@ -1,0 +1,42 @@
+type: output
+custom_name: "Task: Find a Sum"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: RfUgvrzynMyWbhbbH9Vb5w==
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 42
+    length: 12
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 42
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: KYbu5T9bs/cneb2aNJ0rxkcFtGAo3c5lTQJi9s58ztM=
+  - offset: 65
+    length: 9
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 63
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: gFfEf2FAm/djfd3JA1Bvzg==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DAaeB5uMY8MFijBeFYBkNPvgDQjBERCcmSsSYfkhOo3FqDDUFs+CpPoDRogDSIsp+2h/BuuxTJFVyzfTtKVRpg2lVTI5lh6C4SU/hgHyMUmMRI8BmwssVoLAQHpjlqQ4meZc99MfCifBHGZeAvFpdgM=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJeooa9T4bri0lY182NDGb8+K6yU4hoF2e8wMj7/yZZVhWiNYNyeamBKT9mAcsJF6opdHcn4JgsOregFy2YZuIg=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Find+a+sum
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 06:25:52 UTC"
+record: -1

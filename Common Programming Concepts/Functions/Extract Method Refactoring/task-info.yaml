@@ -1,0 +1,37 @@
+type: ide
+custom_name: "Task: Extract Method Refactoring"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 232
+    placeholder_text: |-
+      fn main() {
+          let year1993 = 1993;
+          println!("{}: 10 years ago was {}", year1993, year1993 - 10);
+
+          let year2021 = 2021;
+          println!("{}: 10 years ago was {}", year2021, year2021 - 10);
+      }
+    initial_state:
+      length: 196
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: sl3O59VlDkdl7u9JaiP8DJMHJ0iZM7BngxGrQupgxpTr1IekC3WbmWPeseholKh/SpOT/l0xW9psFqxmLlKWVmegBvWZHIVdaEilqf3aLtIDo2NCgLeqLo3+pEtWr31Hjrjsj8hyCrBj2Ekjo6cqWi8b2Rr2taFOp3wLMZHZJTJt/c8tlfOcV7r4JlF0qIYny+9uNeZEbJPnUAtlxETa6dExb7NPyjWXsMH7iAQsheL8hTV2Q9slk2A6jmduKtZdMt1HkcwhROCvo6ElEbITRfkYJ5U84Bk66HdahqneeOAo3uqiyDdeXpTQHblqXhXWeuoyoSM1kyVtMtSg0cPqXA==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DJMHJ0iZM7BngxGrQupgxpQrKgCUyZOz5U7c6TdYvl3tG3vcK9HGjTe0Nm3Rn36KtBcodeN1f99W4NsjE/iZX6j+X8wld6bRJSlS+KdhYYzOCz6w0HFsoMZK3EDbGorlctZ3ibdZ9682cglq+CR4rwSG6zAswoxUx2pXmaHs/ioOb/mVSdlT0dxcdveLclmLDfgExgnG8YJy0i0nrbohKWs47jfPQwOOeTawXfA62lRCHYylwB0ZH2xVpsSRa347rQ==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMjEaOqmVkILhtKxsaHkiMexGWFVinIFe0LMnY2w+Fn05bKEbm4hzKaLnDmlO25GEHJCtX16aJ3XODSw75fmhkE=
+  learner_created: false
+- name: refactoring.png
+  visible: false
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Extract+Method+Refactoring
+status: Solved
+feedback:
+  time: "Mon, 20 Mar 2023 03:31:30 UTC"
+record: -1

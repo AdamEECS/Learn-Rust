@@ -1,0 +1,33 @@
+type: edu
+custom_name: "Task: Multiple Errors"
+files:
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 153
+    length: 13
+    placeholder_text: ParseIntError
+    initial_state:
+      length: 13
+      offset: 153
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: fnfVSDgRkozm0YSh1yNIjQ==
+  encrypted_text: pJbJDduYJphDfUgcrG1nswroNDHxDdmyWHfosdN36ONe2xENjc0QuQxS0qin98nmK75G6W2Uf/DlBR1fQp/RjsV2uqR/9xlJPWCB+UOPs+xdAtua1xT3Ubl4rzrAV8Gt2X1XMVnutEbC2YnhnIOKJ/SK0aruRHD5xDnfgAHQPCXe76xZdmBhmxtfoPLDqUG0YLIF7LQBbr2S7+lnTmrIZ3Z7ifnrj5BAT3+H1j2WOf0nJsxPLZGqNvvyZIeoUi3NO0ABXmTdbM73sD/oNIn6zbuJbZLZioY5SAD7vlC/ebJIIEiJuaYCkCpEsyEskO8uTBZGCgUCyFtUZRnSbhjLmNyJa2gs5wjaSdj+1eokth4bn9uti4rpLJHoGsHjDeN5cRsuLjXxOwaeZ//tU9NslEHQUs9P4MnbKOcjA16BkFsagqbNZlfWV+n3YLOXu3JU
+  learner_created: false
+- name: src/lib.rs
+  visible: true
+  encrypted_text: 8Fwuv1lLS6QAaPdwYfGMzohmkjCFSZhYxdKRvzRaI1BWyicrJnw/sZ3IDj/BhgZdxmfeVwP/n4B2anCnf82FPBIuRsfe2YD8JIKn16OH/HGRsX1JJnvDZynEQswNsJYWw/VPWnHoDwAVFdDvLa6AtTRurRBFk79HF9+zWoespMDbDw8VNsoWWrZzS2DmPv8Up8M4WNEGMNF/9PhautEU7bSQE/PQ4QPQESSfVWt8BuUyvENwDQ8aFfw8uIUn2JQx/45lAThBc5nr6JhOWAHbDiBO6Es7VyQEQ7r2d41nCjTcAI0Z2s1cE/AA/xC+EOOd0urQrcQypeaRzDvShAIfw3C8B2x5xA2VpjU7uS+rZGvU7mHnr5YajaaNSP6kUXK6m5VViY51MuqSThsdZM9pWw95V8LhjrU7x/xeKgejO64fotoz8qQwHI2KIz+HlPaN5yIqbbOQUfqV7H5Nw0VJCpy9DxxUr1Yq64ZrZgQwSWMfbnbqezVLlvq7jQhNqkW5JVSy7WdC8rplbhBSPWnSBqRIf/HeA3A/Is3s/3cdXqJcMSsGEwWq0LkCe7b/svUr1KjC7ppRF7PUKuivNGm//5yj9XApUpXOP31UVso1MgeiCaiiNMLKVknAo9/mYQSriK6gcZaMzqJAiKejKySXqfRzFyNF+coRyBIy3hITnqz3puQ4RixIfScMunii2mfamBFVtr8g9OR5cgMY3UX+wXocrekzJNT4onYSChTwiUdQWi9belnZVYsMxQj7DDOyl9WmjqFCwUtc7etdTVYAgwD8HfVsbGRs5yMt8J712t5We9gugHpv+8Mr9o462BUna8LeqJcIWHD8aZGsTABSH+aHAIB5KCxzwOFK6sUNHMCJoMKmGP48yvzKVlnAyfQHkmokBFei6MKdXKr4rkeQm2m58g0+73K/jL4jDoJr+F33ZNNf6Og4B2bqtZurzbFMoa1bCTCq1hp79uWexSaOJ6LG+a7ejzIouD9x/HfqAASRPDR+ORP8Wi2ZdnojRsZJE4SX9BqF3AkHO8AIStAw1CVDiNCVTR7HzzeqcWpNuqke48F8XVcb8c/zZ6xHtZI6DPP0ixzdaQgMnKSTWE7XsaDXU3sk6abiB4JwWyZo9+kUjFwVTePNxmSJCAsX0hS/CpP7LX4dJITNBRWIdcbWuhY8lACgEpMSg8TMp1woym3bIY1S1OEInTUxbw1vfpM0Hnm3ZrlUIhQ1dQvliCl/FK9Ag1M0N+eu2rWMAN//FfWysXKrHOb9joMSbItNthml
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNi5++QFb80OIhuZETQFSC83qDeKTXdhCZniDltE2YwgKC+HeAT3U0qH3ipSGxIArQ==
+  learner_created: false
+- name: tests/tests.rs
+  visible: false
+  encrypted_text: YNdyBIXzKKfSo2xID4KPl9alAxvBsXEuZX6RdeiN7PwLex5fWaZ2h5F3PhVwNgklSicx0OFp1T9hYNdlPFqrtEwiELUGCF3iJLHLnyab0zyIhj2IUN8dDDeySQnQ4T8V0M4U9eryQrQnEclBpfkK+A==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Error+Handling+/+Errors+Primer+/+Multiple+Errors
+status: Unchecked
+record: -1

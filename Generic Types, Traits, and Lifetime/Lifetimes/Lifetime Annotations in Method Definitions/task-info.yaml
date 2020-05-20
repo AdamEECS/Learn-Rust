@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 4ZjQdj7AHDtkQjP45W96RJ28ent9EEC10Lv94VSCSetC6BIhXyRARU4ZMMPXqoHn2dfa4jB5NltAraa5KwnofNE1S/7c4MHVfPoMHx0oAh84wn4uTk/W2LnqSoGcAZWmRYOSosAtJK9kLOsH0qFs6JrzA4MhWNqmGFMq5WMEG3IwILeCWxsrXih7k1+ywaLPrkPAH+DlFDAvGOUzMJqEXjcPZ3Xc2ZrEry561c1B137CU9BphCjTgIJeQtrbtdDccrCimCYoDlqMvvqZWxK/DVO2G8k/LuzPq/PhXm3E+7WLaJQGEKdCzW9YMVsGkP6rAcRtbn6OuazpCpjqcQbjaNe9U2bN/SYk99gK4EmlY3AaTHAwEdmWpm24C5EQuBnUD1PianIbiEWd4ouLxZqKVoOFnyDFULk3mx3t9TqFKu4PPHoF7la5dwGW/qP70btYaF0MOmFDJozEVGeEcvpq+sf2UhVjIq+ON6GqL7s8Kixs+rnmiviA5M5gqnR/Bf4M2YUm80fivutS4F55NxlboXd0Bx3LB8+2ximxGV6n3ijj6EkQhHgiEkM+BdS9ZPNKmwTgiQ6YIUNp9SC++VLXfkyZQf2ZaY5p7uDge4yE/fB4/g/B3Lq3LD2wyr58IzAK
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNWVXJCe2bApVvQT28h21WG0uJPrPCRuJQ5P8t6VdsurkAoOmvRsFNuPdt9zHuQ8mklpjOmy/SdUAwe2fwjwOz6lQyXXNzRINsU/R96M0ShSy46wr49NUOR5Wqt2klVabg==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Lifetime+Annotations+in+Method+Definitions
+status: Unchecked
+record: -1
+post_submission_on_open: true

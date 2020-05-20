@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DH3phBy2HaCNSh1OTVUZJfC2n1+2FWc6I+HZo5c5TRY/HzIPcGAyXPjGqQ9uW3VS481HJk/arZ9miBe20O/yMn9rmWO4eSRtiCothxzbxe0qBhNRxmlv8Y+9j5c/5t7hTiD6xY6LAOvNbTKr/cg9KrgXMd4VXdUf4n9Or7DGWCs6brPdvspwVKwWaP6b1NjaGS8+lsIUrp4hwhTfjhvx4Cw=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPGW3QrO/0n5J3BXaSaYvEnkg+DkivgC9iS5VigCsFwwPUS+EwgJvWT4H8yWxD2te/sFyB8XjCl7lG2K683I6Xk=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+Iterating+Over+Strings
+status: Unchecked
+record: -1
+post_submission_on_open: true

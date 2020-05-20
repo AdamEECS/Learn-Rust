@@ -1,0 +1,32 @@
+type: output
+custom_name: "Task: Summer Slice"
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: sX47N9alCP1sB1jLTa1/O6gTK4a5nuGkRutbBYsaC+4=
+  learner_created: false
+- name: src/main.rs
+  visible: true
+  placeholders:
+  - offset: 199
+    length: 15
+    placeholder_text: months
+    initial_state:
+      length: 6
+      offset: 199
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 67ShoB7s3l6FEuFccLvbTw==
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DMGBJgZKiauC+HllE7NGseyaod7TefOY/dfm19x5TLgqmK7NKe9FhYumSsvBdNRS9TCyTRTS5Y4pf5cKX1RgmijdflIkMyDSWI19XukRnMFEs/pHRJORor2rrzXPVZcAC6z0xvdLMq+IegWraqCpF99P0dphwf3BKJ/0J2KxNjZ+iF7NluOnFt55U3TjHKj9EiY4AyoBq5Qu4/iUX6lrLzDl/yHDUkINZL3Fb3TaAylzRMxOUrNinHIuy9ikDIU8Y6nwe5Oyf8c7eKf+xeyedac=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfM1QzU3HzihTJviezeVWxeXWP6BmQmDpiDLjj+YVfVj4lTdqghRv7GcNz9ZR3WR06qs6r4HC4PX1fyOM/IigaRg=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Summer+Slice
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 20 Mar 2023 09:38:28 UTC"
+record: -1

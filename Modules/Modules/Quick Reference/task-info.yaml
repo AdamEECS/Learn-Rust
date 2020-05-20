@@ -1,0 +1,22 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ErV9ORL8F2UM8ZuGsNGwFnx9RWAYE+gCTa7mcEIll1nBrORvEangf7Z6FYszkO3HBt/OsQGSiu8Jy0KeEslno5m285Z9hA0pPL3Lf2Qspq/FzUCklsw+hgl4f/a4322yL6/Vo1fxuCVLiQI/7zEBHLhs2tzSxRTNLdOC/Aj/oNJkVO2JAEtFFChhFv/6/VWIAGJSgqHSrTypNoILmK4k5A==
+  learner_created: false
+- name: Cargo.toml
+  visible: true
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMQydvl/rZ6+kkUvVIZSXWejlWT5pwzg4vGt7D/eM40ducClp1ywqKf7dSL32oC/6A==
+  learner_created: false
+- name: src/garden.rs
+  visible: true
+  encrypted_text: RWijE/Ndewdg0OPARNJDof9cC1yL1ealHUBabbHDueU=
+  learner_created: false
+- name: src/garden/vegetables.rs
+  visible: true
+  encrypted_text: cb+uE+5fhbFqKKQk39C4xJCVFeZbllgpeFP/nzkSG6Ew7nSTa9nhRj0uzDxk3nAD
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Quick+Reference
+status: Unchecked
+record: -1
+post_submission_on_open: true

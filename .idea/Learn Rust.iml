@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Accessing Values in a Hash Map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Build Scores Table/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Build Scores Table/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Creating a New Hash Map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Fruits Delivery/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Fruits Delivery/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Hash Maps and Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/More Fruits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/More Fruits/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Hashmaps/Updating a Hash Map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Check Clippy for Option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Check More Clippy Suggestions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Optional Value/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Optional Value/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Use Option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Options/Use Option/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Creating a New String/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Indexing into Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Iterating Over Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Process Some Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Process Some Strings/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Return a String/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Return a String/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Slicing Strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/String Slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/String Slice/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/String Transformer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/String Transformer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Strings and strs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Strings and strs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Strings/Updating a String/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Count Typed Cells/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Count Typed Cells/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Create a Vector on Your Own/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Create a Vector on Your Own/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Creating a New Vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Dropping a Vector Drops Its Elements/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Iterating over the Values in a Vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Loop Over a Vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Loop Over a Vector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Reading Elements of Vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Reference vs push/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Updating a Vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Collections/Vectors/Using an Enum to Store Multiple Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Boolean Test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Boolean Test/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Booleans/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Characters Test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Characters Test/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Characters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Floating-Point Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Integer Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Numeric Operations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Numeric Test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Numeric Test/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Basic Data Types/Use Clippy as External Linter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/Add Conditions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/Add Conditions/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/If Task/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/If Task/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/Managing Conditions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/Using if in a let Statement/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Conditions/else if/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Defining a Function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Defining a Function/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Extract Method Refactoring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Function Parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Functions with Return Values/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Passing an Argument/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Passing an Argument/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Return Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Return Type/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Return a Value/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Return a Value/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Statements and Expressions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Type Annotation of a Parameter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Functions/Type Annotation of a Parameter/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Conditional Loops with while/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Find a sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Find a sum/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Looping Through an Array with for/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Looping through Ranges/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Print Months/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Print Months/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Repetitions/Repetition with Loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Create an Array/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Create an Array/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Destructure a Tuple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Destructure a Tuple/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/The Array Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/The Tuple Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Tuple Index/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Tuples and Arrays/Tuple Index/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables, Functions, and Conditions Test/Calculate Price/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables, Functions, and Conditions Test/Calculate Price/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Changing Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Changing Type/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Constant Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Constant Type/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Constants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Introduce Variable Refactoring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Mutable Variable Binding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Mutable Variable Binding/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/New Variable Binding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/New Variable Binding/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Shadowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Value/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Value/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Variable Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Variable Type/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Common Programming Concepts/Variables/Variables and Mutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/A Shortcut for Propagating Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Matching Result 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Matching Result 2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Matching Result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Matching Result/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Matching on Different Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Propagating Errors Limitations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Propagating Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Recoverable Errors with Result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Returning Result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Returning Result/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Shortcuts for Panic on Error - unwrap and expect/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Unrecoverable Errors with panic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Error Handling/Using a panic Backtrace/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Advanced Errors 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Advanced Errors 2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Advanced Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Advanced Errors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Custom Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Custom Errors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Multiple Errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Multiple Errors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Positive Nonzero Integer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Error Handling/Errors Primer/Positive Nonzero Integer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Arc/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Atomic Reference Counting with Arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Multiple Ownership with Multiple Threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Sharing a Mutex Between Multiple Threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Similarities Between RefCell-Rc and Mutex-Arc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/The API of Mutex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Threads Task/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Threads Task/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Shared-State Concurrency/Using Mutexes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Channels and Ownership Transference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Creating Multiple Producers by Cloning the Transmitter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Creating a Channel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Receiving Values/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Sending Multiple Values and Seeing the Receiver Waiting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Sending Values/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Sum All Numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Message Passing to Transfer Data Between Threads/Sum All Numbers/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Creating a New Thread with spawn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Join All Handles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Join All Handles/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Using move Closures with Threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fearless Concurrency/Using Threads to Run Code Simultaneously/Waiting for All Threads to Finish Using join Handles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Generics in Structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Generics in Structs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Generics in Vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Generics in Vec/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/In Enum Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/In Function Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/In Method Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/In Struct Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Mixing Generic Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Generic Data Types/Performance of Code Using Generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Intro/Code without Duplications/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Intro/Computing the Largest Number/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Intro/Duplicated Code Fragments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Intro/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Intro/Removing Duplication by Refactorings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Generic Lifetimes in Functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Generic Type Parameters, Trait Bounds, and Lifetimes Together/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Annotation Syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Annotations in Function Signatures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Annotations in Method Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Annotations in Struct Definitions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Elision/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetime Going Out of Scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetimes for Structs with References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Lifetimes for Structs with References/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Pattern Binding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Pattern Binding/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Preventing Dangling References with Lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Specify Lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Specify Lifetimes/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/The Borrow Checker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/The Static Lifetime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Thinking in Terms of Lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Unify Lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Lifetimes/Unify Lifetimes/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Calling Methods Without Default Implementations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Combine Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Combine Traits/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Compare Licenses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Compare Licenses/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Default Implementations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Defining a Trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Fixing the largest Function with Trait Bounds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Implementing a Trait on a Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/License It/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/License It/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Returning Types that Implement Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/String Trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/String Trait/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Trait Bound Syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Trait Bound Syntax/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Traits as Parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Using Trait Bounds to Conditionally Implement Methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Vec Trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generic Types, Traits, and Lifetime/Traits/Vec Trait/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/About/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Course View/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Editor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/External Linter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Hello World/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Hello World/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Navigating Around/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction/Getting started/Task Description/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Calling a Macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Calling a Macro/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Declarative Macros with macro_rules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Declaring a Macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Declaring a Macro/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Implement a Macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Implement a Macro/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Macro Arms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Macro Arms/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Outside of Module/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Declarative Macros/Outside of Module/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Intro/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Intro/The Difference Between Macros and Functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/Attribute-like macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/Function-like macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/How to Write a Custom derive Macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/Procedural Macros for Generating Code from Attributes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/hello_macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Macros/Procedural Macros/hello_macro_derive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Bringing Paths into Scope with the use Keyword/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Defining Modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Eating Some Snacks/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Eating Some Snacks/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Exposing Paths with the pub Keyword/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Home Alone at Day X/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Home Alone at Day X/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Making Structs and Enums Public/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Making a sausage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Making a sausage/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Paths for Referring to an Item in the Module Tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Providing New Names with the as Keyword/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Quick Reference/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Re-exporting Names with pub use/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Separating Modules into Different Files/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Starting Relative Paths with super/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/The Glob Operator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Time To Check Time/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Time To Check Time/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Using External Packages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Modules/Modules/Using Nested Paths to Clean Up Large use Lists/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Capturing References or Moving Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Capturing the Environment with Closures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Closure Type Inference and Annotation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Example sort_by_key/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Filter a sequence with a closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Filter a sequence with a closure/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/Moving Captured Values Out of the Closure and the Fn Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Closures/unwrap_or_else/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Capitalize first/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Capitalize first/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Count Progress/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Count Progress/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Factorial/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Iterable Collection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Iterable Collection/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Iterator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Iterator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Loop Over Vector With Iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Loop Over Vector With Iterators/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Methods that Consume the Iterator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Methods that Produce Other Iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Processing a Series of Items with Iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/The Iterator Trait and the next Method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Iterators/Using Closures that Capture Their Environment/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Box Task/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Box Task/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Switch the Lamp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Switch the Lamp/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Use Cow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Use Rc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Use Rc/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Workers in the Engine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Smart Pointers/Workers in the Engine/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/AsRef and AsMut/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/AsRef and AsMut/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/From Into/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/From Into/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/FromStr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/FromStr/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/Try From Into/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/Try From Into/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/Using As/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Standard Library Types/Type Conversions/Using As/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Defining an Enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Deliver Complex Messages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Deliver Complex Messages/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Deliver Messages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Deliver Messages/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Enum Values with Data/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Enum Values with Different Data/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Enums with Data and Methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Enums/The Option Enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Catch-all Patterns and the _ Placeholder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/If Let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Implement Match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Implement Match/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Matches Are Exhaustive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Matching with Option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Patterns that Bind to Values/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Pattern Matching/The Match Operator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Associated Functions and Multiple impl Blocks/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Defining Methods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Methods with More Parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Sending Packages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Sending Packages/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs with Methods/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Adding Useful Functionality with Derived Traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Creating Instances From Other Instances/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Dealing with Rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Defining and Initiating Structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Ownership of Struct Data/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Play with Color Structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Play with Color Structs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Refactoring with Structs, Adding More Meaning/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Refactoring with Tuples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Struct Update/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Struct Update/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Tuple Structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structs, Methods, Enums, and Pattern Matching/Structs/Using the Field Init Shorthand/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Borrowing Values with References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Dangling References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Exclamations Strike Back/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Exclamations Strike Back/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Move, Borrow, Mutate, or What/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Move, Borrow, Mutate, or What/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Mutable References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Print Months Once Again/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Print Months Once Again/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Reference Order/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Reference Order/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Restriction of Mutable References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/Scopes of References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/The Last Revenge of Exclamations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/The Last Revenge of Exclamations/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/References and Borrowing/The Rules of References/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Nice Slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Nice Slice/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Other Slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/String Literals Are Slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/String Slices as Parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/String Slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Summer Slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Summer Slice/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Trim a String/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Trim a String/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/The Slice Type/Understanding Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Build String from Literals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Build String from Literals/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Clone and Copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Explore Scopes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Explore Scopes/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations 2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations with Mutable Argument/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations with Mutable Argument/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations without Arguments/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations without Arguments/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/More Exclamations/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Moving Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Ownership and Functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Return Values and Scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/The String Type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Tuples, Clone or Copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Tuples, Clone or Copy/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Variable Scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Who Owns the One Ring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Understanding Ownership/What is ownership/Who Owns the One Ring/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Adding Custom Failure Messages/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Assert/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Assert/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Assert_Eq/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Assert_Eq/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Checking Results with the assert Macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Checking for Panics with should_panic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Testing Equality with the assert_eq and assert_ne Macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Testing a Function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Testing a Function/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/The Anatomy of a Test Function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/How to Write Tests/Using Result in Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Integration Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Integration Tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Running Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Submodules in Integration Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Submodules in Integration Tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Summary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Test Organization/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Times Two Tests/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Times Two Tests/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Writing Automated Tests/Running and Organizing Tests/Unit Tests/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

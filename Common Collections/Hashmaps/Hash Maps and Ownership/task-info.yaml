@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63ltM+bx6pFS9xLr5aL/RRkKfxZVu8bMBYpMxO7svyi2LdbD18LhtPJwtOUOEcWIW9ljhtXziz6FuoQiVcJAf/Vy2iMcNZTYdColPVn5KfkPl+EWCVOqG3vftixZheQM5NYCJcjQ0RSriEAi+7TI+SKWZpQlQEfdvr5IXEdEZzi2B51/5XFtXXcARqjldVGi6xcdmZUzR1mL4gqDEY2FyC6JafuXjJOVNZ41fUNjPpEBa8I6YQdto8rbuVb5uacLuM8o04e6LPxWXDzzOt1mlEympW66K0Y12rBpiIOWKJTNid0TcRnBumhPk2JiiGugr3QLCFuKkJYepA2wO66Kkr0k0YDohMnqCmHOMIC+7NOFBhW9o8zAMXuUEs3XpKYetPRibscXTaX5vpI5kbKxY6WSr6szP1M+vjhjSnE3mtlst+9lXS1MrJeZDMcxQjkEYhJyzQ0OB/nYZy85KukWjI+SkQIXnpXmb/5Ss2+lPxyfM/g==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOLY7NMdTRVCbYnYevel3oymoN8IkJyjdGQAvUgQ1LUwmLZJk3ZLtGVeL7iTL9spE24TMrensVJxOSXzIbTYq9I=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Hashmaps+/+Hash+Maps+and+Ownership
+status: Unchecked
+record: -1
+post_submission_on_open: true

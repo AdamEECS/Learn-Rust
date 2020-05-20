@@ -1,0 +1,14 @@
+type: ide
+custom_name: "Task: Check More Clippy Suggestions"
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: jvAgeCCAVp3/3KO40ik+9qG0XIUnYn4fmDe4tMINWE8wNEdvsCCh0T1UdorxU9sSQYiQazTJMS4xW5ICWLGCQelrBSnvxlc2rxSPimCiBMQ24JVOKHPCvMhGne+BXtphYWMROBlHAID56x5pvAzvLG0EjrViTVBcsiHFZ/mcpdjCe5ROsI4ch9MRLdNQtRAtufN3vOlBi5k30Q9p+6aCOEARhN3ZM6YVf4RhjjXssX/g19S0IncG7sVAteIeDEKtHvbHyQyPv+qRA2m+nWi+HnjNvnGXYfPW9vnuJwNwxwadAciQWLosISSby6aZXGjqxUiR9pDhAOBoKQRxH2QGSpWFVR5KZgGOKB2rZ7RRmDcL5dOn9SGulsNYs3Jt4Hf3nnvEf3wDwyE/wcKrReK74XmClw+baRnL5lw+Jpv0UJkZ5zpd201yekxXp7pKOREFeUawBZ/RvklvGWRI5QwUdIDvqbxQ2I6f/WGLuTmNS9yaialoLdAWC/QIM9qZZHAFwbGzQhWWhk7BZYi319Rb7Ri0Ki0SW7dQ7lzBoMjXiMMz7FxsanuosvZ7Za9UA+Fqf7PF4QAXXq84a+ROEruITW05+OJGnJe1sSj6q6sx06sxSFmZlbvjZPji5twzChHaVWTpRm1VcuG7fK5sOB5or195R1MlP2BtQJmqbmTJf1C6ExH9bmMEckWMt3ajqPzCH42+VomXvT93D9lzqEh7pYA2ldhd1EiA9qSmNxZ1J4Jm7Rl/aWyba0vMEpAM9HH9K3J6cQzzilgoeKL9gSjgfA==
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfG6Z/45Tl6ZX9spbUExDsEX4rN/baLM0Dr4EEza4/sQAyQxgY8cJAOWBIlTvG0T9T75TKg/lAIK6/BVCAobv5wHpEwK86EYCD4ikPTXVEQ/n
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Options+/+Check+More+Clippy+Suggestions
+status: Unchecked
+record: -1

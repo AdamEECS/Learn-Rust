@@ -1,0 +1,15 @@
+type: theory
+custom_name: The API of Mutex<T>
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: 6yLPqZoQUmeGUh1XeyVonUZqx71ljGcBndjZ7ZRfnemX6Psp/n/zPyODjpJotAwf/xmYZKHJzPqANar0xcPbl/8CjYkluWbyNWPyNmPxiVyHLRY4pWV9OCerL2FgQYkYfnqOMDvESlLdAC8Jxn+e+muCctxqVmNIF/sXvN6bm4zCyjvNHCzyB9DzwK6PjskUuWz+Enick/AIrv4ERge7T7rOir5hU/F20+QVaNIZla4=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFTwJzf9hj/4cVJrsGg6j0VuNoVFfu9R4MheSwbfJ5Bmkgh8eJc5cCa2Xh7Djkrjn0CR3xGr9fOfTUC7C9KoNoE=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Shared-State+Concurrency+/+The+API+of+Mutex
+status: Unchecked
+record: -1
+post_submission_on_open: true

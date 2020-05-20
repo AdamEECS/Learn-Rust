@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DDVe+TU2JqFc8bgACg3fwLvM4IWMOaxeY78MAMJuHC5SiVQz7rNT0zf3ASQk+NKXCmpGN0FCkqL02XfUcdoHAK6hdaxdVmLX6Y+lnpVfzT/sWUe9BsrVRTUP/pHx3tX3gZsxu+ZV1EiFSouWlgGN3lY=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMKrWGoUYU73s+FgT9rtSbnDl25qe5ZASB7fq+au0onka90jxWS7ALYgFJld0NLwJf4t8Ze9HfPHlxYVMXK7ouzVJYyXXKouZgGB1W4mxy79
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Generic+Data+Types+/+Performance+of+Code+Using+Generics
+status: Unchecked
+record: -1
+post_submission_on_open: true

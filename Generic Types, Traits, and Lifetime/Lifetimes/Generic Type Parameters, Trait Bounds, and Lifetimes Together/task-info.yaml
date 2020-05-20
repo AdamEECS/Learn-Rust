@@ -1,0 +1,15 @@
+type: theory
+custom_name: "Generic Type Parameters, Trait Bounds, and Lifetimes Together "
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: Pp0Ne+LkPkUs/Cr0L5nyi7g+oFh0eCkUDMS9aU3/rLo8hHZJEAITT5HKND5NwQD4f+4zdxXNudfzf145hXiXnoaN2wk7kLcXGSACiJTeZRcxcLWKMGE7wruJR7v/Hw0k5j/dVVUtswajEg8soxRsjDmKCxDHpZzuz3muUKfx5LpqlXEh9nT6ENfy8WbDpO3ZDfhxDJV5FXRdu6EOZSVT39H+jUSisvXtOgNpoyyd2l0ZedqU6GVB5ogRC1jf28d8vSV1r6yad9AekuHB64CfRUBQAaipb0G3RHw6vJK7KY/56b1EHIIIx8QwSB30TrjnaAUU3rG4/LUcODx5p66h1JY3hXqswj7YY7U9+6FdR2pUDO2Z9OdEDlMrS7VdxxMH7yUZsvPJni2Abh/i41H8qfcjpVM6aUkeBxBjPIJPI2I=
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfMiEAev2hOUuH6LHTbq9/E9OKUH6I+QGA4LxrUADW2XAwk4cQuKzNYKUJw60AXnUW+HiL7Io/Q3nEfNdl7SIy0EpSXUNXDWegH3lnvH6gtOOOTynrf0onXRErYWLczT7q1wxWofqRBkoMWQNSBwRzLY=
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Generic+Types+Traits+and+Lifetime+/+Lifetimes+/+Generic+Type+Parameters+Trait+Bounds+and+Lifetimes+Together
+status: Unchecked
+record: -1
+post_submission_on_open: true

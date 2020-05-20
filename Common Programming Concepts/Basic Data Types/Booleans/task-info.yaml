@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: sl3O59VlDkdl7u9JaiP8DNumc+VA2HyaqiK+zUpNEgyJqy7dH0kWXQkorW2+yd8sCs/XdnQDedrta2Sqc/kCo09nM0DPeEX/tycpC9qAJrNVI7vnBv/lZ+LHIvjRWigr
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfFj+CG+hMXTBIun7Es8liMWPXp1+DmeEc7dG5wpE9ISKIjhtZbA+9m8RwOvHpvQKmA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Booleans
+status: Solved
+record: -1
+post_submission_on_open: true

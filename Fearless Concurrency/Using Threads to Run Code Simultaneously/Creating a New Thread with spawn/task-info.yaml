@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/main.rs
+  visible: true
+  encrypted_text: eysUCRV7thCIZLxEdNCV7x4CDbwyaJQzKlEkTXKV+OaA+R6qHrtt1Yjji7OmKvkPQVa28/x1tC5D1tLXzL0ab4GqCN02izQn3taqaj4L9A7cI7l+Vy8NoxjSav8O30RDsZJjIsJkLHlsA9S57vlMEm5a4H8WByWh5MUvyAzSY0KQkTON4hOlRxCcmBmgjX+xqDhqdvide+rZ09ay4GqZLhJ4L5A/uZ0+Szhx3clNXYrAgB97rMDQYbwd+3AgF9WCPRBiVMpcKJlbvbLgNQ9jnsHguomsEhUeAOKbCp/6oKCYhxEEIJzV/CWodTC1wHkbmj0jqYp/C15zETC+V/BoV9VWd3b2wC4uEkYfblloFyaNxrFNFLv58mdPJlAEshVS1+tHowz0rFfaWmenN64rlUpZ49aaqII0BaW6eazVaozSpVYX5foZ7j5w0EmLoiDEJoM9Z/Jetlz2ozaZGJoxLckuMdqWyMt3GuVoVCJE2FHIMFo+weZIHxYFhqujQ3kr
+  learner_created: false
+- name: Cargo.toml
+  visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLaqDpDRgbHGWWaupURFBFBokSkfwNn6yrP1hNFZ5TQg1YL638L2cC6iHuUfuXtGpZYr+LMjFtq71yvdJVXWMxjcuQ1wuzTufDEE9qQ/miEv
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Fearless+Concurrency+/+Using+Threads+to+Run+Code+Simultaneously+/+Creating+a+New+Thread+with+spawn
+status: Unchecked
+record: -1
+post_submission_on_open: true
