@@ -19,5 +19,6 @@ fn main() {
         ..user1 // !!! Struct Update Syntax
     };
 
+    println!("{}", user1.username);
     println!("{}", user2.username);
 }

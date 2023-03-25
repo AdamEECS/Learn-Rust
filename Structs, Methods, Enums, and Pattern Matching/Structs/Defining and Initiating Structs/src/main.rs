@@ -28,4 +28,5 @@ fn main() {
                               "anyone".to_string());
 
     println!("{}", user2.username);
+    println!("{}", user1.email);
 }
